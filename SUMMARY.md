@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [top level page](top-level-page.md)
 
 ## test group
 
