@@ -1,4 +1,4 @@
 # top level page
 
-with content
+with content foo
 
