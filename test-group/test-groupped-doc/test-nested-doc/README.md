@@ -6,5 +6,7 @@
 
 {% page-ref page="../../../untitled.md" %}
 
-
+{% hint style="info" %}
+wtf is hint?
+{% endhint %}
 
