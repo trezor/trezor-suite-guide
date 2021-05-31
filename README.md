@@ -1,10 +1,8 @@
----
-description: Let there be documentation...
----
+# Guide for writers
 
-# How to write
+## How to write
 
-Contents of this GitBook are packaged into Suite by a custom script that is based on a few assumptions about structure of the content. This page describes how to maintain the content in a way that doesn't break these asumptions.
+Contents of this GitBook are packaged into Suite by a custom script that is based on a few assumptions about structure of the content.
 
 ### Groups are for locales
 
@@ -29,4 +27,8 @@ Categories are pages that have sub-pages. We do not allow categories to hold con
 As of now only these elements are supported:
 
 ![](.gitbook/assets/117797589-77aebc00-b250-11eb-8d92-31c37bf83803.png)
+
+## How to publish
+
+The contents of this GitBook are packaged with each release of Suite applicaiton. The version is controlled from within Suite's codebase. To propagate your latest changes to the next relase ask Suite dev team to update the GB\_REVISION configuration constant in the suite-data package.
 
