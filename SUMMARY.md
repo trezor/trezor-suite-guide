@@ -1,6 +1,7 @@
 # Table of contents
 
 * [How to write](README.md)
+* [How to publish](how-to-publish.md)
 
 ## en
 
