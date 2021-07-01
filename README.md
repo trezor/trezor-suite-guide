@@ -20,7 +20,7 @@ This means that any non-enlgish page that doesn't have a slug matching slug of s
 
 ### Categories can't hold content
 
-Categories are pages that have sub-pages. We do not allow categories to hold content on their own. Categories only serve to organise the conent which must be put in leaf pages -- that is pages without children.
+**Categories are pages that have sub-pages**. We do not allow categories to hold content on their own. Categories only serve to organise the conent which must be put in leaf pages -- that is pages without children.
 
 ### Not all types of rich content are supported
 
