@@ -9,6 +9,7 @@
   * [Accounts](en/suite-basics/accounts.md)
   * [Receive](en/suite-basics/receive.md)
   * [Send](en/suite-basics/send/README.md)
+    * [Send overview](en/suite-basics/send/send.md)
     * [RBF \(Replace by fee\)](en/suite-basics/send/rbf-replace-by-fee.md)
     * [OP\_RETURN](en/suite-basics/send/op_return.md)
     * [Send RAW](en/suite-basics/send/send-raw.md)
@@ -29,5 +30,4 @@
   * [Custom ETH Token](en/supported-crypto-assets/custom-eth-token.md)
   * [Supported Coins](en/supported-crypto-assets/supported-coins.md)
   * [ETH Tokens](en/supported-crypto-assets/eth-tokens.md)
-* [Troubleshooting](en/troubleshooting.md)
 
