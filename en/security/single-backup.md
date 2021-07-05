@@ -14,15 +14,13 @@ Once the seed has been created and written down, check that you can restore your
 
 In Trezor Suite, your seed can be managed through Device Settings.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc600281-2241-4ea1-affe-65a4a683fb1e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc600281-2241-4ea1-affe-65a4a683fb1e/Untitled.png)
-
 Trezor wallets only store one recovery seed at a time. If your seed is backed up, you can wipe the device to create new recovery seeds.
 
 **To create a backup on a new device**:
 
-1. Click on **Create Backup**.
-2. **Your Trezor will generate a list of words** that represent all of your public and private keys across all of your coins, for all of your accounts, including your passphrase accounts.
-3. **Write down all of the words you see in order and spelled correctly**. Depending on your device and chosen recovery seed this is a list of 12, 18, 20, or 33 words. They must be kept in order to recover your funds if you lose access to your Trezor.
+1. Click on Create Backup.
+2. Your Trezor will generate a list of words that represent all of your public and private keys across all of your coins, for all of your accounts, including your passphrase accounts.
+3. Write down all of the words you see in order and spelled correctly. Depending on your device and chosen recovery seed this is a list of 12, 18, 20, or 33 words. They must be kept in order to recover your funds if you lose access to your Trezor.
 
 Do not store these words digitally. Do not take a picture of them or copy them to another device. To protect your backup, use the recovery seed card from your Trezor box or a steel tool from [Trezor Shop](https://shop.trezor.io/).
 
@@ -37,11 +35,7 @@ To verify your seed is correct you will need your recovery seed with you. The pr
 
 **Standard recovery** uses your Trezor to tell you what word to enter into your computer. Some of these might not be part of your seed. Trezor Suite will suggest words:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19c8f786-8622-4ffb-a24c-d8c4323d81b2/recovery\_seed\_suggest.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19c8f786-8622-4ffb-a24c-d8c4323d81b2/recovery_seed_suggest.png)
-
 **Advanced recovery** keeps words and their order isolated on your device. Click the grid to navigate through words according to the location shown on your Trezor screen.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc71f0de-b9e4-48eb-8821-b939dc89dce0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc71f0de-b9e4-48eb-8821-b939dc89dce0/Untitled.png)
 
 Once you have entered your recovery seed into the device, Trezor Suite will confirm if your recovery seed was correctly entered or not.
 
@@ -51,7 +45,7 @@ Spell out the words using your Trezor screen. You will never need to enter your 
 
 ### Recovery of a device from seed backup
 
-To recover funds using a recovery seed, connect an empty hardware wallet to Trezor Suite and choose Recover existing wallet during the [onboarding process](https://www.notion.so/Onboarding-2f138f9b72074f69b354941d96cb32c0).
+To recover funds using a recovery seed, connect an empty hardware wallet to Trezor Suite and choose Recover existing wallet during the onboarding process.
 
 The recovery process will allow you to enter your recovery seed using the same process as when checking your backup.
 
