@@ -16,6 +16,7 @@
     * [Locktime](en/suite-basics/send/locktime.md)
     * [Import](en/suite-basics/send/import.md)
   * [Trade](en/suite-basics/buy-sell-and-trade.md)
+  * [Labeling](en/suite-basics/labeling.md)
 * [Security](en/security/README.md)
   * [Single Backup](en/security/single-backup.md)
   * [Shamir Backup](en/security/shamir-backup.md)
