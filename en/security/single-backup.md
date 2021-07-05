@@ -1,6 +1,6 @@
 # Single Backup
 
-Protecting your recovery seed is the most important step in securing your cryptocurrencies.
+Protecting your recovery seed is the most important step in securing your cryptocurrency.
 
 Your seed must be **generated and secured offline** using your Trezor hardware wallet, then backed up in physical form and stored somewhere only you can access.
 
