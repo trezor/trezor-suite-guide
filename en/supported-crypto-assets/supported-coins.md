@@ -1,5 +1,7 @@
 # Supported Coins
 
+Trezor hardware wallets support hundreds of coins and tokens, both natively in Suite and through third party tools. For a full list of coins and which wallet to use with them, visit [https://trezor.io/coins/](https://trezor.io/coins/).
+
 Assets are cryptocurrencies and tokens secured by your device. On the Trezor Suite Dashboard, the Assets overview under the portfolio graph displays a list of coins and balances for any cryptocurrency currently enabled within Suite and stored on your Trezor hardware wallet.
 
 If a cryptocurrency is missing from the list it may be disabled. Enable it from the coins menu by clicking on Enable more coins.
@@ -17,10 +19,6 @@ Ethereum network ERC20 tokens can be managed using Trezor Suite by adding custom
 Trezor Suite natively supports thirteen cryptocurrencies and all ERC20 tokens. Other cryptocurrencies are supported by Trezor hardware wallets but must be managed using a third-party wallet interface such as Electrum, Metamask, Monero wallet or AdaLite wallet. These cryptocurrencies are referred to here as non-native assets.
 
 Using a third-party wallet with your Trezor provides the same level of protection for your keys as when using Trezor Suite.
-
-#### Supported coins
-
-Trezor hardware wallets support hundreds of coins and tokens, both natively in Suite and through third party tools. For a full list of coins and which wallet to use with them, visit [https://trezor.io/coins/](https://trezor.io/coins/).
 
 #### Natively supported coins
 

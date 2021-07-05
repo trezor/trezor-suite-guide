@@ -1,2 +1,0 @@
-# Discreet mode
-

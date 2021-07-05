@@ -1,4 +1,4 @@
-# Custom ETH Token
+# Custom ERC20 Token
 
 ERC20 tokens are supported natively by Trezor hardware wallets and Trezor Suite. Send ERC20 tokens to any Ethereum address you own and they will be findable in Trezor Suite.
 
