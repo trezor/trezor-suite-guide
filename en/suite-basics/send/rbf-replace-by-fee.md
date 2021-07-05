@@ -12,9 +12,7 @@ RBF is **enabled by default** in Trezor Suite. To turn it off, click on the RBF 
 
 An RBF transaction is usually preferable to a non-RBF transaction to keep fees to a minimum.
 
-Some recipients that accept unconfirmed transactions to provide faster service will not accept RBF.
-
-RBF can also be disabled once a transaction has been sent - this is known as finalizing a transaction, covered in the section below.
+Some recipients that accept unconfirmed transactions to provide faster service will not accept RBF. RBF **can be disabled** once a transaction has been sent, which is known as finalizing a transaction and is covered below.
 
 ### Bumping transaction fees
 

@@ -4,17 +4,13 @@ Sending a transaction in Trezor Suite is easy. All you need is an account with a
 
 ## How to send a transaction
 
-The transaction recipient will provide you with an address. Copy this into the Address field.
+Sending a transaction is a straightforward process, but make sure you check all details are correct on your Trezor before confirming anything.  
 
-Enter an amount to send as specified by the recipient. It can be denominated in fiat or crypto. Always double-check it is correct before proceeding.
-
-Set a network fee. Preset amounts are calculated based on current network throughput. A custom amount can also be set.
-
-Click Review & Send, ensure all details shown on-screen are correct and the exact same address and amount are shown on your device.
-
-Confirm the transaction on your Trezor and then click send in Trezor Suite.
-
-
+1. The transaction recipient will provide you with an address. Copy this into the Address field.
+2. Enter an amount to send. This can be denominated in fiat or crypto. Always double-check it is correct before proceeding.
+3. Set a network fee. Preset amounts are calculated based on current network throughput. A custom amount can also be set. Trezor Suite will warn you if the fee is abnormally high, but you can check recent average fees online to set a reasonable price.
+4. Click Review & Send, ensure all details shown on-screen are correct and the exact same address and amount are shown on your device.
+5. Confirm the transaction on your Trezor and then click send in Trezor Suite.
 
 ### Fees
 
@@ -33,4 +29,16 @@ Other address types can also be used, no matter the type of address your recipie
 Every transaction you make creates multiple outputs. Some go to the recipient address, others are returned to a change address owned by you, the sender.
 
 Once you have sent a transaction, it must be confirmed by the network. This takes time, proportional to the fee you paid, from ten minutes to many hours. An unconfirmed transaction sits in the memory pool waiting for confirmation. Once it has been picked up and mined into a block, at least six nodes must confirm it has been legitimately mined before it is considered confirmed.
+
+### Speeding up a transaction with RBF
+
+💡 Supported on BTC and ETH only
+
+[Replace by fee \(RBF\)](rbf-replace-by-fee.md) is a special setting available on some cryptocurrency networks which lets you increase the fee used on any unconfirmed transaction and have it processed more quickly.
+
+### Locktime for time-delayed transactions 
+
+💡 Supported on BTC only
+
+[Locktime](locktime.md) is a feature available on some networks that delays the broadcasting of a transaction. This means that you can create and sign a transaction one day, and have it actually sent many hours, days or even years later.
 

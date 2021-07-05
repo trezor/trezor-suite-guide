@@ -12,15 +12,11 @@ Once a token is received at that address, you can keep track of it by adding its
 
 Go to your Ethereum account, switch to the Tokens tab and then click on the Add token button.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/431947e8-080e-42c8-932f-46bec63dd34a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/431947e8-080e-42c8-932f-46bec63dd34a/Untitled.png)
-
 You will be asked for the token contract address, which will find the token and add it to your assets.
 
 Tokens usually list their contract address on the official project website but they can also be found using Ethereum block explorers such as [Etherscan](https://etherscan.io/).
 
 Once your first token has been added, you can continue to add more through the dropdown menu.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccec00d0-9fcb-486e-abfb-70a97bd62b99/Screenshot\_2021-06-28\_Tokens.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccec00d0-9fcb-486e-abfb-70a97bd62b99/Screenshot_2021-06-28_Tokens.png)
 
 #### Using Etherscan to find a token's contract address
 
