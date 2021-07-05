@@ -13,11 +13,11 @@ This is a common part of using cryptocurrency but security and privacy aspects t
 5. Click confirm on your Trezor.
 6. Click Copy address to automatically copy it to your clipboard, or provide them with a screenshot of the QR code.
 
-Please note: Once you have used a BTC receiving address, it **should not be used again.** Instead, repeat these steps for every new payment coming to your wallet. All addresses generated under one account will ensure the funds are available in the same place, without compromising privacy.
+Please note: Once you have used a bitcoin receiving address, it **should not be used again.** Instead, repeat these steps for every new payment coming to your wallet. All addresses generated under one account will ensure the funds are available in the same place, without compromising privacy.
 
 ### Trust only your Trezor
 
-Only trust transaction details shown on your Trezor screen. If they do not match those shown on your computer, there may be malare on the host machine. Cancel the transaction and restart the process from a secure device if you notice inconsistencies.
+Only trust transaction details shown on your Trezor screen. If they do not match those shown on your computer, there may be malware on the host machine. Cancel the transaction and restart the process from a secure device if you notice inconsistencies.
 
 
 

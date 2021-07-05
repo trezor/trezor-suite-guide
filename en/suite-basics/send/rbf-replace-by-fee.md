@@ -24,7 +24,7 @@ A dialog will open that lets you assign a new fee, which must be higher than the
 
 If you have sent an RBF transaction and it stays unconfirmed longer than expected, the recipient may not accept RBF transactions.
 
-Instead of waiting for the transaction to fail, you can finalize the transaction. This overrides the transaction with one that has RBF disabled and a final fee allocated to it. The fee cannot be increased any further, so set it appropriately.
+Instead of waiting for the transaction to fail, you can Finalize it. This replaces the transaction with one that has RBF disabled and a final fee allocated to it. The fee cannot be increased any further once finalized, so set it appropriately.
 
 ### RBF by output reduction
 

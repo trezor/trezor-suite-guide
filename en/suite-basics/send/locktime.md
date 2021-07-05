@@ -10,40 +10,27 @@
 
 ### Setting a Locktime
 
+💡 _Broadcast is turned off by default when using Locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network._
+
 You can set a Locktime while creating a transaction.
 
 1. Click Add Locktime
-
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/101b3846-e30f-440f-ab8f-026372fa6f3a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/101b3846-e30f-440f-ab8f-026372fa6f3a/Untitled.png)
-
 2. Enter a block height or Unix timestamp when it should broadcast.
-
-![](../../../.gitbook/assets/image%20%2813%29.png)
-
-💡 Broadcast is turned off by default, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the connected network.
-
-1. Set a fee.
-2. Confirm transaction details on your Trezor.
-3. You will be shown confirmation details.
-
-![](../../../.gitbook/assets/image%20%286%29.png)
-
-1. Copy the data or save it as a text document. If Broadcast is on, just click Send.
-2. Later, from another network, use [Send RAW](send-raw.md) or visit a block explorer to send the raw transactions data, such as [btc1.trezor.io/sendtx](https://btc1.trezor.io/sendtx).
-
-![](../../../.gitbook/assets/image%20%2810%29.png)
+3. Set a fee.
+4. Confirm transaction details on your Trezor.
+5. You will be shown confirmation details.
+6. Copy the data to your clipboard or save it as a text document. When Broadcasting, click Send instead.
+7. Later, from another network, use [Send RAW](send-raw.md) or visit a block explorer to send the raw transaction data.
 
 ### How to set a precise Locktime
 
 Using block height to set a Locktime is not very accurate as new blocks are mined on average once every 10 minutes, meaning around 144 blocks mined per day. This number varies depending on the state of the network, and some blocks can take much longer to be mined.
 
-Unix timestamps are used for more precise timing synchronized across computers. They track the number of seconds which have passed since January 1, 1970.
+**Unix timestamps** are used for more precise timing synchronized across computers. They track the number of seconds which have passed since January 1, 1970.
 
 Use a [Unix timestamp converter](https://www.unixtimestamp.com/) to see the current timestamp and calculate a timestamp for a precise time in the future. Setting a Locktime is as simple as increasing the current timestamp by the number of seconds it should be delayed.
 
 For example, if the current timestamp is 1625215800 and the desired Locktime is one week, the Unix timestamp to enter would be 1625820600 \(the current timestamp plus one week, or 604800 seconds\).
-
-![](../../../.gitbook/assets/image%20%284%29.png)
 
 ### When to use Locktime
 

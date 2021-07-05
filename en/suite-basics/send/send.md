@@ -20,7 +20,7 @@ Sending a transaction is a straightforward process, but make sure you check all 
 
 ### Fees
 
-Network fees vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High. Some networks may only offer a custom fee.
+Network fees vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High. Some networks only offer a custom fee.
 
 Check network activity before sending a transaction to get an up-to-date idea of the fees being processed. You can use this information to set a Custom fee based on how quickly the transaction needs to confirm.
 
@@ -28,19 +28,23 @@ Fees are only used to pay miners for adding transactions to the blockchain. They
 
 ### Bitcoin address types
 
-The address type you use for sending Bitcoin depends on the Account type you are using. By default, this will be a Bech32 native SegWit address beginning with the characters **bc1**. Using a native SegWit account is recommended as it helps keep transaction fees to a minimum.
+The address type you use for sending Bitcoin depends on the Account type you are using. By default, this will be a Native SegWit Bech32 address beginning **`bc1...`**
 
-Other address types can also be used, no matter the type of address your recipient is using.
+Using a Native SegWit account is recommended as it helps keep transaction fees to a minimum.
 
-SegWit P2SH addresses begin with the number 3.
+Other accounts can also be used, no matter the type of address your recipient is using.
+
+SegWit P2SH addresses begin with a **`3`**. 
+
+Legacy P2PKH addresses begin with a **`1`**.
+
+Addresses have changed as Bitcoin standards have evolved. Another address type will be introduced with the Taproot upgrade in 2021.
 
 ## How transactions work
 
-Legacy P2PKH addresses begin with the number 1. 
+Transactions are signed messages. When broadcast, they are added to a shared memory pool where other computers \(nodes\) can see them and the fee assigned to them. To claim the fee, the transaction has to be added into a block by a mining node.   
 
-Once you have sent a transaction, it must be confirmed by the network.  An unconfirmed transaction sits in the memory pool waiting for confirmation. This takes time, proportional to the fee you paid, from ten minutes to many hours. 
-
-Addresses have changed as Bitcoin standards have evolved. Another address type will be introduced with the Taproot upgrade in 2021.
+When you send a transaction, must be confirmed by the network by being mined into a block and then confirmed by successive block. An **unconfirmed transaction** is one that is in the memory pool waiting for confirmation. The time this takes depends on the fee you paid, from around ten minutes to many hours. 
 
 ### Speeding up a transaction with RBF
 
