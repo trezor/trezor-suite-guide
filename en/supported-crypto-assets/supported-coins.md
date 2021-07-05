@@ -1,6 +1,6 @@
 # Supported Coins
 
-Trezor hardware wallets support hundreds of coins and tokens, both natively in Suite and through third party tools. For a full list of coins and which wallet to use with them, visit [https://trezor.io/coins/](https://trezor.io/coins/).
+Trezor hardware wallets support hundreds of coins and tokens, both natively in Suite and through third party tools. For a full list of coins and which wallet to use them with, visit [https://trezor.io/coins/](https://trezor.io/coins/).
 
 Assets are cryptocurrencies and tokens secured by your device. On the Trezor Suite Dashboard, the Assets overview under the portfolio graph displays a list of coins and balances for any cryptocurrency currently enabled within Suite and stored on your Trezor hardware wallet.
 
@@ -12,7 +12,7 @@ From the dashboard, simply click on Enable more coins. You will be taken to the 
 
 **ERC20 tokens**
 
-Ethereum network ERC20 tokens can be managed using Trezor Suite by adding custom token addresses to a new or existing Ethereum Account.
+[Ethereum network ERC20](custom-eth-token.md) tokens can be managed using Trezor Suite by adding custom token addresses to a new or existing Ethereum Account.
 
 ### What assets can I store on my Trezor?
 
@@ -30,7 +30,7 @@ Using [bitcoin-only firmware](https://shop.trezor.io/btc-only/), you will only h
 
 Some cryptocurrencies use specific technology stacks that make it difficult to support them directly in Trezor Suite. Many third-party wallets support Trezor as a way to sign transactions and provide security, while being built and maintained by a company other than SatoshiLabs.
 
-This includes currencies such as Monero and Cardano, as well as ERC721 tokens, known as NFTs, which are all secured by wallets created by third parties.
+This includes currencies such as Monero and Cardano, as well as ERC721 tokens known as NFTs, which are all secured by wallets created by third parties.
 
 #### Ethereum Tokens
 

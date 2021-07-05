@@ -2,8 +2,6 @@
 
 The Tor switch is a privacy feature available in the Trezor Suite desktop app. 
 
-![](../../.gitbook/assets/tor-eye.jpg)
-
 ### Enabling Tor
 
 To use Tor in Trezor Suite, simply click on the circle-shaped icon and wait a few seconds to establish a connection.
