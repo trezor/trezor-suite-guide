@@ -20,7 +20,7 @@ Sending a transaction is a straightforward process, but make sure you check all 
 
 ### Fees
 
-Network fees vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High. Some networks only offer a custom fee.
+Network [transaction fees](transaction-fees.md) vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High. Some networks only offer a custom fee.
 
 Check network activity before sending a transaction to get an up-to-date idea of the fees being processed. You can use this information to set a Custom fee based on how quickly the transaction needs to confirm.
 
