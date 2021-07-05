@@ -26,3 +26,14 @@ If you have sent an RBF transaction and it stays unconfirmed longer than expecte
 
 Instead of waiting for the transaction to fail, you can finalize the transaction. This overrides the transaction with one that has RBF disabled and a final fee allocated to it. The fee cannot be increased any further, so set it appropriately.
 
+### RBF by output reduction
+
+When sending the maximum amount of bitcoin stored on a single account, there will be no leftover balance to increase the fee from. RBF by output reduction takes the additional fee from the amount being transferred, instead of the account balance.
+
+Using RBF output reduction can be done in the same way as bumping the fee, as long as RBF was enabled when the transaction was sent.
+
+1. To speed up confirmation times when sending the full balance of an account, click **Bump fee** on the pending transaction.
+2. A new window will open where a new fee can be set.
+3. Trezor Suite will show a message that there are no funds left for the fee, and that the amount sent must be reduced.
+4. Set a new fee and confirm the new settings. The additional fee will then be reallocated from the transaction output.
+
