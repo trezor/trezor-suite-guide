@@ -1,6 +1,6 @@
 # Trade
 
-You can buy, sell, and trade cryptocurrencies directly through Trezor Suite. This service is provided by Invity, a SatoshiLabs company that compares offers across many different exchanges.
+You can buy, sell, and exchange cryptocurrencies directly through Trezor Suite. This service is provided by Invity, a SatoshiLabs company that compares offers across many different exchanges.
 
 All Trade transactions are performed using your Trezor device, ensuring coins you receive are exclusively in your custody.
 
