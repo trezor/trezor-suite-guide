@@ -1,8 +1,16 @@
 # Remember and Eject
 
-Remember and eject is a feature that gives you control over ease of use, privacy, and security.
+Trezor public keys can be stored on the host machine to track balances stored on the wallet. The Remember and Eject functions give you control over ease of use, privacy, and security for each wallet enabled on your Trezor.
 
-Remember is a feature that allows you to turn your wallets into a watch only address. If you leave your device locked away in a safe place, the only way to know that your coins are still in your control is to take it out, plug it in, and unlock it. This allows you to monitor your coins without needing the device or your private keys.
+![](../../.gitbook/assets/image%20%2816%29.png)
 
-Eject will remove the wallet from Trezor Suite. If you are using a shared or more public computer, you may want to not have your wallet balances viewable by anyone who has access to the computer in use. This will also benefit those who have multiple devices and wants to keep one Trezor viewable in Suite but the second device private.
+**Remember** allows you to monitor your coin balances without needing your Trezor or your private keys. It tracks the wallet extended public key \(XPUB\), which gives information about address holdings. 
+
+If you store your Trezor in a secure place but want to watch for fund movement, Remember lets you see account activity without needing to take your Trezor out of storage. 
+
+**Eject** removes the wallet from view while Trezor Suite is running. Ejecting a Hidden Wallet will make the user enter the passphrase again. Ejecting a standard wallet will stop tracking address balances. To find the wallet again, click Add wallet, or reconnect and unlock your Trezor. 
+
+⚠ If you are using a shared or public computer, wallet balances could be viewed by others who have access to the computer. 
+
+
 

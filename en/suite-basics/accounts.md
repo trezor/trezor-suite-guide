@@ -1,14 +1,20 @@
 # Accounts
 
-Accounts allow you to create multiple isolated wallets on the same device using the same seed, to keep your coins organized and improve privacy.
+Accounts let you create multiple isolated wallets on the same Trezor device, derived from the same seed, to keep your coins organized and improve privacy.
 
 ### Creating a new account
 
-When you open Suite, you'll see an account named Bitcoin \#1. You can use this one account and send all of your coins to the addresses it creates, or you can create more accounts to separate your funds as a high-level form of coin control. By default, this account uses Native SegWit addresses \(also known as bech32 or SegWit v0\).
+When you open Trezor Suite, you'll see an account for any enabled coins. You can use these accounts and send all of your coins to the addresses they creates, or you can create more accounts to separate your funds.
 
 To create a new account, click on the plus \(+\) icon at the top of the accounts sidebar. This will open a window where you can choose the type of account to create. It can be the same type as an existing account.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9d907e1-ee9e-43ff-a75d-7fdfde7eddc9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9d907e1-ee9e-43ff-a75d-7fdfde7eddc9/Untitled.png)
+
+### **Why create a new account?**
+
+The main benefit of using different accounts for the same cryptocurrency is that each account has its own extended public key \(XPUB\). Once an XPUB is revealed, it allows people to look up transactions that have been made to and from all the addresses that XPUB generated. For privacy, it is better to use different XPUBs for different purposes by creating a new account. This is made easier by labeling accounts.
+
+### Different types of account
 
 **There are 3 types of Bitcoin accounts supported by Trezor:**
 
@@ -20,13 +26,9 @@ Native SegWit: creates addresses that start with bc1 and use 68 vBytes, making i
 
 While addresses should be cross-compatible in most cases, **some older services will not allow you to send Bitcoin from Native SegWit addresses.** If this is the case, send your coins to a SegWit address by creating a new account and then use the service.
 
-### **Why create a new account?**
+### **Use Accounts to manage XPUBs**
 
-The main benefit of using different accounts for the same cryptocurrency is that each account has its own extended public key \(XPUB\). Once an XPUB is revealed, it allows people to look up transactions that have been made to and from all the addresses that XPUB generated. For privacy, it is better to use different XPUBs for different purposes by creating a new account. This is made easier by labeling accounts.
-
-### **What is an XPUB?**
-
-You can view your Public key \(XPUB\) on the account's main page by switching to the Account details tab. This information is used to create a 'watch-only' wallet as it links all past, current, and future addresses used by the selected account. Other accounts have their own unique XPUB.
+You can view your extended public key \(XPUB\) on the account's main page by switching to the Account details tab. Every account has its own unique XPUB, which make it possible to see transactions going to and from the account. This is used to create 'watch-only' wallets that link all past, current, and future addresses used by the selected account. 
 
 While you can share this information in some scenarios, we recommend keeping it secret as it presents a privacy concern where others can view your balances and activity.
 

@@ -4,11 +4,11 @@ A passphrase is an optional security feature that adds an extra level of protect
 
 Each time a new passphrase is entered, a completely new wallet environment is created. It can only be accessed by combining your seed words with that passphrase.
 
-Passphrases are not stored anywhere. Your funds will be lost if you lose the passphrase. ⚠️
+⚠️ Passphrases are not stored anywhere. Your funds will be lost if you lose the passphrase. 
 
 ## Why use a passphrase?
 
-Using passphrases introduces a number of benefits, as well as risks. They should only be used by advanced users who understand the risks in detail.
+Using passphrases introduces a number of benefits, as well as risks. They should only be used by advanced users who understand that losing a passphrase can mean permanent loss of funds.
 
 **Benefits of a passphrase**
 

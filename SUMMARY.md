@@ -27,5 +27,5 @@
 * [Supported Crypto](en/supported-crypto-assets/README.md)
   * [Supported Coins](en/supported-crypto-assets/supported-coins.md)
   * [Custom ERC20 Token](en/supported-crypto-assets/custom-eth-token.md)
-  * [ETH Tokens](en/supported-crypto-assets/eth-tokens.md)
+  * [Ethereum Tokens](en/supported-crypto-assets/eth-tokens.md)
 

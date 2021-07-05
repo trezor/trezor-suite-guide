@@ -1,5 +1,15 @@
 # Tor
 
+The Tor switch is a privacy feature available in the Trezor Suite desktop app. 
+
+![](../../.gitbook/assets/tor-eye.jpg)
+
+### Enabling Tor
+
+To use Tor in Trezor Suite, simply click on the circle-shaped icon and wait a few seconds to establish a connection.
+
+Once connected, a green tick will appear. All network traffic from Suite will now be routed through Tor. Because Tor routes connections across a greater distance and through multiple nodes, there will be a slight delay in response for any actions that transmit data across the network.
+
 ### What is Tor?
 
 Tor is an acronym for the The Onion Router, as it routes your internet traffic through multiple points over the world, creating layers of doubt as to the original source of the traffic. This masks your IP address and allows you to use Suite more privately.
@@ -11,12 +21,6 @@ Tor is most famous for its privacy browser but the Tor network can be used by al
 Observers can log your IP address, tracking when and where your transactions are broadcasted. Cross-referencing this data can potentially expose your cryptocurrency addresses and coin balances.
 
 With Tor, your transaction is broadcast through multiple Tor nodes, making it very difficult to trace your connection to any one country, location or IP address.
-
-### Enabling Tor
-
-To use Tor in Trezor Suite, simply click on the circle-shaped icon and wait a few seconds to establish a connection.
-
-Once connected, a green tick will appear. All network traffic from Suite will now be routed through Tor. Because Tor routes connections across a greater distance and through multiple nodes, there will be a slight delay in response for any actions that transmit data across the network.
 
 ### Custom settings for Tor
 

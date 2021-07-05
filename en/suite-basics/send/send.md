@@ -4,6 +4,12 @@ Sending a transaction in Trezor Suite is easy. All you need is an account with a
 
 ## How to send a transaction
 
+1. The transaction recipient will provide you with an address. Copy this into the Address field.
+2. Enter an amount to send as specified by the recipient. It can be denominated in fiat or crypto. Always double-check it is correct before proceeding.
+3. Set a network fee. These can be chosen from preset estimates or you can set custom fee.
+4. Click Review & Send. Make sure all information shown on your Trezor matches what you see in Suite. Confirm only if the exact same address and amounts are shown on your device.
+5. Confirm the transaction on your Trezor and then click send in Trezor Suite.
+
 Sending a transaction is a straightforward process, but make sure you check all details are correct on your Trezor before confirming anything.  
 
 1. The transaction recipient will provide you with an address. Copy this into the Address field.
@@ -14,29 +20,39 @@ Sending a transaction is a straightforward process, but make sure you check all 
 
 ### Fees
 
-Network fees vary depending on how busy the network is. This is reflected in the pre-calculated fee options \(Low, Economy, Normal, High\). It is recommended to check network activity before sending a transaction to get an up-to-date overview of what fees are currently being accepted, and set a Custom fee according to the priority of their transaction.
+Network fees vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High. Some networks may only offer a custom fee.
+
+Check network activity before sending a transaction to get an up-to-date idea of the fees being processed. You can use this information to set a Custom fee based on how quickly the transaction needs to confirm.
 
 Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
 
-### Address types
+### Bitcoin address types
 
-The address type you use for sending depends on the Account type you are using. By default, this will be a Bech32 native SegWit address beginning with the characters **bc1**. Using a native SegWit account is recommended as it helps keep transaction fees to a minimum.
+The address type you use for sending Bitcoin depends on the Account type you are using. By default, this will be a Bech32 native SegWit address beginning with the characters **bc1**. Using a native SegWit account is recommended as it helps keep transaction fees to a minimum.
 
 Other address types can also be used, no matter the type of address your recipient is using.
 
+SegWit P2SH addresses begin with the number 3.
+
 ## How transactions work
 
-Every transaction you make creates multiple outputs. Some go to the recipient address, others are returned to a change address owned by you, the sender.
+Legacy P2PKH addresses begin with the number 1. 
 
-Once you have sent a transaction, it must be confirmed by the network. This takes time, proportional to the fee you paid, from ten minutes to many hours. An unconfirmed transaction sits in the memory pool waiting for confirmation. Once it has been picked up and mined into a block, at least six nodes must confirm it has been legitimately mined before it is considered confirmed.
+Once you have sent a transaction, it must be confirmed by the network.  An unconfirmed transaction sits in the memory pool waiting for confirmation. This takes time, proportional to the fee you paid, from ten minutes to many hours. 
+
+Addresses have changed as Bitcoin standards have evolved. Another address type will be introduced with the Taproot upgrade in 2021.
 
 ### Speeding up a transaction with RBF
+
+Every transaction you make creates multiple outputs. Some go to the recipient address, others are returned to a change address owned by you, the sender.
 
 💡 Supported on BTC and ETH only
 
 [Replace by fee \(RBF\)](rbf-replace-by-fee.md) is a special setting available on some cryptocurrency networks which lets you increase the fee used on any unconfirmed transaction and have it processed more quickly.
 
 ### Locktime for time-delayed transactions 
+
+Once it has been picked up and mined into a block, at least six nodes must confirm it has been legitimately mined before it is considered confirmed.
 
 💡 Supported on BTC only
 

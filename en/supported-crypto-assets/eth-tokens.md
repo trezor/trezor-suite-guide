@@ -1,4 +1,4 @@
-# ETH Tokens
+# Ethereum Tokens
 
 The Ethereum network allows projects and companies to create a variety of custom tokens which run on top of Ethereum. Once the token contract has been deployed on the Ethereum blockchain, it is automatically compatible with your Trezor device. Trezor Suite only allows you to manage ERC20 tokens for the time being.
 
