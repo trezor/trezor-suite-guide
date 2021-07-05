@@ -1,12 +1,14 @@
 # Accounts
 
-Accounts let you create multiple isolated wallets on the same Trezor device, derived from the same seed, to keep your coins organized and improve privacy.
+Accounts let you create multiple isolated wallets on the same Trezor device, derived from the same [seed](../security/single-backup.md), to keep your coins organized and improve privacy.
 
 ### Creating a new account
 
-When you open Trezor Suite, you'll see an account for any enabled coins. You can use these accounts and send all of your coins to the addresses they creates, or you can create more accounts to separate your funds.
+When you open Trezor Suite, an account will be created for each enabled cryptocurrency. Visit Coin Settings to enable or disable them. 
 
-To **create a new account**, click on the plus \(+\) icon at the top of the sidebar. This will open a window where you can choose the type of account to create. It can be the same type as an existing account.
+Multiple accounts can be created for each cryptocurrency. You can create more accounts to separate your funds or manage them on one account using multiple addresses.
+
+To **create a new account**, click on the plus \(+\) icon at the top of the sidebar. This will open a menu where you can choose the type of account to create. It can be the same type as an existing account as long as the first account has been used.
 
 ### **Why create multiple accounts?**
 

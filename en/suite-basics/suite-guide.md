@@ -4,7 +4,7 @@ Welcome to Trezor Suite! This guide will teach you how to use features safely an
 
 Access it at any time by visiting the setting menu and scrolling down to Learn and Discover.
 
-This guide will be updated regularly to cover new features. For anything not covered here, browse our other resources at the end of this list.
+This guide will be updated regularly to cover new features. For anything not covered here, browse other resources at the end of this list.
 
 ## About Trezor Suite
 
