@@ -1,6 +1,6 @@
 # Labeling
 
-Labeling is a tool that to help you stay organized. Rename your wallets, [Accounts](accounts.md), and addresses to keep track of your portfolio, separate transactions based on their sender, or make notes about transactions. 
+Labeling is a tool that to help you stay organized. Rename your wallets, Accounts, and addresses to keep track of your portfolio, separate transactions based on their sender, or make notes about transactions. 
 
 Labels are synced to your Google Drive or Dropbox account or can be stored locally. 
 
