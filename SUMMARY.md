@@ -13,7 +13,7 @@
     * [Transaction fees](en/suite-basics/send/transaction-fees.md)
     * [Locktime](en/suite-basics/send/locktime.md)
     * [RBF \(Replace by fee\)](en/suite-basics/send/rbf-replace-by-fee.md)
-    * [OP\_RETURN](en/suite-basics/send/op_return.md)
+    * [OP\_Return](en/suite-basics/send/op_return.md)
     * [Import](en/suite-basics/send/import.md)
     * [Send RAW](en/suite-basics/send/send-raw.md)
   * [Trade](en/suite-basics/buy-sell-and-trade.md)

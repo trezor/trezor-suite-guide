@@ -1,4 +1,4 @@
-# OP\_RETURN
+# OP\_Return
 
 OP\_Return is a Bitcoin feature that provides a memo field for transactions. Usage of OP\_Return is limited to prevent network congestion.
 
