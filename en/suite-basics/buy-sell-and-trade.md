@@ -1,14 +1,18 @@
 # Trade
 
-You can buy, sell, and trade cryptocurrencies directly through Trezor Suite. This service is provided by Invity, which compares offers across many different exchanges. All transactions are performed using your Trezor device, ensuring coins you receive are exclusively in your custody.
+You can buy, sell, and trade cryptocurrencies directly through Trezor Suite. This service is provided by Invity, a SatoshiLabs company that compares offers across many different exchanges.
 
-You may need to provide KYC \(Know Your Customer\) information to use these services in your country. Trezor will never ask you for this information.
+All Trade transactions are performed using your Trezor device, ensuring coins you receive are exclusively in your custody.
+
+⚠ You may need to provide KYC \(Know Your Customer\) information to use these services in your country. 
+
+_Any issues experienced related to a cryptocurrency purchase can only be resolved by the exchanges' support teams. Please contact the exchange provider before reaching out to Trezor support._ 
 
 ## How to trade cryptocurrency in Trezor Suite
 
 ### **Buy**
 
-Follow these steps to buy cryptocurrency through Invity and have it sent directly to an address secured by your device.
+Follow these steps to buy cryptocurrency through Invity and have it sent directly to an address secured by your Trezor.
 
 1. Go to your Accounts page and click on Trade.
 2. Click on Buy.
@@ -27,14 +31,13 @@ Follow these steps to buy cryptocurrency through Invity and have it sent directl
 1. Go to your Accounts page and click on Trade.
 2. Click on Sell.
 3. Select the country you would like to source offers from.
-4. Enter the amount of fiat or cryptocurrency you would like to sell.
-5. You can also sell fixed fractions based on the total amount of crypto held in the account.
-6. Set a fee. This is a network fee for the transaction to be carried out.
-7. Click show offers.
-8. Compare available offers based on exchange rates and how you are paid the fiat currency.
-9. Click Get this Offer.
-10. Agree to the terms and conditions.
-11. You will be shown a link to open in your browser to complete the sale.
+4. Enter the amount of fiat or cryptocurrency you would like to sell. You can also sell fixed fractions based on the total amount of crypto held in the account.
+5. Set a fee. This is a network fee for the transaction to be carried out.
+6. Click Show offers.
+7. Compare available offers based on exchange rates and how you are paid the fiat currency.
+8. Click Get this Offer.
+9. Agree to the terms and conditions.
+10. You will be shown a link to open in your browser to complete the sale.
 
 ### **Exchange**
 

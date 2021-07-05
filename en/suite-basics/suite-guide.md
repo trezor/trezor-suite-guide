@@ -6,22 +6,6 @@ Access it at any time by visiting the setting menu and scrolling down to Learn a
 
 This guide will be updated regularly to cover new features. For anything not covered here, browse our other resources at the end of this list.
 
-### Quick Access
-
-{% page-ref page="accounts.md" %}
-
-{% page-ref page="receive.md" %}
-
-{% page-ref page="send/" %}
-
-{% page-ref page="buy-sell-and-trade.md" %}
-
-{% page-ref page="../security/" %}
-
-{% page-ref page="../privacy/" %}
-
-{% page-ref page="../supported-crypto-assets/" %}
-
 ## About Trezor Suite
 
 #### What is Trezor Suite?

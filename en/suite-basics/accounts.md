@@ -6,7 +6,7 @@ Accounts let you create multiple isolated wallets on the same Trezor device, der
 
 When you open Trezor Suite, you'll see an account for any enabled coins. You can use these accounts and send all of your coins to the addresses they creates, or you can create more accounts to separate your funds.
 
-To **create a new account**, click on the plus \(+\) icon at the top of the accounts sidebar. This will open a window where you can choose the type of account to create. It can be the same type as an existing account.
+To **create a new account**, click on the plus \(+\) icon at the top of the sidebar. This will open a window where you can choose the type of account to create. It can be the same type as an existing account.
 
 ### **Why create multiple accounts?**
 

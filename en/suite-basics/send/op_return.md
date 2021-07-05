@@ -14,5 +14,3 @@ Messages stored on the blockchain will be viewable as long as  Bitcoin exists an
 4. Click Review & Send. Confirm all details on your Trezor and finish the transaction.
 5. Once confirmed, the hexadecimal data can be retrieved and decoded from Bitcoin's blockchain.
 
-![](../../../.gitbook/assets/image%20%287%29.png)
-

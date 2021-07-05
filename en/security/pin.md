@@ -8,19 +8,15 @@ Your PIN should be memorable. It cannot be recovered by Trezor Suite or Trezor w
 
 ### Setting a PIN
 
-During the [onboarding](https://www.notion.so/Onboarding-2f138f9b72074f69b354941d96cb32c0) process, you will be prompted to set a PIN. Setting a PIN is essential to security.
+During the onboarding process, you will be prompted to set a PIN. Setting a PIN is essential to security as it is used to unlock your Trezor any time you connect it to a host computer or perform a protected action.
 
-It will need to be entered to unlock your Trezor any time you connect it to a host computer or perform a protected action.
+💡 PINs should be at least 6 digits long. The Trezor Model One supports up to 9 digits and the Trezor Model T supports up to 50 digits.
 
-Ideally PINs should be at least 6 characters long. Trezor hardware wallets support longer PINs up to 50 characters.
-
-If you skip this step during onboarding, you can later set your PIN from the Trezor Suite Dashboard, or through the Device Settings menu.
-
-The process of setting a PIN differs depending on the hardware wallet you are using.
+If you skipped this step during onboarding, you can set your PIN from the Trezor Suite Dashboard or through the Device Settings menu.
 
 ### Changing a PIN
 
-You can change a PIN at any time through the Device Settings menu.
+You can change a PIN at any time through the Device Settings menu. The process of setting a PIN differs depending on the hardware wallet you are using.
 
 #### Trezor Model One PIN
 
