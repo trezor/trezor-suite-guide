@@ -4,9 +4,9 @@ The Tor switch is a privacy feature available in the Trezor Suite desktop app.
 
 ### Enabling Tor
 
-To use Tor in Trezor Suite, simply click on the circle-shaped icon and wait a few seconds to establish a connection.
+To use Tor in Trezor Suite, simply **click on the circle-shaped icon** on the right-hand side of the top toolbar and wait a few seconds to establish a connection.
 
-Once connected, a green tick will appear. All network traffic from Suite will now be routed through Tor. Because Tor routes connections across a greater distance and through multiple nodes, there will be a slight delay in response for any actions that transmit data across the network.
+Once connected, a green tick will appear. All network traffic from Suite will now be routed through Tor. Because Tor routes connections across a greater distance and through multiple nodes, there may be increased latency for any actions that transmit data across the network.
 
 ### What is Tor?
 
