@@ -1,2 +1,2 @@
-# Supported Crypto Assets
+# Supported Crypto
 

@@ -26,27 +26,19 @@ You can change a PIN at any time through the Device Settings menu.
 
 To set a PIN on your Trezor Model One:
 
-Click Change PIN in the Device Settings menu.
-
-Confirm the action on your Trezor.
-
-Enter the old PIN using the numbers shown on your Trezor and the grid shown on the computer.
-
-Enter the new PIN in the same way.
-
-Confirm the new PIN.
+1. Click Change PIN in the Device Settings menu.
+2. Confirm the action on your Trezor.
+3. Enter the old PIN using the numbers shown on your Trezor and the grid shown on the computer.
+4. Enter the new PIN in the same way.
+5. Confirm the new PIN.
 
 #### Trezor Model T PIN
 
 To set a PIN on your Trezor Model T:
 
-Click Change PIN in the Device Settings menu.
-
-Confirm the action on your Trezor.
-
-Enter the old PIN using the Trezor touchscreen.
-
-Enter the new PIN on the Trezor.
-
-Confirm the new PIN.
+1. Click Change PIN in the Device Settings menu.
+2. Confirm the action on your Trezor.
+3. Enter the old PIN using the Trezor touchscreen. 
+4. Enter the new PIN on the Trezor.
+5. Confirm the new PIN.
 

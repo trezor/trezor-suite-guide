@@ -26,7 +26,7 @@
 * [Privacy](en/privacy/README.md)
   * [Remember and Eject](en/privacy/remember-and-eject.md)
   * [Discreet mode](en/privacy/discreet-mode.md)
-* [Supported Crypto Assets](en/supported-crypto-assets/README.md)
+* [Supported Crypto](en/supported-crypto-assets/README.md)
   * [Custom ETH Token](en/supported-crypto-assets/custom-eth-token.md)
   * [Supported Coins](en/supported-crypto-assets/supported-coins.md)
   * [ETH Tokens](en/supported-crypto-assets/eth-tokens.md)
