@@ -4,17 +4,11 @@ Sending a transaction in Trezor Suite is easy. All you need is an account with a
 
 ## How to send a transaction
 
-1. The transaction recipient will provide you with an address. Copy this into the Address field.
-2. Enter an amount to send as specified by the recipient. It can be denominated in fiat or crypto. Always double-check it is correct before proceeding.
-3. Set a network fee. These can be chosen from preset estimates or you can set custom fee.
-4. Click Review & Send. Make sure all information shown on your Trezor matches what you see in Suite. Confirm only if the exact same address and amounts are shown on your device.
-5. Confirm the transaction on your Trezor and then click send in Trezor Suite.
-
 Sending a transaction is a straightforward process, but make sure you check all details are correct on your Trezor before confirming anything.  
 
 1. The transaction recipient will provide you with an address. Copy this into the Address field.
 2. Enter an amount to send. This can be denominated in fiat or crypto. Always double-check it is correct before proceeding.
-3. Set a network fee. Preset amounts are calculated based on current network throughput. A custom amount can also be set. Trezor Suite will warn you if the fee is abnormally high, but you can check recent average fees online to set a reasonable price.
+3. Set a network fee. Preset amounts are calculated based on current network throughput. A custom amount can also be set. Trezor Suite will warn you if the fee is abnormally high, but you can check average fees for recent transactions online to set a reasonable price.
 4. Click Review & Send, ensure all details shown on-screen are correct and the exact same address and amount are shown on your device.
 5. Confirm the transaction on your Trezor and then click send in Trezor Suite.
 
@@ -24,7 +18,7 @@ Network [transaction fees](transaction-fees.md) vary depending on how busy the n
 
 Check network activity before sending a transaction to get an up-to-date idea of the fees being processed. You can use this information to set a Custom fee based on how quickly the transaction needs to confirm.
 
-Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
+💡 Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
 
 ### Bitcoin address types
 
