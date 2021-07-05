@@ -10,8 +10,6 @@ The benefits of RBF are that it allows you to gradually increase the fee until t
 
 RBF is **enabled by default** in Trezor Suite. To turn it off, click on the RBF toggle before sending a transaction.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6121708-a83c-4fce-b651-5f5f152edc33/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6121708-a83c-4fce-b651-5f5f152edc33/Untitled.png)
-
 An RBF transaction is usually preferable to a non-RBF transaction to keep fees to a minimum.
 
 Some recipients that accept unconfirmed transactions to provide faster service will not accept RBF.
@@ -22,8 +20,6 @@ RBF can also be disabled once a transaction has been sent - this is known as fin
 
 Increase the fee allocated to any unconfirmed RBF transaction by clicking Bump fee on the pending transaction in your Send tab.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc569570-8252-4273-9507-6f65d168a49b/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc569570-8252-4273-9507-6f65d168a49b/Untitled.png)
-
 A dialog will open that lets you assign a new fee, which must be higher than the previous one. Click Replace transaction and then confirm the action on your Trezor.
 
 ### Finalizing a transaction
@@ -31,6 +27,4 @@ A dialog will open that lets you assign a new fee, which must be higher than the
 If you have sent an RBF transaction and it stays unconfirmed longer than expected, the recipient may not accept RBF transactions.
 
 Instead of waiting for the transaction to fail, you can finalize the transaction. This overrides the transaction with one that has RBF disabled and a final fee allocated to it. The fee cannot be increased any further, so set it appropriately.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c553bee2-4ca0-462c-a7cf-dde99add8412/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c553bee2-4ca0-462c-a7cf-dde99add8412/Untitled.png)
 
