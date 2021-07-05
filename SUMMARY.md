@@ -10,6 +10,7 @@
   * [Receive](en/suite-basics/receive.md)
   * [Send](en/suite-basics/send/README.md)
     * [Send overview](en/suite-basics/send/send.md)
+    * [Transaction fees](en/suite-basics/send/transaction-fees.md)
     * [RBF \(Replace by fee\)](en/suite-basics/send/rbf-replace-by-fee.md)
     * [OP\_RETURN](en/suite-basics/send/op_return.md)
     * [Send RAW](en/suite-basics/send/send-raw.md)
