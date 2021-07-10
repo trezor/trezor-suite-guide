@@ -28,6 +28,4 @@ Other resources:
 
 * [Supported cryptocurrencies](https://trezor.io/coins/)
 * [Trezor Wiki](https://wiki.trezor.io/)
-* [Trezor.io](https://trezor.io/)
-* [Satoshilabs.com](https://satoshilabs.com/)
 
