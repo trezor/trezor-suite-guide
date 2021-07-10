@@ -34,7 +34,7 @@ This includes currencies such as Monero and Cardano, as well as ERC721 tokens kn
 
 #### Ethereum Tokens
 
-All Ethereum ERC20 tokens are supported by Trezor Suite. To add them, simply create an Ethereum [account](https://www.notion.so/Accounts-60adc181cc424c90877650768cb8053d) and click Add token to add a new token using its contract address.
+All Ethereum ERC20 tokens are supported by Trezor Suite. To add them, simply create an Ethereum account and click Add token to add a new token using its contract address.
 
 To find a token's contract address, simply search for the token in your preferred search engine and copy the contract address from its project homepage or using an Ethereum block explorer like Etherscan. Once enabled, you will be able to view balances of the token under the Ethereum Account menu.
 

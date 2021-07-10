@@ -6,7 +6,7 @@ Other token networks are not supported by Trezor hardware wallets or Suite at th
 
 ### How to store custom tokens
 
-Create a new Ethereum address through an Ethereum [Account](https://www.notion.so/Accounts-60adc181cc424c90877650768cb8053d) and send the token to that address.
+Create a new Ethereum address through an Ethereum Account and send the token to that address.
 
 Once a token is received at that address, you can keep track of it by adding its Contract Address to Suite:
 

@@ -6,7 +6,7 @@ Other tokens can be managed through third-part apps such as Metamask. Below, we 
 
 **ERC20 Tokens**
 
-These are the most common types of tokens on Ethereum. As soon as a smart contract has been created for the token, you can use your Trezor device with that token. Trezor hardware wallets support these tokens by letting you import the custom token address in Trezor Suite to monitor it. These will automatically appear in Trezor Suite if it is supported or you can learn how to [add a custom token](https://www.notion.so/Adding-custom-tokens-1926b51f567e4fc5a0f0eea91876cbdb).
+These are the most common types of tokens on Ethereum. As soon as a smart contract has been created for the token, you can use your Trezor device with that token. Trezor hardware wallets support these tokens by letting you import the custom token address in Trezor Suite to monitor it. These will automatically appear in Trezor Suite if it is supported or you can learn how to add a custom token.
 
 **ERC721 tokens**
 
