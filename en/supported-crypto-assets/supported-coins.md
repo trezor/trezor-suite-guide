@@ -12,7 +12,7 @@ From the dashboard, simply click on Enable more coins. You will be taken to the 
 
 **ERC20 tokens**
 
-[Ethereum network ERC20](custom-eth-token.md) tokens can be managed using Trezor Suite by adding custom token addresses to a new or existing Ethereum Account.
+Ethereum network ERC20 tokens can be managed using Trezor Suite by adding custom token addresses to a new or existing Ethereum Account.
 
 ### What assets can I store on my Trezor?
 

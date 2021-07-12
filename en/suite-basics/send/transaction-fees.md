@@ -14,5 +14,5 @@ To set a custom fee, simply click the Custom button and enter a fee. This is use
 
 ### Speed up a slow or stuck transaction
 
-If your bitcoin or litecoin transaction is taking too long to confirm you can bump the fee higher to make miners prioritize it. This is only possible if you did not turn off RBF when the transaction was sent. [Read about using RBF to fix transaction problems.](rbf-replace-by-fee.md)
+If your bitcoin or litecoin transaction is taking too long to confirm you can bump the fee higher to make miners prioritize it. This is only possible if you did not turn off RBF when the transaction was sent. Read about using RBF to fix transaction problems.
 

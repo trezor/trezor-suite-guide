@@ -20,7 +20,7 @@ You can set a Locktime while creating a transaction.
 4. Confirm transaction details on your Trezor.
 5. You will be shown confirmation details.
 6. Copy the data to your clipboard or save it as a text document. When Broadcasting, click Send instead.
-7. Later, from another network, use [Send RAW](send-raw.md) or visit a block explorer to send the raw transaction data.
+7. Later, from another network, use Send RAW or visit a block explorer to send the raw transaction data.
 
 ### How to set a precise Locktime
 

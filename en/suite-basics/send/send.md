@@ -14,7 +14,7 @@ Sending a transaction is a straightforward process, but make sure you check all 
 
 ### Fees
 
-Network [transaction fees](transaction-fees.md) vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High. Some networks only offer a custom fee.
+Network transaction fees vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High. Some networks only offer a custom fee.
 
 Check network activity before sending a transaction to get an up-to-date idea of the fees being processed. You can use this information to set a Custom fee based on how quickly the transaction needs to confirm.
 
@@ -46,7 +46,7 @@ Every transaction you make creates multiple outputs. Some go to the recipient ad
 
 💡 Supported on BTC and ETH only
 
-[Replace by fee \(RBF\)](rbf-replace-by-fee.md) is a special setting available on some cryptocurrency networks which lets you increase the fee used on any unconfirmed transaction and have it processed more quickly.
+Replace by fee \(RBF\) is a special setting available on some cryptocurrency networks which lets you increase the fee used on any unconfirmed transaction and have it processed more quickly.
 
 ### Locktime for time-delayed transactions 
 
@@ -54,5 +54,5 @@ Once it has been picked up and mined into a block, at least six nodes must confi
 
 💡 Supported on BTC only
 
-[Locktime](locktime.md) is a feature available on some networks that delays the broadcasting of a transaction. This means that you can create and sign a transaction one day, and have it actually sent many hours, days or even years later.
+Locktime is a feature available on some networks that delays the broadcasting of a transaction. This means that you can create and sign a transaction one day, and have it actually sent many hours, days or even years later.
 
