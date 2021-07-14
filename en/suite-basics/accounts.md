@@ -1,6 +1,6 @@
 # Accounts
 
-Accounts let you create multiple isolated wallets on the same Trezor device, derived from the same [seed](../security/single-backup.md), to keep your coins organized and improve privacy.
+Accounts let you create multiple isolated wallets on the same Trezor device, derived from the same seed, to keep your coins organized and improve privacy.
 
 ### Creating a new account
 
