@@ -37,3 +37,20 @@ Taproot improves how transactions are signed and reduces the amount of data requ
 You can view your extended public key (XPUB) on the account's main page by switching to the Account details tab. Every account has its own unique XPUB, which makes it possible to see transactions going to and from the account. This is used to create 'watch-only' wallets that link all past, current, and future addresses used by the selected account.&#x20;
 
 While you can share this information in some scenarios, we recommend keeping it secret as it presents a privacy concern where others can view your balances and activity.
+
+## Taproot Accounts
+
+Taproot represents the first major upgrade to Bitcoin since SegWit was implemented in 2017. It comprises three Bitcoin Improvement Protocols (BIPs), and will improve Bitcoin's functionality. Taproot improves both privacy and network efficiency, making Bitcoin transactions safer. More complex transactions will be quicker to send, thanks to the fact that with Taproot, the wallet no longer needs to send the often extensive history of transactions which preceded the one being spent.
+
+The update comprises three different BIPs - namely [**BIP 340**](bip-340.md), [**BIP 341**](bip-341.md) and [**BIP 342**](bip-342.md)
+
+### **Using Taproot on your Trezor**
+
+First, ensure that your Trezor is running Firmware version 2.4.3 or higher. If not, please [update](https://wiki.trezor.io/User\_manual:Updating\_the\_Trezor\_device\_firmware) the Firmware installed.
+
+1. Open Trezor Suite and connect your Trezor device by following the on-screen instructions. Then navigate to '**My accounts**' in the sidebar menu, and click the '**+**' button
+2. In the '**New Account**' window, select '**Bitcoin**'
+3. Under '**Account type**' choose the '**Taproot**' option from the drop-down menu
+4. Then click the '**Add Account**' button
+
+If you're running Firmware version 2.4.2 or lower, you will not be able to setup Taproot accounts. In this case, please [update](https://wiki.trezor.io/User\_manual:Updating\_the\_Trezor\_device\_firmware) the Firmware.

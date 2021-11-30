@@ -24,15 +24,16 @@ Check network activity before sending a transaction to get an up-to-date idea of
 
 The address type you use for sending Bitcoin depends on the Account type you are using. By default, this will be a Native SegWit Bech32 account that creates addresses starting with the characters **`bc1`**.
 
-Using a Native SegWit account is recommended as it helps keep transaction fees to a minimum. Addresses have changed over time as Bitcoin standards have evolved - a new address taproot address will be introduced with the Taproot upgrade in 2021.
+Using a Native SegWit account is recommended as it helps keep transaction fees to a minimum.&#x20;
+
+Addresses have changed over time as Bitcoin standards have evolved, and the [Taproot](broken-reference) upgrade in November 2021 represents the first major upgrade to Bitcoin since SegWit was implemented in 2017.  The upgrade was activated at block 709,632, and promises to improve both privacy and network efficiency (scalability).&#x20;
 
 You can tell what account an address is part of by the first characters:
 
 * **Native SegWit** Bech32 addresses begin with **`bc1`**
 * **SegWit P2SH** addresses begin with a **`3`**
-* **Legacy P2PKH** addresses begin with a **`1`**&#x20;
-
-&#x20;All account types are interoperable so it should not matter what type of address the recipient uses.
+* **Legacy P2PKH** addresses begin with a **`1`**
+* **Taproot** addresses begin with **`bc1p`**&#x20;
 
 ## How transactions work
 
