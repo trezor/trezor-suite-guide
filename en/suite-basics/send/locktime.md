@@ -10,7 +10,7 @@
 
 ### Setting a Locktime
 
-💡 _Broadcast is turned off by default when using Locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network._
+:bulb: _Broadcast is turned off by default when using Locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network._
 
 You can set a Locktime while creating a transaction.
 
@@ -28,13 +28,12 @@ Using block height to set a Locktime is not very accurate as new blocks are mine
 
 **Unix timestamps** are used for more precise timing synchronized across computers. They track the number of seconds which have passed since January 1, 1970.
 
-Use a [Unix timestamp converter](https://www.unixtimestamp.com/) to see the current timestamp and calculate a timestamp for a precise time in the future. Setting a Locktime is as simple as increasing the current timestamp by the number of seconds it should be delayed.
+Use a [Unix timestamp converter](https://www.unixtimestamp.com) to see the current timestamp and calculate a timestamp for a precise time in the future. Setting a Locktime is as simple as increasing the current timestamp by the number of seconds it should be delayed.
 
-For example, if the current timestamp is 1625215800 and the desired Locktime is one week, the Unix timestamp to enter would be 1625820600 \(the current timestamp plus one week, or 604800 seconds\).
+For example, if the current timestamp is 1625215800 and the desired Locktime is one week, the Unix timestamp to enter would be 1625820600 (the current timestamp plus one week, or 604800 seconds).
 
 ### When to use Locktime
 
 Locktime can **preserve privacy** by letting you sign your transaction, copy the signed data to a memory stick, and broadcast it from a public location so you don't reveal your IP address or other identifying data.
 
 Locktime can also be used to set funds to transfer if no action is taken by the user. This could be useful for easy **inheritance planning** for cryptocurrency: send a transaction to an address owned by your next of kin with Locktime set for one year. If you are still alive and well when the transaction is due to be sent, resend the same transaction but extend the Locktime by one more year.ional part of Bitcoin [transactions](https://wiki.trezor.io/Transaction). It sets the earliest time a transaction can be mined into a block. It is possible to use locktime with [Trezor](https://wiki.trezor.io/Trezor) to make sure that a transaction is locked until a specific block height or a point in time.
-

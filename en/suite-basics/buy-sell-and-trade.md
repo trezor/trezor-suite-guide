@@ -4,9 +4,9 @@ You can buy, sell, and exchange cryptocurrencies directly through Trezor Suite. 
 
 All Trade transactions are performed using your Trezor device, ensuring coins you receive are exclusively in your custody.
 
-⚠ You may need to provide KYC \(Know Your Customer\) information to use these services in your country. 
+:warning: You may need to provide KYC (Know Your Customer) information to use these services in your country.&#x20;
 
-_Any issues experienced related to a cryptocurrency purchase can only be resolved by the exchanges' support teams. Please contact the exchange provider before reaching out to Trezor support._ 
+_Any issues experienced related to a cryptocurrency purchase can only be resolved by the exchanges' support teams. Please contact the exchange provider before reaching out to Trezor support._&#x20;
 
 ## How to trade cryptocurrency in Trezor Suite
 
@@ -53,4 +53,3 @@ Follow these steps to buy cryptocurrency through Invity and have it sent directl
 ### **Spend**
 
 You can spend your cryptocurrency directly on gift cards to redeem at particular merchants through Bitrefill.
-

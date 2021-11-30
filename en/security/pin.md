@@ -1,6 +1,6 @@
 # PIN
 
-Trezor hardware wallets use a personal identification number \(PIN\) to prevent other people from using your device.
+Trezor hardware wallets use a personal identification number (PIN) to prevent other people from using your device.
 
 Your PIN is a critical security feature and should be enabled before sending any coins to the device.
 
@@ -10,7 +10,7 @@ Your PIN should be memorable. It cannot be recovered by Trezor Suite or Trezor w
 
 During the onboarding process, you will be prompted to set a PIN. Setting a PIN is essential to security as it is used to unlock your Trezor any time you connect it to a host computer or perform a protected action.
 
-💡 PINs should be at least 6 digits long. The Trezor Model One supports up to 9 digits and the Trezor Model T supports up to 50 digits.
+:bulb: PINs should be at least 6 digits long. The Trezor Model One supports up to 9 digits and the Trezor Model T supports up to 50 digits.
 
 If you skipped this step during onboarding, you can set your PIN from the Trezor Suite Dashboard or through the Device Settings menu.
 
@@ -44,7 +44,6 @@ To set a new PIN on your Trezor Model T:
 5. Confirm the new PIN.
 6. Click Change PIN in the Device Settings menu.
 7. Confirm the action on your Trezor.
-8. Enter the old PIN using the Trezor touchscreen. 
+8. Enter the old PIN using the Trezor touchscreen.&#x20;
 9. Enter the new PIN on the Trezor.
 10. Confirm the new PIN.
-

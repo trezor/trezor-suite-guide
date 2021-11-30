@@ -2,7 +2,7 @@
 
 Transaction fees vary depending on the network used and conditions at the time. Miners, validators, and other forms of producing and verifying blocks will usually prioritize transactions with the highest fee.
 
-💡 Transaction fees are part of the network mechanism, they are not paid to SatoshiLabs.
+:bulb: Transaction fees are part of the network mechanism, they are not paid to SatoshiLabs.
 
 ### Setting the right fee for a transaction
 
@@ -15,4 +15,3 @@ To set a custom fee, simply click the Custom button and enter a fee. This is use
 ### Speed up a slow or stuck transaction
 
 If your bitcoin or litecoin transaction is taking too long to confirm you can bump the fee higher to make miners prioritize it. This is only possible if you did not turn off RBF when the transaction was sent. Read about using RBF to fix transaction problems.
-

@@ -4,7 +4,7 @@ Sending a transaction in Trezor Suite is easy. All you need is an account with a
 
 ## How to send a transaction
 
-Sending a transaction is a straightforward process, but make sure you check all details are correct on your Trezor before confirming anything.  
+Sending a transaction is a straightforward process, but make sure you check all details are correct on your Trezor before confirming anything. &#x20;
 
 1. The transaction recipient will provide you with an address. Copy this into the Address field.
 2. Enter an amount to send. This can be denominated in fiat or crypto. Always check it is correct before proceeding.
@@ -18,7 +18,7 @@ Network transaction fees vary depending on how busy the network is. Trezor Suite
 
 Check network activity before sending a transaction to get an up-to-date idea of the fees being processed. You can use this information to set a Custom fee based on how quickly the transaction needs to confirm.
 
-💡 Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
+:bulb: Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
 
 ### Bitcoin address types
 
@@ -30,29 +30,28 @@ You can tell what account an address is part of by the first characters:
 
 * **Native SegWit** Bech32 addresses begin with **`bc1`**
 * **SegWit P2SH** addresses begin with a **`3`**
-* **Legacy P2PKH** addresses begin with a **`1`** 
+* **Legacy P2PKH** addresses begin with a **`1`**&#x20;
 
- All account types are interoperable so it should not matter what type of address the recipient uses.
+&#x20;All account types are interoperable so it should not matter what type of address the recipient uses.
 
 ## How transactions work
 
-Transactions are signed messages. When broadcast, they are added to a shared memory pool where other computers \(nodes\) can see them and the fee assigned to them. To claim the fee, the transaction has to be added into a block by a mining node.   
+Transactions are signed messages. When broadcast, they are added to a shared memory pool where other computers (nodes) can see them and the fee assigned to them. To claim the fee, the transaction has to be added into a block by a mining node.  &#x20;
 
-When you send a transaction, must be confirmed by the network by being mined into a block and then confirmed by successive block. An **unconfirmed transaction** is one that is in the memory pool waiting for confirmation. The time this takes depends on the fee you paid, from around ten minutes to many hours. 
+When you send a transaction, must be confirmed by the network by being mined into a block and then confirmed by successive block. An **unconfirmed transaction** is one that is in the memory pool waiting for confirmation. The time this takes depends on the fee you paid, from around ten minutes to many hours.&#x20;
 
 ### Speeding up a transaction with RBF
 
 Every transaction you make creates multiple outputs. Some go to the recipient address, others are returned to a change address owned by you, the sender.
 
-💡 Supported on BTC and ETH only
+:bulb: Supported on BTC and ETH only
 
-Replace by fee \(RBF\) is a special setting available on some cryptocurrency networks which lets you increase the fee used on any unconfirmed transaction and have it processed more quickly.
+Replace by fee (RBF) is a special setting available on some cryptocurrency networks which lets you increase the fee used on any unconfirmed transaction and have it processed more quickly.
 
-### Locktime for time-delayed transactions 
+### Locktime for time-delayed transactions&#x20;
 
 Once it has been picked up and mined into a block, at least six nodes must confirm it has been legitimately mined before it is considered confirmed.
 
-💡 Supported on BTC only
+:bulb: Supported on BTC only
 
 Locktime is a feature available on some networks that delays the broadcasting of a transaction. This means that you can create and sign a transaction one day, and have it actually sent many hours, days or even years later.
-
