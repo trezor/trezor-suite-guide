@@ -18,7 +18,7 @@ Network transaction fees vary depending on how busy the network is. Trezor Suite
 
 Check network activity before sending a transaction to get an up-to-date idea of the fees being processed. You can use this information to set a Custom fee based on how quickly the transaction needs to confirm.
 
-:bulb: Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
+💡 Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
 
 ### Bitcoin address types
 
@@ -45,7 +45,7 @@ When you send a transaction, must be confirmed by the network by being mined int
 
 Every transaction you make creates multiple outputs. Some go to the recipient address, others are returned to a change address owned by you, the sender.
 
-:bulb: Supported on BTC and ETH only
+💡 Supported on BTC and ETH only
 
 Replace by fee (RBF) is a special setting available on some cryptocurrency networks which lets you increase the fee used on any unconfirmed transaction and have it processed more quickly.
 
@@ -53,6 +53,6 @@ Replace by fee (RBF) is a special setting available on some cryptocurrency netwo
 
 Once it has been picked up and mined into a block, at least six nodes must confirm it has been legitimately mined before it is considered confirmed.
 
-:bulb: Supported on BTC only
+💡 Supported on BTC only
 
 Locktime is a feature available on some networks that delays the broadcasting of a transaction. This means that you can create and sign a transaction one day, and have it actually sent many hours, days or even years later.

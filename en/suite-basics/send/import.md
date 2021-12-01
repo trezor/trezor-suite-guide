@@ -12,4 +12,4 @@ To send multiple Bitcoin transactions at the same time, use Trezor Suite's Impor
 8. Verify each transaction address and amount on your device.
 9. Click Send.
 
-:bulb: By importing transactions in batches, additional transaction data takes less space and less additional fees. Sending dozens of transactions using Import makes bitcoin invoicing and payments a quick and cheap process.
+💡 By importing transactions in batches, additional transaction data takes less space and less additional fees. Sending dozens of transactions using Import makes bitcoin invoicing and payments a quick and cheap process.

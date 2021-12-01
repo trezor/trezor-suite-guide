@@ -6,7 +6,7 @@ Shamir backup creates multiple shares instead of a single seed. Users can set a 
 
 ### Creating a Shamir Backup
 
-:warning: To create a Shamir backup on a used device, the Trezor memory must be wiped. Make sure you have a recovery seed safely backed up for any wallet already loaded on the device.
+⚠️ To create a Shamir backup on a used device, the Trezor memory must be wiped. Make sure you have a recovery seed safely backed up for any wallet already loaded on the device.
 
 1. &#x20;With a new or wiped Trezor Model T, follow the Onboarding to create a Shamir share backup, or visit Device Settings and choose Create backup.
 2. Set a total number of shares.

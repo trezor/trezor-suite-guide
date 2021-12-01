@@ -15,7 +15,7 @@ To **create raw transaction data**:
 
 To **send raw transaction data**:
 
-:bulb: It is best to use a different host machine to send a signed raw transaction.
+💡 It is best to use a different host machine to send a signed raw transaction.
 
 1. Select Send Raw from the dropdown menu.
 2. Paste the raw transaction data into the text box.

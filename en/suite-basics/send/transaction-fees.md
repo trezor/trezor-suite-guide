@@ -2,7 +2,7 @@
 
 Transaction fees vary depending on the network used and conditions at the time. Miners, validators, and other forms of producing and verifying blocks will usually prioritize transactions with the highest fee.
 
-:bulb: Transaction fees are part of the network mechanism, they are not paid to SatoshiLabs.
+💡 Transaction fees are part of the network mechanism, they are not paid to SatoshiLabs.
 
 ### Setting the right fee for a transaction
 

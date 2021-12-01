@@ -6,9 +6,9 @@ Access the Remember and Eject settings by clicking on the top-left button showin
 
 **Remember** allows you to monitor your coin balances without needing your Trezor or your private keys. It tracks the wallet extended public key (XPUB), which gives information about address holdings.&#x20;
 
-:bulb: If you store your Trezor in a secure place but want to watch any incoming or outgoing transactions, Remember lets you see account activity without needing to take your Trezor out of storage.&#x20;
+💡 If you store your Trezor in a secure place but want to watch any incoming or outgoing transactions, Remember lets you see account activity without needing to take your Trezor out of storage.&#x20;
 
 **Eject** removes the wallet from view while Trezor Suite is running. Ejecting a Hidden Wallet will make the user enter the passphrase again. Ejecting a standard wallet will stop tracking address balances. To find the wallet again, click Add wallet, or reconnect and unlock your Trezor.&#x20;
 
-:warning: If you are using a shared or public computer, wallet balances could be viewed by others who have access to the computer. Eject any saved wallets to prevent revealing this information.
+⚠️ If you are using a shared or public computer, wallet balances could be viewed by others who have access to the computer. Eject any saved wallets to prevent revealing this information.
 

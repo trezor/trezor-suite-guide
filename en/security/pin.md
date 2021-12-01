@@ -10,7 +10,7 @@ Your PIN should be memorable. It cannot be recovered by Trezor Suite or Trezor w
 
 During the onboarding process, you will be prompted to set a PIN. Setting a PIN is essential to security as it is used to unlock your Trezor any time you connect it to a host computer or perform a protected action.
 
-:bulb: PINs should be at least 6 digits long. The Trezor Model One supports up to 9 digits and the Trezor Model T supports up to 50 digits.
+💡 PINs should be at least 6 digits long. The Trezor Model One supports up to 9 digits and the Trezor Model T supports up to 50 digits.
 
 If you skipped this step during onboarding, you can set your PIN from the Trezor Suite Dashboard or through the Device Settings menu.
 

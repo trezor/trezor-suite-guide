@@ -2,7 +2,7 @@
 
 OP\_Return is a Bitcoin feature that provides a memo field for transactions. Usage of OP\_Return is limited to prevent network congestion.
 
-:warning: OP\_Return transactions make any Bitcoin sent with the transaction unspendable. Do not send more than the bare minimum plus a network fee when creating an OP\_Return transaction.
+⚠️ OP\_Return transactions make any Bitcoin sent with the transaction unspendable. Do not send more than the bare minimum plus a network fee when creating an OP\_Return transaction.
 
 Messages stored on the blockchain will be viewable as long as  Bitcoin exists and can not be censored. &#x20;
 

@@ -10,7 +10,7 @@
 
 ### Setting a Locktime
 
-:bulb: _Broadcast is turned off by default when using Locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network._
+💡 _Broadcast is turned off by default when using Locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network._
 
 You can set a Locktime while creating a transaction.
 
