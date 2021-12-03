@@ -6,10 +6,7 @@
 
 * [Suite Basics](en/suite-basics/README.md)
   * [Suite Guide](en/suite-basics/suite-guide.md)
-  * [Accounts](en/suite-basics/accounts/README.md)
-    * [BIP 340](en/suite-basics/accounts/bip-340.md)
-    * [BIP 341](en/suite-basics/accounts/bip-341.md)
-    * [BIP 342](en/suite-basics/accounts/bip-342.md)
+  * [Accounts](en/suite-basics/accounts.md)
   * [Receive](en/suite-basics/receive.md)
   * [Send](en/suite-basics/send/README.md)
     * [Send overview](en/suite-basics/send/send.md)
