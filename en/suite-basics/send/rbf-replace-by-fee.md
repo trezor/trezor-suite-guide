@@ -1,4 +1,4 @@
-# RBF \(Replace by fee\)
+# RBF (Replace by fee)
 
 ## Replace by fee
 
@@ -22,9 +22,9 @@ A dialog will open that lets you assign a new fee, which must be higher than the
 
 ### Finalizing a transaction
 
-If you have sent an RBF transaction and it stays unconfirmed longer than expected, the recipient may not accept RBF transactions.
+Some merchants accept Bitcoin transactions without needing them to fully confirm, but only if the transaction is not replaceable.&#x20;
 
-Instead of waiting for the transaction to fail, you can Finalize it. This replaces the transaction with one that has RBF disabled and a final fee allocated to it. The fee cannot be increased any further once finalized, so set it appropriately.
+If you are dealing with such a merchant and your transaction is staying unconfirmed longer than expected, then instead of waiting for the transaction to confirm, you can Finalize it. This replaces the transaction with one that has RBF disabled and a final fee allocated to it. The fee cannot be increased any further once finalized, so set it appropriately.
 
 ### RBF by output reduction
 
@@ -36,4 +36,3 @@ Using RBF output reduction can be done in the same way as bumping the fee, as lo
 2. A new window will open where a new fee can be set.
 3. Trezor Suite will show a message that there are no funds left for the fee, and that the amount sent must be reduced.
 4. Set a new fee and confirm the new settings. The additional fee will then be reallocated from the transaction output.
-
