@@ -26,6 +26,7 @@
 * [Privacy](en/privacy/README.md)
   * [Tor](en/privacy/tor.md)
   * [Remember and Eject](en/privacy/remember-and-eject.md)
+  * [Self-Hosted Full Node via Electrum Server](en/privacy/self-hosted-full-node-via-electrum-server.md)
 * [Supported Crypto](en/supported-crypto-assets/README.md)
   * [Supported Coins](en/supported-crypto-assets/supported-coins.md)
   * [Custom ERC20 Token](en/supported-crypto-assets/custom-eth-token.md)
