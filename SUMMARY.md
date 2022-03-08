@@ -31,3 +31,4 @@
   * [Supported Coins](en/supported-crypto-assets/supported-coins.md)
   * [Custom ERC20 Token](en/supported-crypto-assets/custom-eth-token.md)
   * [Ethereum Tokens](en/supported-crypto-assets/eth-tokens.md)
+  * [Cardano (ADA) - Staking in Trezor Suite](en/supported-crypto-assets/cardano-ada-staking-in-trezor-suite.md)
