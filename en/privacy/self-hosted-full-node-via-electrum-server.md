@@ -14,6 +14,8 @@ By default, Trezor Suite determines Account balances by querying the Trezor Bloc
 
 **How to use it in the Trezor Suite Desktop App**
 
+💡 Note that you cannot connect to your own node via the Trezor Suite web app.
+
 To enable the feature, you must access the Bitcoin advanced settings via:
 
 * **Settings > Crypto > Bitcoin** ⚙️
