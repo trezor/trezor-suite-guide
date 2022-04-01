@@ -1,4 +1,4 @@
-# Sign & Verify
+# Sign & Verify in Trezor Suite
 
 The ability to sign a message with your bitcoin address — and securely verify the authenticity of such messages — makes it possible for you to prove ownership of a specific address, or ask someone else to prove that they own a specific address before you continue with a transaction.
 
