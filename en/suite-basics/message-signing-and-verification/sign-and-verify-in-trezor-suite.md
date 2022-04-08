@@ -8,7 +8,10 @@ Address ownership verification may also be requested if you lose access to an ex
 
 * First, select **Accounts** at the top of the Suite window
 * Then select the account in question using the **My accounts** sidebar menu
-* From the menu bar at the top of the Account overview page, click the three dots to reveal the **Sign & Verify** tab
+* From the menu bar at the top of the Account overview page, click the three dots which will reveal the **Sign & Verify** tab:
+
+![](../../../.gitbook/assets/SignVerify\_highlight.png)
+
 * You will then see the **Sign/Verify message** window.
 * Type the message into the **Message** box and select the correct address from the drop-down **Address** menu
 * You can also toggle signature **Format** (Trezor or Electrum compatible)
