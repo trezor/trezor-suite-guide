@@ -10,14 +10,8 @@ The Trezor signature format includes additional (script type) information in the
 
 * Go to the **Accounts** page in Trezor Suite
 * Select the account in question from the **My accounts** sidebar menu
-* In the **Overview** page of the account, click the three dots in the menu bar, which will reveal the **Sign & Verify** tab:
-
-![](../../../.gitbook/assets/SignVerify\_highlight.png)
-
+* In the **Overview** page of the account, click the three dots in the menu bar, which will reveal the **Sign & Verify** tab
 * Write a message in the **Message** box and select an address from the drop-down **Address** menu
-* Next to the **Address** box, you can switch the format from **‘Trezor’** to **‘Electrum’**:
-
-![](../../../.gitbook/assets/Format\_Electrum.png)
-
+* Next to the **Address** box, you can switch the format from **‘Trezor’** to **‘Electrum’**
 * Then click **‘Sign’** and confirm the action by following the instructions displayed on your Trezor device
 * Once confirmed using your Trezor, the signature will appear in the **Signature** box in Suite
