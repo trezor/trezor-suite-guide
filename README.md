@@ -16,17 +16,24 @@ For example, if you want to write a czech translation for english page with slug
 
 English locale defines the content structure. All other locales can only provide translations of english pages but they can't define their own pages.
 
-This means that any non-enlgish page that doesn't have a slug matching slug of some english page won't be displayed in Suite.
+This means that any non-english page that doesn't have a slug matching slug of some english page won't be displayed in Suite.
 
 ### Categories can't hold content
 
-**Categories are pages that have sub-pages**. We do not allow categories to hold content on their own. Categories only serve to organise the conent which must be put in leaf pages -- that is pages without children.
+**Categories are pages that have sub-pages**. We do not allow categories to hold content on their own. Categories only serve to organise the content which must be put in leaf pages -- that is pages without children.
 
 ### Not all types of rich content are supported
 
 As of now only these elements are supported:
 
-![](.gitbook/assets/117797589-77aebc00-b250-11eb-8d92-31c37bf83803.png)
+![](.gitbook/assets/readme\_features\_info.png)
+
+### Images
+
+* To add an image to root categories, just add corresponding images to their content without any caption or additional text.
+* To add images to articles, just add corresponding images to content without any caption. Please be aware that guide content width is only 305px.
+
+Please delete unused images. Otherwise, they are unnecessarily bundled with the application.
 
 ## How to publish
 

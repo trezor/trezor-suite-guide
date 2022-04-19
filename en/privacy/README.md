@@ -1,3 +1,3 @@
 # Privacy
 
-![](../../.gitbook/assets/Privacy@2x.png)
+![](../../.gitbook/assets/category\_privacy@2x.png)

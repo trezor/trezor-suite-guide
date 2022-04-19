@@ -1,3 +1,3 @@
 # Supported Crypto
 
-![](../../.gitbook/assets/Crypto@2x.png)
+![](../../.gitbook/assets/category\_crypto@2x.png)

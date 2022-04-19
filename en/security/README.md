@@ -1,3 +1,3 @@
 # Security
 
-![](../../.gitbook/assets/Security@2x.png)
+![](../../.gitbook/assets/category\_security@2x.png)

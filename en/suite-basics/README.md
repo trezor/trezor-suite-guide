@@ -1,3 +1,3 @@
 # Suite Basics
 
-![](../../.gitbook/assets/Basics@2x.png)
+![](../../.gitbook/assets/category\_basics@2x.png)
