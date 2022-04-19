@@ -1,3 +1,3 @@
 # Suite Basics
 
-{% file src="../../.gitbook/assets/Basics@2x.png" %}
+![](../../.gitbook/assets/Basics@2x.png)
