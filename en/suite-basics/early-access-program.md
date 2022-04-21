@@ -13,7 +13,7 @@ The EAP delivers beta versions of new Trezor Suite updates, with users free to c
 * Click on **‘Join’**
 * In the **‘Early Access Program’** modal window, check the **‘I understand’** box to agree to the terms of the EAP, and then click **‘Join the Program’**
 * You will then see confirmation that the EAP has been enabled, and you can either check for beta updates immediately, or on the next launch of Suite
-* Once enable, an icon shaped like a star will appear in the top-right hand corner of Trezor Suite:
+* Once enabled, an icon shaped like a star will appear in the top-right hand corner of Trezor Suite:
 
 ![](../../.gitbook/assets/EAP\_icon\_highlight.png)
 
