@@ -20,6 +20,7 @@
   * [Trade](en/suite-basics/buy-sell-and-trade.md)
   * [Save Bitcoin](en/suite-basics/save-bitcoin.md)
   * [Labeling](en/suite-basics/labeling.md)
+  * [Bitcoin-only firmware](en/suite-basics/bitcoin-only-firmware.md)
   * [Early Access Program](en/suite-basics/early-access-program.md)
   * [Message signing & verification](en/suite-basics/message-signing-and-verification/README.md)
     * [Sign & Verify in Trezor Suite](en/suite-basics/message-signing-and-verification/sign-and-verify-in-trezor-suite.md)

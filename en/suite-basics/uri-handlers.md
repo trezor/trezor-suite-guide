@@ -22,7 +22,7 @@ Custom altcoin URI handlers are compatible with the desktop version of Trezor Su
 
 To use the Trezor Suite web application as a URI handler, when you first start the application click on **‘Add application’** when prompted to add “[suite.trezor.io](http://suite.trezor.io)” as an app for handling Bitcoin links:
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 **Using URIs to make payments in Trezor Suite**
 
