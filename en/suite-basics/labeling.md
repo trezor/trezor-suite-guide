@@ -1,8 +1,8 @@
 # Labeling
 
-Labeling is a tool that to help you stay organized. Rename your wallets, Accounts, and addresses to keep track of your portfolio, separate transactions based on their sender, or make notes about transactions. 
+Labeling is a tool that helps you stay organized. Rename your wallets, Accounts, and addresses to keep track of your portfolio, separate transactions based on their sender, or make notes about transactions.&#x20;
 
-Labels are synced to your Google Drive or Dropbox account or can be stored locally. 
+Labels are synced to your Google Drive or Dropbox account or can be stored locally.&#x20;
 
 ### Turning on Labeling
 
@@ -14,7 +14,6 @@ When labeling is off, accounts will be named according to Trezor Suite defaults 
 
 ### Storing labels
 
-You can save these labels with a Dropbox or Google Drive account or you can store the information locally on your computer. If you store it locally, you will not be able to access your labels while using Suite on another device. 
+You can save these labels with a Dropbox or Google Drive account, or you can store the information locally on your computer. If you store it locally, you will not be able to access your labels while using Suite on another device.&#x20;
 
 Once you choose where to store the information, many things can be labeled by clicking on them, allowing you to stay organized and know what coins came from where or what price you bought them at.
-
