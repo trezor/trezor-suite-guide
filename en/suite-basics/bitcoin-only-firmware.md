@@ -22,7 +22,7 @@ If you wish to trade other cryptocurrencies, you will need to install the Univer
 * In the ‘Device’ menu, scroll down to the ‘Firmware’ section
 * Here you will see details of both the **version** and **type** of firmware installed:
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 * Click the **‘Switch to Universal’** button and follow the instructions displayed in Trezor Suite and on your Trezor device screen.
 

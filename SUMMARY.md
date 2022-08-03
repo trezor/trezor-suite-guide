@@ -20,6 +20,7 @@
   * [Trade](en/suite-basics/buy-sell-and-trade.md)
   * [Save Bitcoin](en/suite-basics/save-bitcoin.md)
   * [Labeling](en/suite-basics/labeling.md)
+  * [Express Bitcoin values in Satoshis](en/suite-basics/express-bitcoin-values-in-satoshis.md)
   * [Bitcoin-only firmware](en/suite-basics/bitcoin-only-firmware.md)
   * [Early Access Program](en/suite-basics/early-access-program.md)
   * [Message signing & verification](en/suite-basics/message-signing-and-verification/README.md)
