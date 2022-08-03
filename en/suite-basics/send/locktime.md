@@ -28,7 +28,7 @@ Using block height to set a Locktime is not very accurate as new blocks are mine
 
 **Unix timestamps** are used for more precise timing synchronized across computers. They track the number of seconds which have passed since January 1, 1970.
 
-Use a [Unix timestamp converter](https://www.unixtimestamp.com) to see the current timestamp and calculate a timestamp for a precise time in the future. Setting a Locktime is as simple as increasing the current timestamp by the number of seconds it should be delayed.
+Use a [Unix timestamp converter](https://www.unixtimestamp.com/) to see the current timestamp and calculate a timestamp for a precise time in the future. Setting a Locktime is as simple as increasing the current timestamp by the number of seconds it should be delayed.
 
 For example, if the current timestamp is 1625215800 and the desired Locktime is one week, the Unix timestamp to enter would be 1625820600 (the current timestamp plus one week, or 604800 seconds).
 
