@@ -11,6 +11,7 @@
   * [Send](en/suite-basics/send/README.md)
     * [Send overview](en/suite-basics/send/send.md)
     * [Transaction fees](en/suite-basics/send/transaction-fees.md)
+    * [Setting fees with decimals (Bitcoin transactions)](en/suite-basics/send/setting-fees-with-decimals-bitcoin-transactions.md)
     * [Locktime](en/suite-basics/send/locktime.md)
     * [RBF (Replace by fee)](en/suite-basics/send/rbf-replace-by-fee.md)
     * [OP\_Return](en/suite-basics/send/op\_return.md)

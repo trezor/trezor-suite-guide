@@ -10,40 +10,37 @@ Your PIN should be memorable. It cannot be recovered by Trezor Suite or Trezor w
 
 During the onboarding process, you will be prompted to set a PIN. Setting a PIN is essential to security as it is used to unlock your Trezor any time you connect it to a host computer or perform a protected action.
 
-💡 PINs should be at least 6 digits long. Both Trezor Model One and Trezor Model T support PINs up to 50 digits.
+💡 PINs should be at least 6 digits long. Both Trezor Model One and Trezor Model T support PINs up to 50 digits in length.
 
 If you skipped this step during onboarding, you can set your PIN from the Trezor Suite Dashboard or through the Device Settings menu.
 
 ### Changing a PIN
 
-You can change a PIN at any time through the Device Settings menu. The process of setting a PIN differs depending on the hardware wallet you are using.
+You can change a PIN at any time through the **Device Settings** menu. The process of setting a PIN differs depending on the Trezor model you are using.
 
 #### Trezor Model One PIN
 
 To set a new PIN on your Trezor Model One:
 
-1. Click Change PIN in the Device Settings menu.
-2. Confirm the action on your Trezor.
-3. Enter the old PIN using the numbers shown on your Trezor and the grid shown on the computer.
-4. Enter the new PIN in the same way.
-5. Confirm the new PIN.
-6. Click Change PIN in the Device Settings menu.
-7. Confirm the action on your Trezor.
-8. Enter the old PIN using the numbers shown on your Trezor and the grid shown on the computer.
-9. Enter the new PIN in the same way.
-10. Confirm the new PIN.
+* Click **'Change PIN'** in the **Device Settings** menu:
+
+![](<../../.gitbook/assets/image (10).png>)
+
+* Confirm the action on your Trezor.
+* Enter the old PIN using the numbers shown on your Trezor and the grid shown on the computer.
+* Enter the new PIN (up to 50 digits long).
+* Confirm the new PIN.
+* Trezor Suite will then show the **PIN changed successfully** notification:
+
+![](<../../.gitbook/assets/image (6).png>)
 
 #### Trezor Model T PIN
 
 To set a new PIN on your Trezor Model T:
 
-1. Click Change PIN in the Device Settings menu.
-2. Confirm the action on your Trezor.
-3. Enter the old PIN using the Trezor touchscreen.
-4. Enter the new PIN on the Trezor.
-5. Confirm the new PIN.
-6. Click Change PIN in the Device Settings menu.
-7. Confirm the action on your Trezor.
-8. Enter the old PIN using the Trezor touchscreen.&#x20;
-9. Enter the new PIN on the Trezor.
-10. Confirm the new PIN.
+* Click **'Change PIN'** in the **Device Settings** menu.
+* Confirm the action on your Trezor.
+* Enter the old PIN using the Trezor touchscreen.
+* Enter the new PIN (up to 50 digits long) on the Trezor.
+* Confirm the new PIN.
+* Trezor Suite will then show the **PIN changed successfully** notification.
