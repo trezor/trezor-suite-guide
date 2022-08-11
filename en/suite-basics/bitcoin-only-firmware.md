@@ -10,7 +10,7 @@ If the device is already set-up with Universal firmware, you can switch to Bitco
 * In the ‘Device’ menu, scroll down to the ‘Firmware’ section
 * Here you will see details of both the **version** and **type** of firmware installed:
 
-![](<../../.gitbook/assets/image (11).png>)
+![](../../.gitbook/assets/FW-menu.png)
 
 * Click the **‘Switch to Bitcoin’** button and follow the instructions displayed in Trezor Suite and on your Trezor device screen.
 
@@ -22,7 +22,7 @@ If you wish to trade other cryptocurrencies, you will need to install the Univer
 * In the ‘Device’ menu, scroll down to the ‘Firmware’ section
 * Here you will see details of both the **version** and **type** of firmware installed:
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](../../.gitbook/assets/FW-menu-2.png)
 
 * Click the **‘Switch to Universal’** button and follow the instructions displayed in Trezor Suite and on your Trezor device screen.
 

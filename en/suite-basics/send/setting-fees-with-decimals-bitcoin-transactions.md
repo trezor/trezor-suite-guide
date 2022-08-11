@@ -4,7 +4,7 @@ When sending Bitcoin funds in Trezor Suite, users can now set non-integer custom
 
 To do so, in the **‘Fee’** section of the **‘Send’** transaction tab, simply select the **‘Custom’** fee option and enter the desired amount in sat/B, for example:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](../../../.gitbook/assets/Send\_Fee\_2dp.png)
 
 💡 As shown in the example, fee rates are costed per byte of data, rather than the amount of Bitcoin being sent.
 
