@@ -32,6 +32,8 @@ As of now only these elements are supported:
 
 * To add an image to root categories, just add corresponding images to their content without any caption or additional text.
 * To add images to articles, just add corresponding images to content without any caption. Please be aware that guide content width is only 305px.
+* Make sure not to have duplicate images or files. Github renames duplicates to contain parentheses and that breaks images in all articles.&#x20;
+* Do not use parentheses, spaces or special characters in image files names.&#x20;
 
 Please delete unused images. Otherwise, they are unnecessarily bundled with the application.
 
