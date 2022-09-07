@@ -8,7 +8,7 @@ Follow these steps to set up a **dollar-cost-averaging (DCA)** Bitcoin savings a
 ![](../../.gitbook/assets/Save\_Bitcoin-HL.png)
 
 * Choose your country of residence using the 'Select your country' drop down menu. _Note: this feature is currently available only in Belgium, Germany, Spain, The Netherlands, and the USA, (excluding the state of New York)._
-* Select the amount and frequency with which you would like to regularly save into Bitcoin, then click **'Confirm setup'.**
+* Select the amount and frequency with which you would like to regularly save into Bitcoin, then click **Confirm setup.**
 * Agree to the terms and conditions.&#x20;
 * You will then be redirected to [Invity.io](http://invity.io) to complete the setup. Follow the instructions on your screen:
 * Create an [Invity.io](http://invity.io) account using only an e-mail address and choose your Trezor device as an authenticator.
