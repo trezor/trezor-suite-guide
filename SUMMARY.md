@@ -27,6 +27,7 @@
     * [Sign & Verify in Trezor Suite](en/suite-basics/message-signing-and-verification/sign-and-verify-in-trezor-suite.md)
     * [Electrum compatible signatures](en/suite-basics/message-signing-and-verification/electrum-compatible-signatures.md)
   * [URI handlers](en/suite-basics/uri-handlers.md)
+  * [Express Bitcoin values in Satoshis](en/suite-basics/express-bitcoin-values-in-satoshis.md)
 * [Security](en/security/README.md)
   * [Single Backup](en/security/single-backup.md)
   * [Shamir Backup](en/security/shamir-backup.md)
