@@ -10,9 +10,9 @@ Data is shared via a peer-to-peer network, meaning each node is connected direct
 
 Running a full node offers a number of advantages to users, such as the ability to interact with the Bitcoin network with greater privacy and security, and enabling users to prove ownership of their Bitcoin assets without relying on a third party.
 
-By default, Trezor Suite determines Account balances by querying the Trezor Blockbook servers. However, users can now connect an Trezor Suite to their own full node, preserving the full privacy of their addresses and balances.
+By default, Trezor Suite determines Account balances by querying the Trezor Blockbook servers. However, users can now connect Trezor Suite to their own full node, preserving the full privacy of their addresses and balances.
 
-**How to use it in the Trezor Suite Desktop App**
+**How to use it in the Trezor Suite desktop app**
 
 💡 Note that you cannot connect to your own node via the Trezor Suite web app.
 

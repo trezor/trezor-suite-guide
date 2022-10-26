@@ -19,6 +19,7 @@
     * [Send RAW](en/suite-basics/send/send-raw.md)
   * [Trade](en/suite-basics/buy-sell-and-trade.md)
   * [Coin Control](en/suite-basics/coin-control.md)
+  * [Dust & Dust Limit](en/suite-basics/dust-and-dust-limit.md)
   * [Labeling](en/suite-basics/labeling.md)
   * [Bitcoin-only firmware](en/suite-basics/bitcoin-only-firmware.md)
   * [Early Access Program](en/suite-basics/early-access-program.md)
