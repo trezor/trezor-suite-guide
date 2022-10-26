@@ -26,7 +26,7 @@ The address type you use for sending Bitcoin depends on the Account type you are
 
 Using a Native SegWit account is recommended as it helps keep transaction fees to a minimum.&#x20;
 
-Addresses have changed over time as Bitcoin standards have evolved, and the [Taproot](broken-reference) upgrade in November 2021 represents the first major upgrade to Bitcoin since SegWit was implemented in 2017.  The upgrade was activated at block 709,632, and promises to improve both privacy and network efficiency (scalability).&#x20;
+Addresses have changed over time as Bitcoin standards have evolved, and the [Taproot](https://trezor.io/learn/a/what-is-taproot) upgrade in November 2021 represents the first major upgrade to Bitcoin since SegWit was implemented in 2017.  The upgrade was activated at block 709,632, and promises to improve both privacy and network efficiency (scalability).&#x20;
 
 You can tell what account an address is part of by the first characters:
 

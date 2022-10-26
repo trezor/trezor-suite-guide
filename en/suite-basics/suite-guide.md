@@ -27,5 +27,4 @@ Trezor Suite includes many simple and advanced features. To learn more about how
 Other resources:
 
 * [Supported cryptocurrencies](https://trezor.io/coins/)
-* [Trezor Wiki](https://wiki.trezor.io/)
-
+* [Trezor knowledge base](https://trezor.io/learn)

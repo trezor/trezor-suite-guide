@@ -42,11 +42,11 @@ While you can share this information in some scenarios, we recommend keeping it 
 
 Taproot represents the first major upgrade to Bitcoin since SegWit was implemented in 2017. It comprises three Bitcoin Improvement Protocols (BIPs), and will improve Bitcoin's functionality. Taproot improves both privacy and network efficiency, making Bitcoin transactions safer. More complex transactions will be quicker to send, thanks to the fact that with Taproot, the wallet no longer needs to send the often extensive history of transactions which preceded the one being spent.
 
-The update comprises three different BIPs - namely [**BIP 340**](https://wiki.trezor.io/Taproot), [**BIP 341**](https://wiki.trezor.io/Taproot) and [**BIP 342**](https://wiki.trezor.io/Taproot).
+The update comprises three different BIPs - namely [BIP 340](https://trezor.io/learn/a/what-is-taproot), [BIP 341](https://trezor.io/learn/a/what-is-taproot) and [BIP 342](https://trezor.io/learn/a/what-is-taproot).
 
 ### **Using Taproot on your Trezor**
 
-First, ensure that your Trezor is running Firmware version 2.4.3 or higher. If not, please [update](https://wiki.trezor.io/User\_manual:Updating\_the\_Trezor\_device\_firmware) the Firmware installed.
+First, ensure that your Trezor is running Firmware version 2.4.3 or higher. If not, please [update](https://trezor.io/learn/a/update-trezor-device-firmware) the Firmware installed.
 
 1. Open Trezor Suite and connect your Trezor device by following the on-screen instructions. Then navigate to '**My accounts**' in the sidebar menu, and click the '**+**' button
 2. In the '**New Account**' window, select '**Bitcoin**'

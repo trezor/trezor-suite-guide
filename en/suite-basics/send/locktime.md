@@ -1,6 +1,6 @@
 # Locktime
 
-**Locktime** is an optLocktime creates a transaction that only broadcasts when a certain time or block height has been reached. Setting a locktime is as simple as stating a blockheight or Unix timestamp at which it should broadcast and then signing the transaction as usual.
+**Locktime** is an optional part of Bitcoin transactions. Locktime creates a transaction that only broadcasts when a certain time or block height has been reached. Setting a locktime is as simple as stating a blockheight or Unix timestamp at which it should broadcast and then signing the transaction as usual.
 
 ### Why use Locktime?
 
@@ -36,4 +36,4 @@ For example, if the current timestamp is 1625215800 and the desired Locktime is 
 
 Locktime can **preserve privacy** by letting you sign your transaction, copy the signed data to a memory stick, and broadcast it from a public location so you don't reveal your IP address or other identifying data.
 
-Locktime can also be used to set funds to transfer if no action is taken by the user. This could be useful for easy **inheritance planning** for cryptocurrency: send a transaction to an address owned by your next of kin with Locktime set for one year. If you are still alive and well when the transaction is due to be sent, resend the same transaction but extend the Locktime by one more year.ional part of Bitcoin [transactions](https://wiki.trezor.io/Transaction). It sets the earliest time a transaction can be mined into a block. It is possible to use locktime with [Trezor](https://wiki.trezor.io/Trezor) to make sure that a transaction is locked until a specific block height or a point in time.
+Locktime can also be used to set funds to transfer if no action is taken by the user. This could be useful for easy **inheritance planning** for cryptocurrency: send a transaction to an address owned by your next of kin with Locktime set for one year. If you are still alive and well when the transaction is due to be sent, resend the same transaction but extend the Locktime by one more year.ional part of Bitcoin [transactions](https://trezor.io/learn/a/addresses-transaction-history). It sets the earliest time a transaction can be mined into a block. It is possible to [use locktime with Trezor](https://trezor.io/learn/a/locktime-in-trezor-suite-app) to make sure that a transaction is locked until a specific block height or a point in time.

@@ -1,6 +1,6 @@
 # Supported Coins
 
-Trezor hardware wallets support hundreds of coins and tokens, both natively in Suite and through third party tools. For a full list of coins and which wallet to use them with, visit [https://trezor.io/coins/](https://trezor.io/coins/).
+Trezor hardware wallets support hundreds of coins and tokens, both natively in Suite and through third party tools. For a full list of coins and which wallet to use them with, visit our ["Supported coins"](https://trezor.io/coins) page.
 
 Assets are cryptocurrencies and tokens secured by your device. On the Trezor Suite Dashboard, the Assets overview under the portfolio graph displays a list of coins and balances for any cryptocurrency currently enabled within Suite and stored on your Trezor hardware wallet.
 
@@ -34,7 +34,7 @@ Using a third-party wallet with your Trezor provides the same level of protectio
 
 Many coins are available directly through Trezor Suite. Simply visit the 'Crypto' tab through the settings menu or via the 'Enable more coins' button on the Dashboard, under your portfolio graph. There, you can toggle all coins or pick specific ones to use with your device.
 
-Using [bitcoin-only firmware](https://shop.trezor.io/btc-only/), you will only have access to Bitcoin. This is recommended for anyone who does not intend to secure other cryptocurrencies with their Trezor hardware wallet.
+Using [bitcoin-only firmware](https://trezor.io/learn/a/bitcoin-only-firmware-on-trezor), you will only have access to Bitcoin. This is recommended for anyone who does not intend to secure other cryptocurrencies with their Trezor hardware wallet.
 
 #### Non-natively supported coins (using third-party wallets)
 

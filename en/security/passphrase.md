@@ -4,7 +4,7 @@ A passphrase is an optional security feature that adds an extra level of protect
 
 Each time a new passphrase is entered, a completely new wallet environment is created. It can only be accessed by combining your seed words with that passphrase.
 
-⚠️ Passphrases are not stored anywhere. Your funds will be lost if you lose the passphrase. 
+⚠️ Passphrases are not stored anywhere. Your funds will be lost if you lose the passphrase.&#x20;
 
 ## Why use a passphrase?
 
@@ -29,7 +29,7 @@ Using passphrases introduces a number of benefits, as well as risks. They should
 **Do not use** the passphrase feature without having read this information first.
 
 * Passphrases are not stored anywhere on the device. A passphrase cannot be recovered.
-* A passphrase can be any character or set of characters, a word, or a sentence up to 50 bytes long \(~50 [ASCII](https://ascii.cl/) characters\).
+* A passphrase can be any character or set of characters, a word, or a sentence up to 50 bytes long (\~50 [ASCII](https://ascii.cl/) characters).
 * Passphrases are case-sensitive - lowercase and uppercase characters are distinguished and count as different.
 * Spaces are counted as valid characters.
 * Your passphrase and recovery seed are used together. Neither can be used without the other. Coins sent to a passphrase-protected wallet can only be recovered with access to the seed and passphrase.
@@ -57,5 +57,4 @@ A stronger passphrase with high entropy might look like:
 
 This would be difficult to memorize, so it is up to you how to balance convenience with security.
 
-Read our blog post ["Is your passphrase strong enough?"](https://blog.trezor.io/is-your-passphrase-strong-enough-d687f44c63af) for a deeper look at appropriate passphrase difficulty.
-
+:bulb: Learn more about the feature in our knowledge base article ["Passphrases and hidden wallets"](https://trezor.io/learn/a/passphrases-and-hidden-wallets).

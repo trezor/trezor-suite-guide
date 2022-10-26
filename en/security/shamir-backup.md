@@ -2,7 +2,9 @@
 
 While this feature is not found in device settings, Trezor Model T users can use Shamir backup to protect their seed from loss or damage.&#x20;
 
-Shamir backup creates multiple shares instead of a single seed. Users can set a threshold of shares required to recover their wallet. The extra shares are a backup in case some of the others are lost, stolen or damaged. [Read more](https://wiki.trezor.io/Shamir\_Backup) about how to use Shamir backup effectively.
+Shamir backup creates multiple shares instead of a single seed. Users can set a threshold of shares required to recover their wallet. The extra shares are a backup in case some of the others are lost, stolen or damaged.&#x20;
+
+:bulb: [Read more](https://trezor.io/learn/a/what-is-shamir-backup) about how to use Shamir backup effectively.
 
 ### Creating a Shamir Backup
 

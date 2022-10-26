@@ -22,7 +22,7 @@ Trezor wallets only store one recovery seed at a time. If your seed is backed up
 2. Your Trezor will generate a list of words that represent all of your public and private keys across all of your coins, for all of your accounts, including your passphrase accounts.
 3. Write down all of the words you see in order and spelled correctly. Depending on your device and chosen recovery seed this is a list of 12, 18, 20, or 33 words. They must be kept in order to recover your funds if you lose access to your Trezor.
 
-Do not store these words digitally. Do not take a picture of them or copy them to another device. To protect your backup, use the recovery seed card from your Trezor box or a steel tool from [Trezor Shop](https://shop.trezor.io/).
+Do not store these words digitally. Do not take a picture of them or copy them to another device. To protect your backup, use the recovery seed card from your Trezor box or a steel tool from [Trezor Shop](https://trezor.io/).
 
 ### Checking a recovery seed
 
@@ -49,5 +49,4 @@ To recover funds using a recovery seed, connect an empty hardware wallet to Trez
 
 The recovery process will allow you to enter your recovery seed using the same process as when checking your backup.
 
-Visit the [Recovery Seed page](https://wiki.trezor.io/Recovery_seed) on Trezor Wiki for more information.
-
+:bulb: Learn more about recovery seeds in our knowledge base article [“How to use a recovery seed”](https://trezor.io/learn/a/how-to-use-a-recovery-seed).
