@@ -18,7 +18,6 @@
     * [Import](en/suite-basics/send/import.md)
     * [Send RAW](en/suite-basics/send/send-raw.md)
   * [Trade](en/suite-basics/buy-sell-and-trade.md)
-  * [Save Bitcoin](en/suite-basics/save-bitcoin.md)
   * [Coin Control](en/suite-basics/coin-control.md)
   * [Labeling](en/suite-basics/labeling.md)
   * [Bitcoin-only firmware](en/suite-basics/bitcoin-only-firmware.md)
