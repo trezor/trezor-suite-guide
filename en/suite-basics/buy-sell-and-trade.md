@@ -91,7 +91,7 @@ Follow these steps to set up a **dollar-cost-averaging (DCA)** Bitcoin savings a
 
 1. Navigate to the desired Bitcoin account and select **Trade.**
 2. In the Trade menu, select **Save Bitcoin:**\
-   ****![](../../.gitbook/assets/Save\_Bitcoin-HL.png)__
+   ![](../../.gitbook/assets/Save\_Bitcoin-HL.png)__
 3. Choose your country of residence using the 'Select your country' drop down menu. _Note: this feature is currently available only in Belgium, Germany, Spain, The Netherlands, and the USA (excluding the state of New York)._
 4. Select the amount and frequency with which you would like to regularly save into Bitcoin, then click **Confirm setup.**
 5. Agree to the terms and conditions.&#x20;
