@@ -2,7 +2,7 @@
 
 Welcome to Trezor Suite! This guide will teach you how to use features safely and effectively.
 
-Access it at any time by visiting the setting menu and scrolling down to Learn and Discover.
+Access it at any time by clicking the light bulb icon in the bottom right corner of Suite.
 
 This guide will be updated regularly to cover new features. For anything not covered here, browse other resources at the end of this list.
 
