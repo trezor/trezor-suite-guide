@@ -15,7 +15,7 @@ Address ownership verification may also be requested if you lose access to an ex
 * You will then see the **Sign/Verify message** window.
 * Type the message into the **Message** box and select the correct address from the drop-down **Address** menu
 * You can also toggle signature **Format** (Trezor or Electrum compatible)
-* The press ‘**Sign’**
+* Then press ‘**Sign’**
 * You will then need to confirm the signing operation on your Trezor device. If everything is correct, click ‘**Confirm’**
 * Once confirmed using your Trezor, the signature will appear in the **Signature** box in Suite
 
