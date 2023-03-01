@@ -34,7 +34,7 @@ Taproot improves how transactions are signed and allows transaction data to be h
 
 ### **Use Accounts to manage XPUBs**
 
-You can view your extended public key (XPUB) on the account's main page by switching to the Account details tab. Every account has its own unique XPUB, which makes it possible to see transactions going to and from the account. This is used to create 'watch-only' wallets that link all past, current, and future addresses used by the selected account.&#x20;
+You can view your extended public key (XPUB) on the account's main page by switching to the account **Details** tab. Every account has its own unique XPUB, which makes it possible to see transactions going to and from the account. This is used to create 'watch-only' wallets that link all past, current, and future addresses used by the selected account.&#x20;
 
 While you can share this information in some scenarios, we recommend keeping it secret as it presents a privacy concern where others can view your balances and activity.
 
