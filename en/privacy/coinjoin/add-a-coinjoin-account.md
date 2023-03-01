@@ -8,7 +8,7 @@
 
 * In the **'Account type'** drop-down menu, select **'Coinjoin account':**&#x20;
 
-<figure><img src="../../../.gitbook/assets/Add-CJ-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Add-CJ-2_new.png" alt=""><figcaption></figcaption></figure>
 
 * Then select **'Add account'**
 * If you do not have Tor enabled, follow the prompt to **'Enable Tor':**
@@ -22,4 +22,4 @@
 
 It is recommended to use a **minimum of 10,000 sats** for coinjoin. Ideally, the **total value** of your coinjoin input should be **1,000,000 sats or more,** otherwise coinjoin may be inefficient.
 
-💡 You can **** [learn more about coinjoin](https://trezor.io/learn/a/what-is-coinjoin) on the Trezor knowledge base.&#x20;
+💡 You can [learn more about coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base.
