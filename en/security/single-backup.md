@@ -33,7 +33,7 @@ To verify your seed is correct you will need your recovery seed with you. The pr
 1. Select the total number of words used in your recovery seed.
 2. Choose Standard recovery to enter the words through your computer or Advanced recovery to use your Trezor. You will need to enter your PIN to begin the process.
 
-**Standard recovery** uses your Trezor to tell you what word to enter into your computer. Some of these might not be part of your seed. Trezor Suite will suggest words:
+**Standard recovery** uses your Trezor to tell you what word to enter into your computer. Some of these might not be part of your seed.
 
 **Advanced recovery** keeps words and their order isolated on your device. Click the grid to navigate through words according to the location shown on your Trezor screen.
 
@@ -49,4 +49,4 @@ To recover funds using a recovery seed, connect an empty hardware wallet to Trez
 
 The recovery process will allow you to enter your recovery seed using the same process as when checking your backup.
 
-:bulb: Learn more about recovery seeds in our knowledge base article [“How to use a recovery seed”](https://trezor.io/learn/a/how-to-use-a-recovery-seed).
+💡 Learn more about recovery seeds in our knowledge base article [“How to use a recovery seed”](https://trezor.io/learn/a/how-to-use-a-recovery-seed).

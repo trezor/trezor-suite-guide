@@ -57,4 +57,4 @@ A stronger passphrase with high entropy might look like:
 
 This would be difficult to memorize, so it is up to you how to balance convenience with security.
 
-:bulb: Learn more about the feature in our knowledge base article ["Passphrases and hidden wallets"](https://trezor.io/learn/a/passphrases-and-hidden-wallets).
+💡 Learn more about the feature in our knowledge base article ["Passphrases and hidden wallets"](https://trezor.io/learn/a/passphrases-and-hidden-wallets).

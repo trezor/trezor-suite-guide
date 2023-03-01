@@ -22,7 +22,7 @@ Address ownership verification may also be requested if you lose access to an ex
 ### How to verify a message in Trezor Suite
 
 * Select the account in question using the **My accounts** sidebar menu
-* From the menu bar at the top of the Account overview page, click the three dots to reveal the **Sign & Verify.** Click on this to access the ‘**Sign/Verify message’** window
+* From the menu bar at the top of the Account overview page, click the three dots to reveal the **Sign & Verify** tab. Click on this to access the ‘**Sign/Verify message’** window
 * Select the **Verify message** menu tab
 * Copy the signed message into the **Message** box
 * Then copy the address used for signing the message into the **Address** box

@@ -12,9 +12,13 @@ Your coin selection strategy must:
 * Cover the necessary transaction fees
 * Ensure the transaction output is 546 sats or more (anything less than this is a “dust” output and you will end up overpaying on fees)
 
+{% hint style="info" %}
+The minimum value at which your Bitcoin (or other cryptocurrency) can be traded at is referred to as the **‘dust limit’**. Learn more about [dust & the dust limit](https://trezor.io/learn/a/dust-dust-limit) on the Trezor knowledge base&#x20;
+{% endhint %}
+
 It is strongly recommended that you label any incoming and outgoing coins, so that you can effectively manage your transaction history and identify the origin of coins.
 
-**Coin Control in Trezor Suite**
+### **Coin Control in Trezor Suite**
 
 * Navigate to the Bitcoin account you want to spend from
 * In the **Send** tab, complete the ‘Address’ and ‘Amount’ fields

@@ -2,7 +2,7 @@
 
 The Ethereum network allows projects and companies to create a variety of custom tokens which run on top of Ethereum. Once the token contract has been deployed on the Ethereum blockchain, it is automatically compatible with your Trezor device. Trezor Suite only allows you to manage ERC20 tokens for the time being.
 
-Other tokens can be managed through third-part apps such as Metamask. Below, we will cover three types of tokens: ERC20, 721, and 1155. These are all token standards with slightly different purposes.
+Other tokens can be managed through third-party apps such as Metamask. Below, we will cover three types of tokens: ERC20, 721, and 1155. These are all token standards with slightly different purposes.
 
 **ERC20 Tokens**
 
@@ -15,4 +15,3 @@ These are non-fungible tokens, commonly referred to as NFTs. You can store NFTs 
 **ERC1155 tokens**
 
 This is a token standard that allows you to create fungible and non-fungible tokens at once. Depending upon the use case, these may or may not be viewable in Trezor Suite. If not, then you can use a third party wallet to view them.
-

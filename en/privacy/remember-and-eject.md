@@ -1,6 +1,6 @@
 # Remember and Eject
 
-Trezor public keys can be stored on the host machine to track balances stored on the wallet. The Remember and Eject functions give you control over ease of use, privacy, and security for each wallet enabled on your Trezor.
+Trezor public keys can be stored on the host machine to track balances stored on the wallet. The **Remember** and **Eject** functions give you control over ease of use, privacy, and security for each wallet enabled on your Trezor.
 
 Access the Remember and Eject settings by clicking on the top-left button showing your Trezor. &#x20;
 

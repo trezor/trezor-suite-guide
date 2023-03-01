@@ -77,7 +77,7 @@ Follow these steps to buy cryptocurrency through Invity and have it sent directl
 7. Select Get this deal.
 8. Agree to the terms and conditions.
 9. Follow the instructions on your screen closely. Select Go to Hodl Hodl to be redirected to our partner and initiate the transaction.
-10. Do NOT close Trezor Suite at any time during the transaction process or you will have to start over.
+10. **Do not close Trezor Suite at any time during the transaction process** or you will have to start over.
 11. Once asked for a release address, return to Trezor Suite and select Go to receiving address.
 12. Select Reveal address.
 13. Confirm the address on your Trezor and use the Copy address button.
