@@ -6,7 +6,7 @@ Once you've added bitcoin to your coinjoin account, you can begin the process of
 
 * Start the coinjoin process by selecting **Start:**
 
-<figure><img src="../../../.gitbook/assets/CJ-account-ready_NEW-HL.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/CJ-account-ready_NEW-HL.png)
 
 * Check the confirmation box; then click **'Start coinjoin'** and **confirm on your Trezor** device that you want to take part in a series of coinjoin rounds. **Hold to confirm** and Trezor Suite will start looking for a coinjoin round.
 
