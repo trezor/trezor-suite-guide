@@ -6,11 +6,11 @@
 
 ![](../../../.gitbook/assets/Add-CJ-1.png)
 
-* In the **'Account type'** drop-down menu, select **'Coinjoin account':**;
+* In the **'Account type'** drop-down menu, select **'Coinjoin account':**
 
-![](../../../.gitbook/assets/Add-CJ-2_new.png)
+![](../../../.gitbook/assets/Add-CJ-2\_new.png)
 
-* Then select **'Add account'**
+* Then select **'Add account'.**
 * If you do not have Tor enabled, follow the prompt to **'Enable Tor':**
 
 ![](../../../.gitbook/assets/Add-CJ-3.png)
