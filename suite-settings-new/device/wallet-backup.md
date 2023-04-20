@@ -1,6 +1,6 @@
 # Wallet backup\*
 
-**Wallet backup** operations can be found under **Settings (**⚙️**) > Device**, **** at the top of the page: ****&#x20;
+**Wallet backup** operations can be found under **Settings (**⚙️**) > Device**, at the top of the page:&#x20;
 
 <figure><img src="../../.gitbook/assets/Wallet_backup.png" alt=""><figcaption></figcaption></figure>
 

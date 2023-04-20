@@ -76,7 +76,7 @@
   * [Device](suite-settings-new/device/README.md)
     * [Wallet backup\*](suite-settings-new/device/wallet-backup.md)
     * [Firmware\*](suite-settings-new/device/firmware.md)
-    * [Security](suite-settings-new/device/security.md)
+    * [Security\*](suite-settings-new/device/security.md)
     * [Customization](suite-settings-new/device/customization.md)
     * [Danger Area](suite-settings-new/device/danger-area.md)
 * [Send & receive \[OK\]](send-and-receive-ok/README.md)

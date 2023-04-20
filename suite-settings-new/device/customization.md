@@ -1,10 +1,13 @@
 # Customization
 
-xx
+Customization settings are accessed via **Settings (**⚙️**) > Device,** then scrolling down to the **Customization** section.
 
-<figure><img src="../../.gitbook/assets/Customization.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Customization_TT.png" alt=""><figcaption></figcaption></figure>
 
-* here you can check which version of Suite you're using, and check for any new updates. You can also click on the version number to view the release notes on Github.
+* **Device name:** X.
+* **Homescreen:** X.
+* **DIsplay rotation (Model T):** X.
+* **Auto-lock time:** X.
 
 {% hint style="info" %}
 Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base&#x20;
