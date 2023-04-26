@@ -1,6 +1,6 @@
-# Security\*
+# Security
 
-Security settings are accessed via **Settings (**⚙️**) > Device,** then scrolling down to the **Security** section.
+Security settings are accessed via **Settings (**⚙️**) > Device,** then scrolling down to the **Security** section:
 
 <figure><img src="../../.gitbook/assets/Security.png" alt=""><figcaption></figcaption></figure>
 
