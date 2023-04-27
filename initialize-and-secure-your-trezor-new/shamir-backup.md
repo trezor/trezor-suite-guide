@@ -1,2 +1,0 @@
-# Shamir Backup
-
