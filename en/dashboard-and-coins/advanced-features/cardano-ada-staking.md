@@ -1,4 +1,4 @@
-# Cardano (ADA) staking\*
+# Cardano (ADA) staking
 
 **Staking** is the process used for validating transactions on blockchains that use the so-called "Proof of Stake" protocols, such as Cardano.&#x20;
 

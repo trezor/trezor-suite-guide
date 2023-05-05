@@ -1,4 +1,4 @@
-# Add a new account\*
+# Add a new account
 
 An account will be created for each cryptocurrency enabled during device setup.
 
