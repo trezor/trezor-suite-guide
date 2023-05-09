@@ -9,7 +9,7 @@ Preferences can also be changed via the **Application settings** menu:
 * Click on the gear icon (⚙️) in the top-right corner of Trezor Suite to access the Settings menu
 * In the **Localization** section, use the drop-down menu for **‘Bitcoin units’** to switch between Bitcoin and Satoshis:
 
-<figure><img src="../../../.gitbook/assets/Bitcoin_units.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/Bitcoin_units.png)
 
 {% hint style="info" %}
 Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base

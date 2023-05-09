@@ -2,7 +2,7 @@
 
 Security settings are accessed via **Settings (**⚙️**) > Device,** then scrolling down to the **Security** section:
 
-<figure><img src="../../../.gitbook/assets/Security.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/Security.png)
 
 * **PIN:** use the switch to toggle PIN protection on or off.
 * **Change PIN:** if you need to change your PIN, click on **'Change PIN'** and follow the on-screen instructions.

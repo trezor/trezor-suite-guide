@@ -8,7 +8,7 @@ RBF means you can **accelerate a transaction** and have it added to the next blo
 
 RBF is enabled by default in Trezor Suite. To turn it off, click on the RBF toggle before sending a transaction:
 
-<figure><img src="../../.gitbook/assets/RBF-1.png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/RBF-1.png)
 
 #### Bump a transaction fee
 

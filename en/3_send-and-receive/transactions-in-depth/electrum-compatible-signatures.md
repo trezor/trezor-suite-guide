@@ -10,12 +10,12 @@ This is in addition to the Trezor signature format that is compliant with [BIP-1
 * Select the account in question from the **My accounts** sidebar menu.
 * In the Overview page of the account, click the three dots in the menu bar, which will reveal the **Sign & Verify** tab:
 
-<figure><img src="../../../.gitbook/assets/SignVerify_highlight.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/SignVerify_highlight.png)
 
 * Write a message in the **Message** box and select an address from the drop-down **Address** menu.
 * Next to the **Address** box, you can switch the format from **‘Trezor’** to **‘Electrum’:**
 
-<figure><img src="../../../.gitbook/assets/Format_Electrum.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/Format_Electrum.png)
 
 * Then click **‘Sign’** and confirm the action by following the instructions displayed on your Trezor device.
 * Once confirmed using your Trezor, the signature will appear in the **Signature** box in Suite.

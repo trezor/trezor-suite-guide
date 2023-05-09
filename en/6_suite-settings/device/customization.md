@@ -2,7 +2,7 @@
 
 Customization settings are accessed via **Settings (**⚙️**) > Device,** then scrolling down to the **Customization** section:
 
-<figure><img src="../../../.gitbook/assets/Customization_TT.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/Customization_TT.png)
 
 * **Device name:** displays the name of your Trezor hardware wallet. Click on **'Edit name'** to rename your device.
 * **Homescreen:** select **'Upload image'** to set a custom background to personalize your Trezor, or click **'Choose from gallery'** and pick from the standard selection of images.

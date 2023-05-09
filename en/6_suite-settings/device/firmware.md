@@ -2,7 +2,7 @@
 
 Firmware settings are accessed via **Settings (**⚙️**) > Device,** then scrolling down to the **Firmware** section:
 
-<figure><img src="../../../.gitbook/assets/Firmware.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/Firmware.png)
 
 **Version:** displays firmware version currently installed.&#x20;
 

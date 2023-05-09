@@ -2,7 +2,7 @@
 
 The **Localization** menu lets users make quick adjustments to Trezor Suite, allowing for a more personalized user experience. It can be found in **Settings (**⚙️**) > Application:**
 
-<figure><img src="../../../.gitbook/assets/localization.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/localization.png)
 
 The following settings can be changed:
 

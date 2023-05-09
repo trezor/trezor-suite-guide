@@ -1,3 +1,3 @@
 # Send & receive
 
-<figure><img src="../../.gitbook/assets/Send and receive.png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Send and receive.png)

@@ -24,7 +24,7 @@ To set a new PIN on your Trezor Model One:
 
 * Click **Change PIN** in the **Device settings** menu:
 
-<figure><img src="../../.gitbook/assets/Settings_Change_PIN-highlight (1).png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/Settings_Change_PIN-highlight (1).png)
 
 * Confirm the action on your Trezor.
 * Enter the old PIN using the numbers shown on your Trezor and the grid shown on the computer.
