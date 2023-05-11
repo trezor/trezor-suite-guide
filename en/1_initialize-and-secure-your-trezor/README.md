@@ -1,3 +1,3 @@
 # Initialize & secure your Trezor
 
-![](../../.gitbook/assets/Initialize and secure.png)
+<figure><img src="../../.gitbook/assets/Initialize_and_ secure-1.png" alt=""><figcaption></figcaption></figure>

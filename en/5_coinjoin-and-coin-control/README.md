@@ -1,3 +1,3 @@
 # Coinjoin & coin control
 
-![](../../.gitbook/assets/Coinjoin and coin control.png)
+<figure><img src="../../.gitbook/assets/Coinjoin_and_coin_control-1 (1).png" alt=""><figcaption></figcaption></figure>
