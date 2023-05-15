@@ -1,12 +1,10 @@
 # Passphrase
 
-A passphrase functions like an extra word added to your recovery seed. Each unique combination of recovery seed + passphrase grants access to the corresponding, unique **hidden wallet.**&#x20;
+A passphrase functions like an extra word added to your recovery seed. Each unique combination of recovery seed + passphrase grants access to the corresponding, unique **hidden wallet.**
 
 Passphrases are not stored on your Trezor, and using a strong passphrase means your coins are extra safe.
 
-{% hint style="warning" %}
-**If you forget a passphrase, you lose access to any associated funds.** Only use the feature once you understand how it works.
-{% endhint %}
+> WARNING **If you forget a passphrase, you lose access to any associated funds.** Only use the feature once you understand how it works.
 
 #### Critical information about passphrases
 
