@@ -4,7 +4,7 @@ Updating the device firmware is necessary to expand the functionality of your Tr
 \
 When a new firmware version is released, [Trezor Suite](https://suite.trezor.io/) will display a notification along the top of the interface:
 
-![](../../.gitbook/assets/UP_FW-1.png)
+<figure><img src="../../.gitbook/assets/UP_FW-1.png" alt=""><figcaption></figcaption></figure>
 
 To update the device firmware, simply click on **'Update now'** and follow the on-screen and on-device instructions.
 

@@ -4,7 +4,7 @@ Discreet mode allows the user to hide their account balances and any other sensi
 
 To activate discreet mode, click the button shaped like an eye in the top-right corner of the Trezor Suite interface:
 
-![](../../.gitbook/assets/Discreet-not_enabled_highlight_crop.png)
+<figure><img src="../../.gitbook/assets/Discreet-not_enabled_highlight_crop.png" alt=""><figcaption></figcaption></figure>
 
 Discreet mode can be toggled on and off by clicking the button.
 

@@ -26,7 +26,7 @@ This means that any non-English page that doesn't have a slug matching slug of s
 
 As of now only these elements are supported:
 
-![](.gitbook/assets/Gitbook-rich_content.png)
+<figure><img src=".gitbook/assets/Gitbook-rich_content.png" alt=""><figcaption></figcaption></figure>
 
 ### Images
 

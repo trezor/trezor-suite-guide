@@ -9,7 +9,7 @@
 
 When setting up your device, in the second step you will be asked to choose between **'Create new wallet'** or **'Recover wallet':**
 
-![](../../.gitbook/assets/Recover_TT-1.png)
+<figure><img src="../../.gitbook/assets/Recover_TT-1.png" alt=""><figcaption></figcaption></figure>
 
 * Select **'Recover wallet'**
 * Then choose **'Start recovery'**

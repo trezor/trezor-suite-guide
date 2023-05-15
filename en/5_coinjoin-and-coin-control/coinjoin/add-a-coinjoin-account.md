@@ -4,16 +4,16 @@
 
 * At the top of the **'My accounts'** menu bar, press the plus (➕) sign:
 
-![](../../../.gitbook/assets/Add-CJ-1.png)
+<figure><img src="../../../.gitbook/assets/Add-CJ-1.png" alt=""><figcaption></figcaption></figure>
 
 * In the **'Account type'** drop-down menu, select **'Coinjoin account':**
 
-![](../../../.gitbook/assets/Add-CJ-2_new.png)
+<figure><img src="../../../.gitbook/assets/Add-CJ-2_new.png" alt=""><figcaption></figcaption></figure>
 
 * Then select **'Add account'.**
 * If you do not have Tor enabled, follow the prompt to **'Enable Tor':**
 
-![](../../../.gitbook/assets/Add-CJ-3.png)
+<figure><img src="../../../.gitbook/assets/Add-CJ-3.png" alt=""><figcaption></figcaption></figure>
 
 💡 Tor must be enabled for coinjoin to work. You can [learn more about Tor](https://trezor.io/learn/a/tor-in-trezor-suite-app) on the Trezor knowledge base.
 

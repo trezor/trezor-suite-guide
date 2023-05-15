@@ -2,7 +2,7 @@
 
 Application settings for Trezor Suite are access via **Settings (**⚙️**) > Application,** and scrolling down to the **Application** category:
 
-![](../../../.gitbook/assets/Application.png)
+<figure><img src="../../../.gitbook/assets/Application.png" alt=""><figcaption></figcaption></figure>
 
 The following options are available:
 

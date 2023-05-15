@@ -11,7 +11,7 @@ Labels are synced to your Google Drive or Dropbox account, or they can be stored
 * Go to **Settings (**⚙️**) > Application**
 * Click the toggle to turn labeling on or off:
 
-![](../../../.gitbook/assets/labeling.png)
+<figure><img src="../../../.gitbook/assets/labeling.png" alt=""><figcaption></figcaption></figure>
 
 When labeling is turned off, accounts will be named according to Trezor Suite defaults (transaction addresses use a long string of letters and numbers). When labeling is turned on, you can change the name to anything that helps you stay organized.
 
