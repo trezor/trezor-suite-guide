@@ -8,6 +8,9 @@ When a new firmware version is released, [Trezor Suite](https://suite.trezor.io/
 
 To update the device firmware, simply click on **'Update now'** and follow the on-screen and on-device instructions.
 
+> **Note**\
+> Learn more about [updating Trezor device firmware](https://trezor.io/learn/a/update-trezor-device-firmware) on the Trezor knowledge base
+
 {% hint style="info" %}
 Learn more about [updating Trezor device firmware](https://trezor.io/learn/a/update-trezor-device-firmware) on the Trezor knowledge base
 {% endhint %}
