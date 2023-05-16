@@ -15,7 +15,7 @@
 
 <figure><img src="../../../.gitbook/assets/Add-CJ-3.png" alt=""><figcaption></figcaption></figure>
 
-💡 Tor must be enabled for coinjoin to work. You can [learn more about Tor](https://trezor.io/learn/a/tor-in-trezor-suite-app) on the Trezor knowledge base.
+Tor must be enabled for coinjoin to work. You can [learn more about Tor](https://trezor.io/learn/a/tor-in-trezor-suite-app) on the Trezor knowledge base.
 
 Your Trezor will then ask you to allow access to your coinjoin account. Press the green check mark (✅) to confirm.
 
@@ -23,6 +23,4 @@ Trezor Suite will then run a coinjoin account discovery, **which may take signif
 
 It is recommended to use a **minimum of 10,000 sats** for coinjoin. Ideally, the **total value** of your coinjoin input should be **1,000,000 sats or more,** otherwise coinjoin may be inefficient.
 
-{% hint style="info" %}
-Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base

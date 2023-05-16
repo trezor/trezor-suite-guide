@@ -13,7 +13,6 @@
   * [Passphrase](en/1\_initialize-and-secure-your-trezor/passphrase.md)
   * [Shamir Backup](en/1\_initialize-and-secure-your-trezor/shamir-backup.md)
   * [Remember & Eject](en/1\_initialize-and-secure-your-trezor/remember-and-eject.md)
-  * [Tor](en/1\_initialize-and-secure-your-trezor/tor.md)
   * [Connect own node via Electrum server](en/1\_initialize-and-secure-your-trezor/connect-own-node-via-electrum-server.md)
 * [Dashboard & Coins](en/2\_dashboard-and-coins/README.md)
   * [Activate new coins](en/2\_dashboard-and-coins/activate-new-coins.md)

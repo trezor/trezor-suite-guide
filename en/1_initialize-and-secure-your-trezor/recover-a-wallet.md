@@ -20,6 +20,4 @@ When setting up your device, in the second step you will be asked to choose betw
 
 Once you've completed the device setup, you'll be able to access the bitcoin and cryptocurrency funds that are associated with that specific recovery seed.
 
-{% hint style="info" %}
-Learn more about [recovery processes](https://trezor.io/learn/c/trezor-recovery) on the Trezor knowledge base.
-{% endhint %}
+> LIGHTBULB Learn more about [recovery processes](https://trezor.io/learn/c/trezor-recovery) on the Trezor knowledge base.

@@ -2,9 +2,7 @@
 
 The Ethereum network allows projects and companies to create a variety of custom tokens which run on top of Ethereum. Once the token contract has been deployed on the Ethereum blockchain, it is automatically compatible with your Trezor device. Trezor Suite currently allows you to manage ERC20 tokens.
 
-{% hint style="info" %}
 Other tokens (e.g. ERC721 and ERC1155) can be managed through third-part apps such as Metamask.
-{% endhint %}
 
 #### **Accessing Ethereum accounts in Trezor Suite**
 
@@ -30,6 +28,4 @@ If your tokens are not listed there you can add them manually:
 * Then enter the contract address; the contract addresses of all tokens can be found here: [https://etherscan.io/tokens](https://etherscan.io/tokens)
 * Once your first token has been added, you can continue to add mroe through the drop-down menu
 
-{% hint style="info" %}
-Learn more about [Etherum & ERC20 tokens](https://trezor.io/learn/a/ethereum-erc20-tokens-on-trezor) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [Etherum & ERC20 tokens](https://trezor.io/learn/a/ethereum-erc20-tokens-on-trezor) on the Trezor knowledge base

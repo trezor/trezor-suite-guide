@@ -8,9 +8,7 @@ Your PIN is a critical security feature and should be enabled before sending any
 
 During the onboarding process, you will be prompted to set a PIN.
 
-{% hint style="info" %}
-Your PIN should be at least 6 digits long. Both the Trezor Model One and Trezor Model T support a PIN up to 50 digits.
-{% endhint %}
+**Your PIN should be at least 6 digits long.** Both the Trezor Model One and Trezor Model T support a PIN up to 50 digits.
 
 If you skipped this step during onboarding, you can set your PIN from the Trezor Suite Dashboard or through the **Device settings** menu.
 
@@ -41,6 +39,4 @@ To set a new PIN on your Trezor Model T:
 * Enter the new PIN on the Trezor.
 * Confirm the new PIN.
 
-{% hint style="info" %}
-Learn more about [PIN protection on Trezor devices](https://trezor.io/learn/a/pin-protection-on-trezor-devices) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [PIN protection on Trezor devices](https://trezor.io/learn/a/pin-protection-on-trezor-devices) on the Trezor knowledge base

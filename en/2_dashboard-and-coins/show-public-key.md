@@ -1,6 +1,6 @@
 # Show public key
 
-You can view your extended public key (XPUB) on the account's main page by switching to the account **Details** tab, and selecting **'Show public key'**:&#x20;
+You can view your extended public key (XPUB) on the account's main page by switching to the account **Details** tab, and selecting **'Show public key'**:
 
 <figure><img src="../../.gitbook/assets/XPUB_show-HL.png" alt=""><figcaption></figcaption></figure>
 
@@ -8,6 +8,4 @@ Every account has its own unique XPUB, which makes it possible to see transactio
 
 While you can share this information in some scenarios, we recommend keeping it secret as it presents a privacy concern where others can view your balances and activity.
 
-{% hint style="info" %}
-Learn more about [public keys (XPUB)](https://trezor.io/learn/a/trezor-suite-app-public-keys-xpub) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [public keys (XPUB)](https://trezor.io/learn/a/trezor-suite-app-public-keys-xpub) on the Trezor knowledge base

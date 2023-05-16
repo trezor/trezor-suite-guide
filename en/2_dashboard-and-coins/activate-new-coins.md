@@ -18,6 +18,4 @@ Ethereum network ERC20 tokens can be managed using Trezor Suite by adding custom
 
 The Crypto settings menu can also be accessed by clicking on **Settings (⚙️)** in the top-right corner of Suite, and then selecting **Crypto**.
 
-{% hint style="info" %}
-Learn more about [supported cryptocurrencies](https://trezor.io/learn/a/supported-coins) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [supported cryptocurrencies](https://trezor.io/learn/a/supported-coins) on the Trezor knowledge base

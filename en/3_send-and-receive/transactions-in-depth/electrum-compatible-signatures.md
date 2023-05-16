@@ -20,6 +20,4 @@ This is in addition to the Trezor signature format that is compliant with [BIP-1
 * Then click **‘Sign’** and confirm the action by following the instructions displayed on your Trezor device.
 * Once confirmed using your Trezor, the signature will appear in the **Signature** box in Suite.
 
-{% hint style="info" %}
-Learn more about [message signing & verification](https://trezor.io/learn/a/sign-verify) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [message signing & verification](https://trezor.io/learn/a/sign-verify) on the Trezor knowledge base

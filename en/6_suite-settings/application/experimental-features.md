@@ -1,6 +1,6 @@
 # Experimental features
 
-Experimental features are accessed via **Settings (**⚙️**) > Application,** and scrolling down to the **Experimental features** category:
+Experimental features are accessed via **Settings (⚙️) > Application,** and scrolling down to the **Experimental features** category:
 
 <figure><img src="../../../.gitbook/assets/Experimental_menu.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,6 +27,4 @@ Here you can choose to join (or leave) the Early Access Program (desktop app onl
 * In the confirmation window, you can immediately revert to the latest stable version of Trezor Suite by clicking on **‘Download stable’**. This will direct you to the Trezor Suite download page.
 * Finally, download and install Trezor Suite in the usual manner.
 
-{% hint style="info" %}
-Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base&#x20;
-{% endhint %}
+> LIGHTBULB Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base

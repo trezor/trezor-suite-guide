@@ -8,6 +8,4 @@ Multiple accounts can be created for each cryptocurrency. You can create additio
 * This will open the **New account** menu, where you can choose the type of account to create using the drop-down menu
 * The new account can be the same type as an existing account as long as the preceding account has been used (i.e., you cannot create multiple empty accounts of the same type).
 
-{% hint style="info" %}
-Learn more about [managing accounts in Trezor Suite](https://trezor.io/learn/a/manage-accounts-in-trezor-suite-app) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [managing accounts in Trezor Suite](https://trezor.io/learn/a/manage-accounts-in-trezor-suite-app) on the Trezor knowledge base

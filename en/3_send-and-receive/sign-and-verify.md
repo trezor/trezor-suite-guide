@@ -32,6 +32,4 @@ Address ownership verification may also be requested if you lose access to an ex
 * You should then see **"The signature is valid"** on your Trezor screen.
 * You can then click on **Verified** to close the **Sign/Verify message** window.
 
-{% hint style="info" %}
-Learn more about [Sign & Verify](https://trezor.io/learn/a/sign-verify) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [Sign & Verify](https://trezor.io/learn/a/sign-verify) on the Trezor knowledge base

@@ -16,6 +16,4 @@ Follow these steps to set up a dollar-cost-averaging (DCA) Bitcoin savings plan 
 12. Complete your Bitcoin savings plan setup by creating a standing order in your banking application based on the provided payment information.
 13. You can review and change your DCA settings in your **Save** dashboard in Trezor Suite.
 
-{% hint style="info" %}
-Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base

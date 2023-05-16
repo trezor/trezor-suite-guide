@@ -20,10 +20,8 @@ A dialog will open that lets you assign a new fee, which must be higher than the
 
 Some merchants accept Bitcoin transactions without needing them to fully confirm, but only if the transaction is not replaceable.
 
-If this is the case, and your transaction is staying unconfirmed longer than expected, then instead of waiting for the transaction to confirm, you can select **FInalize transaction**.&#x20;
+If this is the case, and your transaction is staying unconfirmed longer than expected, then instead of waiting for the transaction to confirm, you can select **FInalize transaction**.
 
 This replaces the transaction with one that has RBF disabled and a final fee allocated to it. The fee cannot be increased any further once finalized, so set it appropriately.
 
-{% hint style="info" %}
-Learn more about [replace by fee (RBF)](https://trezor.io/learn/a/rbf-in-trezor-suite-app) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [replace by fee (RBF)](https://trezor.io/learn/a/rbf-in-trezor-suite-app) on the Trezor knowledge base

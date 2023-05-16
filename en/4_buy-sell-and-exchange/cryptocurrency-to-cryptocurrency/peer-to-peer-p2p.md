@@ -17,6 +17,4 @@
 15. Back on our partner’s website, paste the copied address into the **Release address** field.
 16. Finalize the transaction according to the instructions on your screen.
 
-{% hint style="info" %}
-Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base

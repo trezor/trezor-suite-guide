@@ -1,6 +1,6 @@
 # Wallet backup
 
-**Wallet backup** operations can be found under **Settings (**⚙️**) > Device**, at the top of the page:&#x20;
+**Wallet backup** operations can be found under **Settings (⚙️) > Device**, at the top of the page:
 
 <figure><img src="../../../.gitbook/assets/Wallet_backup.png" alt=""><figcaption></figcaption></figure>
 
@@ -13,6 +13,4 @@
 
 **Check backup:** click on **'Check backup'** to perform a simulated wallet recovery process, which allows you to check the validity of your recovery seed.
 
-{% hint style="info" %}
-Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base&#x20;
-{% endhint %}
+> LIGHTBULB Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base

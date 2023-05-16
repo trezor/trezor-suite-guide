@@ -12,8 +12,6 @@ Sending a transaction is a straightforward process, but please make sure all tra
 
 Network transaction fees vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High.
 
-💡 Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
+Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
 
-{% hint style="info" %}
-Learn more about [sending crypto in Trezor Suite](https://trezor.io/learn/a/send-crypto-in-trezor-suite-app) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [sending crypto in Trezor Suite](https://trezor.io/learn/a/send-crypto-in-trezor-suite-app) on the Trezor knowledge base

@@ -20,6 +20,4 @@ To **send raw transaction data:**
 3. Click **Send.**
 4. The transaction will be broadcast and a confirmation will appear on screen.
 
-{% hint style="info" %}
-Learn more about [sending crypto](https://trezor.io/learn/a/send-crypto-in-trezor-suite-app) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [sending crypto](https://trezor.io/learn/a/send-crypto-in-trezor-suite-app) on the Trezor knowledge base

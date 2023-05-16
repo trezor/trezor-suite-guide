@@ -12,7 +12,7 @@ Once you've added your coinjoin account to Trezor Suite, the next step is to sen
 * Paste the receiving address into the **'Address'** field.&#x20;
 * Enter the desired amount of bitcoin you wish to send to your coinjoin account into the **'Amount'** field; alternatively you can use the **'Send max'** toggle switch to send all funds from your regular bitcoin account to your coinjoin account.
 
-💡 The recommended minimum amount is **1,000,000 sats.**&#x20;
+The recommended minimum amount is **1,000,000 sats.**&#x20;
 
 * Set a **Fee.**
 * Once you've finalized the transaction details, click on **'Review & Send'** and confirm the transaction details using your Trezor device.
@@ -20,6 +20,4 @@ Once you've added your coinjoin account to Trezor Suite, the next step is to sen
 
 Once the transaction is confirmed and the funds have landed in your coinjoin account, you are ready to **reclaim your privacy.**
 
-{% hint style="info" %}
-Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base

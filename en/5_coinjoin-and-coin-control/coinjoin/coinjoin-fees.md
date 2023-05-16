@@ -6,12 +6,10 @@ As with any other bitcoin transaction, you also need to pay **mining fees.** For
 
 These mining fees are what you normally pay when sending bitcoin from one address to another, as an incentive for miners to add transactions to the blockchain.
 
-💡 Learn more about [transactions fees](https://trezor.io/learn/a/transaction-fees-in-trezor-suite-app) on the Trezor knowledge base.
+> LIGHTBULB Learn more about [transactions fees](https://trezor.io/learn/a/transaction-fees-in-trezor-suite-app) on the Trezor knowledge base.
 
 Remixing is free, as well as coinjoining coins 1 hop from a previous coinjoin (although mining fees still apply). This means that when you receive coins from another coinjoin (1 hop) you will only pay the mining fee for the transaction, but not the coordinator fee. However, if a coin has more than 1 hop, the coordinator fee must be paid again.
 
-💡 Outputs of less than 5,000 sats will be dropped.
+Note that **outputs of less than 5,000 sats will be dropped.**
 
-{% hint style="info" %}
-Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base

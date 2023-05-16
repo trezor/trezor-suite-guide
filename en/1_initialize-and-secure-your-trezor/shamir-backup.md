@@ -15,6 +15,4 @@ To create a Shamir backup on a used Trezor Model T, the memory must be wiped. **
 * Once complete, secure each share in a safe location isolated from the others.
 * To recover your funds, you will need to collect as many shares as the threshold you set.
 
-{% hint style="info" %}
-Learn more about [Shamir backup](https://trezor.io/learn/a/what-is-shamir-backup) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [Shamir backup](https://trezor.io/learn/a/what-is-shamir-backup) on the Trezor knowledge base

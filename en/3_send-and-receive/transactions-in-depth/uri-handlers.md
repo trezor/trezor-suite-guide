@@ -18,6 +18,4 @@ Once you’ve selected the desired account, go to the **Send** tab, and the pop-
 
 After clicking on the autofill button the input fields for the **Send** transaction will be populated accordingly, and you can then proceed by clicking **Review & Send.**
 
-{% hint style="info" %}
-Learn more about [URI handlers in Trezor Suite](https://trezor.io/learn/a/uri-handlers-for-bitcoin-payments) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [URI handlers in Trezor Suite](https://trezor.io/learn/a/uri-handlers-for-bitcoin-payments) on the Trezor knowledge base

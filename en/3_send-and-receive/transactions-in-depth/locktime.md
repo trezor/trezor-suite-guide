@@ -2,9 +2,9 @@
 
 Locktime creates a transaction that only broadcasts when a certain time or block height has been reached. Setting a locktime is as simple as stating a blockheight or Unix timestamp at which it should broadcast, and then signing the transaction as usual.
 
-#### How to set a locktime
+Broadcast is turned off by default when using Locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network.
 
-💡 Broadcast is turned off by default when using Locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network.
+#### How to set a locktime
 
 You can set a Locktime while creating a transaction:
 
@@ -26,6 +26,4 @@ Use a [Unix timestamp converter](https://www.unixtimestamp.com/) to see the curr
 
 For example, if the current timestamp is 1625215800 and the desired Locktime is one week, the Unix timestamp to enter would be 1625820600 (the current timestamp plus one week, which is equivalent to 604800 seconds).
 
-{% hint style="info" %}
-Learn more about the [locktime feature](https://trezor.io/learn/a/locktime-in-trezor-suite-app) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about the [locktime feature](https://trezor.io/learn/a/locktime-in-trezor-suite-app) on the Trezor knowledge base

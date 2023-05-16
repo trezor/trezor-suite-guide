@@ -17,6 +17,4 @@ This is a common part of using cryptocurrencies, but there are security and priv
 
 Only trust transaction details shown on the screen of your Trezor hardware wallet. If they do not match those shown on your computer, there may be malware on the host machine. Cancel the transaction and restart the process from a secure device if you notice any inconsistencies.
 
-{% hint style="info" %}
-Learn more about [receiving crypto](https://trezor.io/learn/a/receive-crypto-in-trezor-suite-app) on the Trezor knowledge base
-{% endhint %}
+> LIGHTBULB Learn more about [receiving crypto](https://trezor.io/learn/a/receive-crypto-in-trezor-suite-app) on the Trezor knowledge base

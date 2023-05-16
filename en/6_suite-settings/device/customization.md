@@ -1,6 +1,6 @@
 # Customization
 
-Customization settings are accessed via **Settings (**⚙️**) > Device,** then scrolling down to the **Customization** section:
+Customization settings are accessed via **Settings (⚙️) > Device,** then scrolling down to the **Customization** section:
 
 <figure><img src="../../../.gitbook/assets/Customization_TT.png" alt=""><figcaption></figcaption></figure>
 
@@ -9,6 +9,4 @@ Customization settings are accessed via **Settings (**⚙️**) > Device,** then
 * **DIsplay rotation (Model T):** change the orientation of the display on your Trezor Model T.
 * **Auto-lock time:** change how long it takes for the device to automatically lock.
 
-{% hint style="info" %}
-Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base&#x20;
-{% endhint %}
+> LIGHTBULB Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base
