@@ -37,6 +37,10 @@ As of now only these elements are supported:
 
 Please delete unused images. Otherwise, they are unnecessarily bundled with the application.
 
+### Hints and Warnings
+
+Suite will render Quote blocks as a custom Hint/Warning component.  Use 💡 or ⚠️ emojis at the start of the Quote to render the corresponding variant in Suite.
+
 ## How to publish
 
 The contents of this GitBook are packaged with each release of Suite application. The version is controlled from within Suite's codebase via the `GITBOOK_REVISION` constant in the `suite-data` package. After data sync from the GitBook platform to this repo, a GitHub action to update the constant in Suite is triggered. Once the pipeline finishes, you can check the result in Suite [dev environment](https://suite.corp.sldev.cz/suite-web/chore/update-suite-guide/web/). If the GitBook content was synced to the `master` branch of this repository, a pull request is automatically created in the Suite repo to be checked by the devs and to make its way into production with the next release.
