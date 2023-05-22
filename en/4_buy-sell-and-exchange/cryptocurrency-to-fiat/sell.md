@@ -11,4 +11,4 @@
 9. **Agree** to the terms and conditions.
 10. You will be shown a link to open in your browser to complete the sale.
 
-> LIGHTBULB Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base

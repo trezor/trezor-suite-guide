@@ -37,4 +37,4 @@ The process is very similar to that described above for non-onion addresses:
 
 By using Tor, users can further enhance their privacy by obscuring their connection and having data encrypted at multiple levels.
 
-> LIGHTBULB Learn more about [self-hosted full nodes](https://trezor.io/learn/a/full-node-via-electrum-server) on the Trezor knowledge base
+> 💡 Learn more about [self-hosted full nodes](https://trezor.io/learn/a/full-node-via-electrum-server) on the Trezor knowledge base

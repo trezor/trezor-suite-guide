@@ -43,4 +43,4 @@ Once you have entered your recovery seed into the device, Trezor Suite will conf
 
 Spell out the words using your Trezor screen. You will never need to enter your seed phrase anywhere but on the device.
 
-> LIGHTBULB Learn more about [using a recovery seed](https://trezor.io/learn/a/how-to-use-a-recovery-seed) on the Trezor knowledge base
+> 💡 Learn more about [using a recovery seed](https://trezor.io/learn/a/how-to-use-a-recovery-seed) on the Trezor knowledge base

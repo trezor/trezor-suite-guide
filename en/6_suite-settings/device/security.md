@@ -9,4 +9,4 @@ Security settings are accessed via **Settings (⚙️) > Device,** then scrollin
 * **Passphrase:** the passphrase feature is enabled by default, but you can turn the feature off using the toggle switch.
 * **Safety checks:** although not recommended, you can turn off Trezor safety checks and allow (potentially) unsafe actions, e.g. mismatching coin keys or enabling extreme fees.
 
-> LIGHTBULB Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base
+> 💡 Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base

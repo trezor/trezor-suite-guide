@@ -14,4 +14,4 @@ Follow these steps to buy cryptocurrency through [Invity.io](https://invity.io/)
 10. Continue to the partner site to complete the transaction.
 11. Once finished, the cryptocurrency will be sent directly to the address on your device within the estimated time frame specified.
 
-> LIGHTBULB Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base

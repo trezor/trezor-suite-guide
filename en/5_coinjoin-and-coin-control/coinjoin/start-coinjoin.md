@@ -20,4 +20,4 @@ While coinjoin is running, keep your Trezor connected and Trezor Suite running i
 
 If you have not anonymized 100% of the funds in your coinjoin account, you can simply re-run the coinjoin process.
 
-> LIGHTBULB Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base

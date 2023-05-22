@@ -23,4 +23,4 @@ Trezor Suite will then run a coinjoin account discovery, **which may take signif
 
 It is recommended to use a **minimum of 10,000 sats** for coinjoin. Ideally, the **total value** of your coinjoin input should be **1,000,000 sats or more,** otherwise coinjoin may be inefficient.
 
-> LIGHTBULB Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base

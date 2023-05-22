@@ -20,4 +20,4 @@ To **send raw transaction data:**
 3. Click **Send.**
 4. The transaction will be broadcast and a confirmation will appear on screen.
 
-> LIGHTBULB Learn more about [sending crypto](https://trezor.io/learn/a/send-crypto-in-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [sending crypto](https://trezor.io/learn/a/send-crypto-in-trezor-suite-app) on the Trezor knowledge base

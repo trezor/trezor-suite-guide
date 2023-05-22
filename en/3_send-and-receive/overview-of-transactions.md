@@ -10,4 +10,4 @@ You can export the list of transactions to CSV, PDF or JSON via the ellipsis men
 
 Each entry displays the transaction timestamp, address, and amount. More detailed information can be seen by clicking on the entry.
 
-> LIGHTBULB Learn more about [addresses and transaction history](https://trezor.io/learn/a/addresses-transaction-history) on the Trezor knowledge base
+> 💡 Learn more about [addresses and transaction history](https://trezor.io/learn/a/addresses-transaction-history) on the Trezor knowledge base

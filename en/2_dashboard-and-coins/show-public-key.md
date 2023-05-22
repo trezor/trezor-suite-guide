@@ -8,4 +8,4 @@ Every account has its own unique XPUB, which makes it possible to see transactio
 
 While you can share this information in some scenarios, we recommend keeping it secret as it presents a privacy concern where others can view your balances and activity.
 
-> LIGHTBULB Learn more about [public keys (XPUB)](https://trezor.io/learn/a/trezor-suite-app-public-keys-xpub) on the Trezor knowledge base
+> 💡 Learn more about [public keys (XPUB)](https://trezor.io/learn/a/trezor-suite-app-public-keys-xpub) on the Trezor knowledge base

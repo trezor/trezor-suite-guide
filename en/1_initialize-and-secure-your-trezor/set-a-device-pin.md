@@ -22,7 +22,7 @@ To set a new PIN on your Trezor Model One:
 
 * Click **Change PIN** in the **Device settings** menu:
 
-<figure><img src="../../.gitbook/assets/Settings_Change_PIN-highlight (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Settings_Change_PIN-highlight.png" alt=""><figcaption></figcaption></figure>
 
 * Confirm the action on your Trezor.
 * Enter the old PIN using the numbers shown on your Trezor and the grid shown on the computer.
@@ -39,4 +39,4 @@ To set a new PIN on your Trezor Model T:
 * Enter the new PIN on the Trezor.
 * Confirm the new PIN.
 
-> LIGHTBULB Learn more about [PIN protection on Trezor devices](https://trezor.io/learn/a/pin-protection-on-trezor-devices) on the Trezor knowledge base
+> 💡 Learn more about [PIN protection on Trezor devices](https://trezor.io/learn/a/pin-protection-on-trezor-devices) on the Trezor knowledge base

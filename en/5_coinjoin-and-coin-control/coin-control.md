@@ -15,4 +15,4 @@ Please note that your selection must comprise sufficient funds to cover both the
 * Once you’re satisfied with your selection, click **Review & Send.**
 * Then confirm the transaction on your Trezor device as usual.
 
-> LIGHTBULB Learn more about [Coin Control](https://trezor.io/learn/a/coin-control-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [Coin Control](https://trezor.io/learn/a/coin-control-in-trezor-suite) on the Trezor knowledge base

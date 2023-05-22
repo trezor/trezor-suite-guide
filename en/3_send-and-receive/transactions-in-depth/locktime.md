@@ -26,4 +26,4 @@ Use a [Unix timestamp converter](https://www.unixtimestamp.com/) to see the curr
 
 For example, if the current timestamp is 1625215800 and the desired Locktime is one week, the Unix timestamp to enter would be 1625820600 (the current timestamp plus one week, which is equivalent to 604800 seconds).
 
-> LIGHTBULB Learn more about the [locktime feature](https://trezor.io/learn/a/locktime-in-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about the [locktime feature](https://trezor.io/learn/a/locktime-in-trezor-suite-app) on the Trezor knowledge base

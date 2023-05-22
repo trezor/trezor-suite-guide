@@ -20,4 +20,4 @@ The recommended minimum amount is **1,000,000 sats.**&#x20;
 
 Once the transaction is confirmed and the funds have landed in your coinjoin account, you are ready to **reclaim your privacy.**
 
-> LIGHTBULB Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [coinjoin](https://trezor.io/learn/a/coinjoin-in-trezor-suite) on the Trezor knowledge base

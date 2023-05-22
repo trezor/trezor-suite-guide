@@ -4,7 +4,7 @@ A passphrase functions like an extra word added to your recovery seed. Each uniq
 
 Passphrases are not stored on your Trezor, and using a strong passphrase means your coins are extra safe.
 
-> WARNING **If you forget a passphrase, you lose access to any associated funds.** Only use the feature once you understand how it works.
+> ⚠️ **If you forget a passphrase, you lose access to any associated funds.** Only use the feature once you understand how it works.
 
 #### Critical information about passphrases
 
@@ -28,4 +28,4 @@ When you start Trezor Suite and connect your device, you will see the **'Select 
 
 Hidden wallets can be loaded at any time by clicking on the device button in the top-left corner of the Suite interface, selecting **'+ Add wallet',** and then typing in the _exact_ passphrase.
 
-> LIGHTBULB Learn more about [passphrases and hidden wallets](https://trezor.io/learn/a/passphrases-and-hidden-wallets) on the Trezor knowledge base.
+> 💡 Learn more about [passphrases and hidden wallets](https://trezor.io/learn/a/passphrases-and-hidden-wallets) on the Trezor knowledge base.

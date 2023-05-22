@@ -13,4 +13,4 @@
 
 **Check backup:** click on **'Check backup'** to perform a simulated wallet recovery process, which allows you to check the validity of your recovery seed.
 
-> LIGHTBULB Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base
+> 💡 Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base

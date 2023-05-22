@@ -22,4 +22,4 @@ Cryptocurrencies can also be enabled from the **My accounts** menu:
 
 The Crypto settings menu can also be accessed by clicking on **Settings (⚙️)** in the top-right corner of Suite, and then selecting **Crypto**.
 
-> LIGHTBULB Learn more about [supported cryptocurrencies](https://trezor.io/learn/a/supported-coins) on the Trezor knowledge base.
+> 💡 Learn more about [supported cryptocurrencies](https://trezor.io/learn/a/supported-coins) on the Trezor knowledge base.

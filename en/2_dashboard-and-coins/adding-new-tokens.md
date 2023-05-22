@@ -28,4 +28,4 @@ If your tokens are not listed there you can add them manually:
 * Then enter the contract address; the contract addresses of all tokens can be found here: [https://etherscan.io/tokens](https://etherscan.io/tokens)
 * Once your first token has been added, you can continue to add mroe through the drop-down menu
 
-> LIGHTBULB Learn more about [Etherum & ERC20 tokens](https://trezor.io/learn/a/ethereum-erc20-tokens-on-trezor) on the Trezor knowledge base
+> 💡 Learn more about [Etherum & ERC20 tokens](https://trezor.io/learn/a/ethereum-erc20-tokens-on-trezor) on the Trezor knowledge base

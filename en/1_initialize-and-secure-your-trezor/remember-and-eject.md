@@ -10,4 +10,4 @@ Access the Remember and Eject settings by clicking on the top-left button showin
 
 If you are using a shared or public computer, wallet balances could be viewed by others who have access to the computer. Eject any saved wallets to prevent revealing this information.
 
-> LIGHTBULB Learn more about [Trezor Suite features](https://trezor.io/learn/a/get-to-know-the-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [Trezor Suite features](https://trezor.io/learn/a/get-to-know-the-trezor-suite-app) on the Trezor knowledge base
