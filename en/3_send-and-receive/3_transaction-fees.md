@@ -6,7 +6,7 @@ Transaction fees are part of the network mechanism; they are not paid to Satoshi
 
 #### Setting the right fee for a transaction
 
-Choose an appropriate fee by deciding the priority of the transaction. Trezor Suite suggests fees based on the estimated time it will confirm in. The quickest it will usually confirm is 10 minutes.
+Choose an appropriate fee by deciding the priority of the transaction. Trezor Suite suggests fees based on the estimated time it will confirm in. The quickest bitcoin transaction it will usually confirm is 10 minutes.
 
 The estimated time shown is reflective of **current conditions** in the mempool and assumes **standard block times**. This means that estimates should be correct at the time of sending but the transaction may arrive earlier or later than estimates due to those two variables.
 
@@ -14,6 +14,6 @@ To set a custom fee, simply click the Custom button and enter a fee. This is use
 
 #### Speed up a slow or stuck transaction
 
-If your bitcoin or litecoin transaction is taking too long to confirm you can bump the fee higher to make miners prioritize it. This is only possible if you did not turn off RBF when the transaction was sent. Read about using RBF to fix transaction problems.
+If your bitcoin or litecoin transaction is taking too long to confirm you can bump the fee higher to make miners prioritize it. This is only possible if you did not turn off **replace-by-fee** (RBF) when the transaction was sent.
 
 > 💡 Learn more about [transaction fees](https://trezor.io/learn/a/transaction-fees-in-trezor-suite-app) on the Trezor knowledge base

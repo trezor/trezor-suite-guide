@@ -2,7 +2,7 @@
 
 Locktime creates a transaction that only broadcasts when a certain time or block height has been reached. Setting a locktime is as simple as stating a blockheight or Unix timestamp at which it should broadcast, and then signing the transaction as usual.
 
-Broadcast is turned off by default when using Locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network.
+Broadcast is turned off by default when using locktime, meaning you will receive raw text data to broadcast from a node. If Broadcast is on, the transaction will be sent over the current network.
 
 #### How to set a locktime
 
@@ -13,8 +13,8 @@ You can set a Locktime while creating a transaction:
 3. Set a fee.
 4. Confirm transaction details on your Trezor.
 5. You will be shown confirmation details.
-6. Copy the data to your clipboard or save it as a text document. When Broadcasting, click Send instead.
-7. Later, from another network, use Send RAW or visit a block explorer to send the raw transaction data.
+6. Copy the data to your clipboard or save it as a text document. When Broadcasting (only after the block height has been reached) click Send instead.
+7. Later, ideally from another network, use Send RAW or visit a block explorer to send the raw transaction data.
 
 #### How to set a precise Locktime
 

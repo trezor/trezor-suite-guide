@@ -2,7 +2,7 @@
 
 Bitcoin account balances and transaction values in Trezor Suite can be shown in either BTC or Satoshis (sat). For example, if you have 0.1 BTC, it would be shown as 10,000,000 sat.
 
-For account balances, users can toggle between the two modes directly in the Trezor Suite Dashboard by clicking on the ‘Balance’ shown in the Assets overview table.
+For account balances, users can toggle between the two units directly in the Trezor Suite Dashboard by clicking on the ‘Balance’ shown in the Assets overview table.
 
 Preferences can also be changed via the **Application settings** menu:
 

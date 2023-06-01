@@ -4,7 +4,7 @@ Labeling is a tool that helps you stay organized.
 
 Rename your wallets, accounts, and addresses to keep track of your portfolio, separate transactions based on their sender, or make notes about transactions.
 
-Labels are synced to your Google Drive or Dropbox account, or they can be stored locally.
+Labels are synced to your Google Drive or Dropbox account, or they can be stored locally. All the information you add is automatically encrypted by a key derived from your Trezor device.
 
 #### **Turning on Labeling**
 

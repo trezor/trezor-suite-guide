@@ -2,7 +2,7 @@
 
 Your PIN is a critical security feature and should be enabled before sending any coins to the device.
 
-**Your PIN should be memorable.** It cannot be recovered if forgotten.
+**Your PIN should be memorable,** as it cannot be recovered if forgotten. However, as long as you have a copy of your recovery seed (and passphrase is used) access to your funds can still be restored.
 
 #### **Setting a PIN**
 

@@ -1,8 +1,8 @@
 # URI handlers
 
-The URI scheme makes it easier for users to make Bitcoin payments either by clicking a link on a webpage or scanning a QR code. This functionality has also been extended to Bitcoin-like altcoins.
+The URI scheme makes it easier for users to make Bitcoin payments either by clicking a link on a webpage or scanning a QR code. This functionality has also been extended to bitcoin-like cryptocurrencies.
 
-To use the Trezor Suite web application as a URI handler, when you first start the application click on **Add application** when prompted to add “[suite.trezor.io](http://suite.trezor.io/)” as an app for handling Bitcoin links:
+To use the Trezor Suite web application as a URI handler, when you first start the application click on **Add application** when prompted to add “[suite.trezor.io](http://suite.trezor.io/)” as an app for handling bitcoin links:
 
 <figure><img src="../../../.gitbook/assets/First_time_prompt_cropped.png" alt=""><figcaption></figcaption></figure>
 
