@@ -1,6 +1,7 @@
 name: "[Bot] Update GitBook revision in Suite"
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -8,7 +9,7 @@ on:
 
 jobs:
   update-revision-in-suite:
-    if: github.event.head_commit.committer.username == 'gitbook-bot'
+    if: github.event_name == 'workflow_dispatch' || github.event.head_commit.committer.username == 'gitbook-bot'
     
     env:
       SUITE_REPO: "trezor/trezor-suite"
