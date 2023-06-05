@@ -33,7 +33,7 @@ jobs:
         run: git switch -C ${{ env.PR_BRANCH }}
 
       - name: Update GitBook revision
-        run: sed -i "s/^export const GITBOOK_REVISION = .*/export const GITBOOK_REVISION = '${{ github.sha }}'/" ${{ env.FILEPATH }}
+        run: sed -i "s/^export const GITBOOK_REVISION = .*/export const GITBOOK_REVISION = '${{ github.sha }}';/" ${{ env.FILEPATH }}
 
       - name: Stage and commit
         run: |
