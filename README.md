@@ -2,21 +2,21 @@
 
 ## How to write
 
-Contents of this GitBook are packaged into Suite by a custom script that is based on a few assumptions about structure of the content.
+Contents of this Gitbook are packaged into Suite by a custom script that is based on a few assumptions about structure of the content.
 
 ### Groups are for locales
 
-We support localization of the content by having a group for each locale. The groups should be named by corresponding  [ISO 639-1 2-letter code.](https://www.wikiwand.com/en/List\_of\_ISO\_639-1\_codes)
+We support localization of the content by having a group for each locale. The groups should be named by corresponding [ISO 639-1 2-letter code.](https://www.wikiwand.com/en/List\_of\_ISO\_639-1\_codes)
 
 Localised variants of a single page are paired by the **slugs** which can be set in the "three dot" menu of each page. For nested pages the slugs must match on all levels.\
 \
-For example, if you want to write a czech translation for english page with slug `bitcoin` that is under a page with slug `coins` you must create a group named `cs` containing a page with slug `coins` containing a page with slug `bitcoin`. Only then it will be recognised as a translation of the english page. The title and the content can be altered freely.
+For example, if you want to write a Czech translation for English page with slug `bitcoin` that is under a page with slug `coins` you must create a group named `cs` containing a page with slug `coins` containing a page with slug `bitcoin`. Only then it will be recognised as a translation of the English page. The title and the content can be altered freely.
 
 ### English is the canonical version
 
-English locale defines the content structure. All other locales can only provide translations of english pages but they can't define their own pages.
+English locale defines the content structure. All other locales can only provide translations of English pages but they can't define their own pages.
 
-This means that any non-english page that doesn't have a slug matching slug of some english page won't be displayed in Suite.
+This means that any non-English page that doesn't have a slug matching slug of some English page won't be displayed in Suite.
 
 ### Categories can't hold content
 
@@ -26,16 +26,20 @@ This means that any non-english page that doesn't have a slug matching slug of s
 
 As of now only these elements are supported:
 
-![](.gitbook/assets/readme\_features\_info.png)
+<figure><img src=".gitbook/assets/Gitbook-rich_content.png" alt=""><figcaption></figcaption></figure>
 
 ### Images
 
 * To add an image to root categories, just add corresponding images to their content without any caption or additional text.
 * To add images to articles, just add corresponding images to content without any caption. Please be aware that guide content width is only 305px.
-* Make sure not to have duplicate images or files. Github renames duplicates to contain parentheses and that breaks images in all articles.&#x20;
-* Do not use parentheses, spaces or special characters in image files names.&#x20;
+* Make sure not to have duplicate images or files. Github renames duplicates to contain parentheses and that breaks images in all articles.
+* Do not use parentheses, spaces or special characters in image files names.
 
 Please delete unused images. Otherwise, they are unnecessarily bundled with the application.
+
+### Hints and Warnings
+
+Suite will render Quote blocks as a custom Hint/Warning component.  Use 💡 or ⚠️ emojis at the start of the Quote to render the corresponding variant in Suite.
 
 ## How to publish
 
