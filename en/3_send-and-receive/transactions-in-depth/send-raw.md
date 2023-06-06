@@ -13,7 +13,7 @@ To create raw transaction data:
 
 To **send raw transaction data:**
 
-💡 It is best to use a different host machine to send a signed raw transaction.
+> 💡 It is best to use a different host machine to send a signed raw transaction.
 
 1. Select **Send Raw** from the ellipsis drop-down menu.&#x20;
 2. **Paste** the raw transaction data into the text box.
