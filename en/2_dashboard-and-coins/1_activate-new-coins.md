@@ -1,6 +1,6 @@
 # Activate new coins
 
-On the Trezor Suite **Dashboard**, click the **'+Enable more coins'** button in the **Assets** overview section (just below the Portfolio graph). You will then be taken directly to the **Crypto** settings menu:
+On the Trezor Suite **Dashboard**, click the **'+Enable more coins'** button in the **Assets** overview section (just below the Portfolio graph). You will then be taken directly to the **Coins** settings menu:
 
 * Enable (or disable) a cryptocurrency by clicking on it.
 * A green check mark indicates that particular cryptocurrency is now enabled in Suite.
@@ -16,6 +16,6 @@ Cryptocurrencies can also be enabled from the **My accounts** menu:
 
 Ethereum network ERC20 tokens can be managed using Trezor Suite by adding custom token addresses to a new or existing Ethereum Account.
 
-The Crypto settings menu can also be accessed by clicking on **Settings (⚙️)** in the top-right corner of Suite, and then selecting **Crypto**.
+The Coins settings menu can also be accessed by clicking on **Settings (⚙️)** in the top-right corner of Suite, and then selecting **Coins**.
 
 > 💡 Learn more about [supported cryptocurrencies](https://trezor.io/learn/a/supported-coins) on the Trezor knowledge base

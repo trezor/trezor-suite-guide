@@ -6,7 +6,7 @@ This is a common part of using cryptocurrencies, but there are security and priv
 
 #### How to receive crypto in Trezor Suite:
 
-1. Make sure that you have **enabled** the cryptocurrency you wish to receive in Trezor Suite. Cryptocurrencies can be enabled any time via ⚙️ **Settings > Crypto.**
+1. Make sure that you have **enabled** the cryptocurrency you wish to receive in Trezor Suite. Cryptocurrencies can be enabled any time via ⚙️ **Settings > Coins.**
 2. Open the **Accounts** page; in the left column choose the cryptocurrency and the account that you want to receive funds with. Make sure you **create the correct type of address** for the cryptocurrency you're trading.
 3. Click on **Receive** and then **Show full address.**
 4. Confirm that the addresses match by cross-checking the address shown in Trezor Suite with the address shown on your Trezor device.

@@ -8,7 +8,7 @@ By default, Trezor Suite determines account balances by querying the Trezor Bloc
 
 To enable the feature, you must access the Bitcoin advanced settings via:
 
-* **Settings > Crypto > Bitcoin** ⚙️
+* **Settings > Coins > Bitcoin** ⚙️
 
 In the **Backends** window, switch from **Trezor servers (default)** to **Custom Electrum server** using the drop-down menu located at the top of the list of addresses.
 
@@ -21,7 +21,7 @@ In this field you should enter the Electrum server address running on your perso
 
 In Suite you will now see the **Backends** icon in the top-right corner of the window, right next to the Discreet Mode icon:
 
-<figure><img src="../../../.gitbook/assets/Custom_Servers_Suite_Highlight.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Custom_Servers_Suite_Highlight.png" alt=""><figcaption></figcaption></figure>
 
 Custom backend settings can be accessed through Bitcoin advanced settings, or by clicking on the Backends icon and selecting **Manage.**
 
