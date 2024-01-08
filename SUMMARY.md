@@ -35,7 +35,7 @@
     * [Labeling your transactions](en/3\_send-and-receive/transactions-in-depth/labeling-your-transactions.md)
     * [URI handlers](en/3\_send-and-receive/transactions-in-depth/uri-handlers.md)
     * [Electrum compatible signatures](en/3\_send-and-receive/transactions-in-depth/electrum-compatible-signatures.md)
-    * [Send RAW](en/3\_send-and-receive/transactions-in-depth/send-raw.md)
+    * [Send raw](en/3\_send-and-receive/transactions-in-depth/send-raw.md)
     * [OP\_Return](en/3\_send-and-receive/transactions-in-depth/op\_return.md)
 * [Buy, sell & exchange](en/4\_buy-sell-and-exchange/README.md)
   * [Fiat to cryptocurrency](en/4\_buy-sell-and-exchange/fiat-to-cryptocurrency/README.md)
