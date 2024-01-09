@@ -22,7 +22,7 @@
   * [Show public key](en/2\_dashboard-and-coins/5\_show-public-key.md)
   * [Adding new tokens](en/2\_dashboard-and-coins/6\_adding-new-tokens.md)
   * [Advanced features](en/2\_dashboard-and-coins/advanced-features/README.md)
-    * [Connect own node via Electrum server](en/1\_initialize-and-secure-your-trezor/9\_connect-own-node-via-electrum-server.md)
+    * [Connect own node via Electrum server](en/2\_dashboard-and-coins/advanced-features/connect-own-node-via-electrum-server.md)
     * [Cardano (ADA) staking](en/2\_dashboard-and-coins/advanced-features/cardano-ada-staking.md)
 * [Send & receive](en/3\_send-and-receive/README.md)
   * [Sending crypto](en/3\_send-and-receive/1\_sending-crypto.md)
