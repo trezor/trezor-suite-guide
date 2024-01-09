@@ -10,7 +10,7 @@ on:
 jobs:
   update-revision-in-suite:
     if: github.event_name == 'workflow_dispatch' || github.event.head_commit.committer.username == 'gitbook-bot'
-    
+
     env:
       SUITE_REPO: "trezor/trezor-suite"
       SUITE_BRANCH: "develop"
@@ -47,4 +47,4 @@ jobs:
 
       - name: Create pull request
         if: github.ref == 'refs/heads/master'
-        run: gh pr create --repo ${{ env.SUITE_REPO }} --base ${{ env.SUITE_BRANCH }} --head ${{ env.PR_BRANCH }} --title "GitBook revision update" --label "guide" --body "Automatically generated PR to update GitBook revision, i.e. to sync the latest [trezor-suite-guide](https://github.com/${{ github.repository }}) content to Suite. Before merging, check its [commit history](https://github.com/${{ github.repository }}/master). Once the pipeline finishes, you can check the result [here](https://suite.corp.sldev.cz/suite-web/${{ env.PR_BRANCH }}/web/)."
+        run: gh pr create --repo ${{ env.SUITE_REPO }} --base ${{ env.SUITE_BRANCH }} --head ${{ env.PR_BRANCH }} --title "GitBook revision update" --label "guide" --body "Automatically generated PR to update GitBook revision, i.e. to sync the latest [trezor-suite-guide](https://github.com/${{ github.repository }}) content to Suite. Before merging, check its [commit history](https://github.com/${{ github.repository }}/commits/master). Once the pipeline finishes, you can check the result [here](https://suite.corp.sldev.cz/suite-web/${{ env.PR_BRANCH }}/web/)."
