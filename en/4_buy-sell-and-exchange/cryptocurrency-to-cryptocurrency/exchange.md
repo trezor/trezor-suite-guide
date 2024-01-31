@@ -12,4 +12,4 @@
 10. Send your coins to the provider's address.
 11. Once the transaction is finalized, you will receive your exchanged coins directly into your wallet.
 
-> 💡 Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [exchanging crypto in Trezor Suite](https://trezor.io/learn/a/exchange-crypto-in-trezor-suite) on the Trezor knowledge base

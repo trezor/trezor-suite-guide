@@ -17,4 +17,4 @@
 15. Back on our partner’s website, paste the copied address into the **Release address** field.
 16. Finalize the transaction according to the instructions on your screen.
 
-> 💡 Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [buying Bitcoin P2P in Trezor Suite](https://trezor.io/learn/a/buy-bitcoin-p2p-in-trezor-suite) on the Trezor knowledge base

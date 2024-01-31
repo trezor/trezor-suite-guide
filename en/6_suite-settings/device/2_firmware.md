@@ -14,4 +14,4 @@ Firmware settings are accessed via **Settings (⚙️) > Device,** then scrollin
 * **Universal:** supports all cryptocurrencies available on Trezor. If you only need to trade bitcoin, click on **'Switch to Bitcoin'** and follow the on-screen instructions to install Bitcoin-only firmware.
 * **Bitcoin-only:** your Bitcoin accounts and balances will be shown, but all other coins will be deactivated. If you need to trade other cryptocurrencies, you will need to install the Universal firmware by clicking on **'Switch to Universal'** and following the on-screen instructions.
 
-> 💡 Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base
+> 💡 Learn more about [firmware settings](https://trezor.io/learn/a/trezor-suite-app-settings#Firmware) on the Trezor knowledge base

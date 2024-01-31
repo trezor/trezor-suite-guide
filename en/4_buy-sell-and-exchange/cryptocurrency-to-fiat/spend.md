@@ -8,4 +8,4 @@
 6. Bitrefill will ask only for your email address to receive your voucher. No further ID verification is required.
 7. Pay by following the instructions on your screen and then enjoy your voucher!
 
-> 💡 Learn more about [managing your crypto assets](https://trezor.io/learn/c/trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [spending crypto in Trezor Suite](https://trezor.io/learn/a/spend-crypto-in-trezor-suite) on the Trezor knowledge base

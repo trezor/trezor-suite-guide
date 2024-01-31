@@ -10,4 +10,4 @@ Danger Area settings are accessed via **Settings (⚙️) > Device,** then scrol
 * **Set up wipe code:** this advanced feature lets you create a "self-destruct" code; when entered, your Trezor will immediately delete all private data **including your recovery seed**.
 * **Install custom firmware:** this option lets you install custom firmware, for example if you want to downgrade the firmware installed on your Trezor.
 
-> 💡 Learn more about [Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings) on the Trezor knowledge base
+> 💡 Learn more about [danger area settings](https://trezor.io/learn/a/trezor-suite-app-settings#Danger\_area) on the Trezor knowledge base
