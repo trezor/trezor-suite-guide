@@ -6,7 +6,7 @@ Unlike bitcoin and other "Proof of Work"-based cryptocurrencies, Cardano users p
 
 By staking ADA, you can earn rewards as a form of passive income for holding Cardano. You will also be supporting the Cardano network and contributing to its stability.
 
-#### **Staking ADA in Trezor Suite (Trezor Model T and Trezor Safe 3)**
+#### **Staking ADA in Trezor Suite (Trezor Model T and Trezor Safe 3):**
 
 * In Trezor Suite, to go the **Accounts** page and select your Cardano wallet.
 * In the menu bar you will see the **Staking** tab.
