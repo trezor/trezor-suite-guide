@@ -2,7 +2,7 @@
 
 **Staking** is the process used for validating transactions on blockchains that use the so-called "Proof of Stake" consensus mechanism. Ethereum's switch from Proof of Work (PoW) to PoS through its upgrade to Ethereum 2.0 was motivated by several key factors, each aimed at improving the network's efficiency, security, and scalability.
 
-By staking ETH, you can earn interest as a form of passive income, while also supporting the Cardano network and contributing to its stability.
+By staking ETH, you can earn interest as a form of passive income, while also supporting the Ethereum network and contributing to its stability.
 
 #### **Staking ETH in Trezor Suite:**
 
