@@ -11,7 +11,7 @@
   * [Supported coins](en/1\_initialize-and-secure-your-trezor/4\_supported-coins.md)
   * [Recover a wallet](en/1\_initialize-and-secure-your-trezor/5\_recover-a-wallet.md)
   * [Passphrase](en/1\_initialize-and-secure-your-trezor/6\_passphrase.md)
-  * [Shamir Backup](en/1\_initialize-and-secure-your-trezor/7\_shamir-backup.md)
+  * [Multi-share Backup](en/1\_initialize-and-secure-your-trezor/7\_shamir-backup.md)
   * [Remember & Eject](en/1\_initialize-and-secure-your-trezor/8\_remember-and-eject.md)
   * [Set a wipe code](en/1\_initialize-and-secure-your-trezor/9\_set-a-wipe-code.md)
 * [Dashboard & coins](en/2\_dashboard-and-coins/README.md)
