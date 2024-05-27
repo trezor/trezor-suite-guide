@@ -19,7 +19,7 @@ If your Trezor is fresh out of the box, follow the on-screen instructions during
 * In the **Wallet backup** section, click on **'Create Multi-share Backup'**.
 * Follow the on-screen instructions for creating your Multi-share Backup.
 
-#### **I have a different backup type (e.g. 12-word, 24-word, Shamir backup):**
+#### **I have a different backup type e.g. 12-word, 24-word, Shamir backup (created before June 2024):**
 
 If you're already using a different backup type, you must first wipe the device. **Make sure you keep your original backup safe,** so that you can access the associated wallets and funds if required.
 
