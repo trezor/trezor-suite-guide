@@ -1,5 +1,9 @@
 # Coinjoin fees
 
+{% hint style="info" %}
+Trezor's third party coinjoin coordinator zkSNACKs will discontinue their service as of 1st June 2024. Coinjoin users do not need to move their private funds elsewhere, and all accounts will remain accessible after this date. Learn more on the [Trezor blog](https://blog.trezor.io/important-update-transitioning-from-coinjoin-in-trezor-suite-9dfc63d2662f).
+{% endhint %}
+
 A **0.3% coordinator fee** will be taken from **fresh** **coins greater than 0.01 BTC.** This means that there is no such fee for UTXOs below 1,000,000 sats.
 
 As with any other bitcoin transaction, you also need to pay **mining fees.** For coinjoin, you must pay a mining fee for **each round.**

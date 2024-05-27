@@ -1,5 +1,9 @@
 # Add a coinjoin account
 
+{% hint style="info" %}
+Trezor's third party coinjoin coordinator zkSNACKs will discontinue their service as of 1st June 2024. Coinjoin users do not need to move their private funds elsewhere, and all accounts will remain accessible after this date. Learn more on the [Trezor blog](https://blog.trezor.io/important-update-transitioning-from-coinjoin-in-trezor-suite-9dfc63d2662f).
+{% endhint %}
+
 #### Adding a coinjoin account in Trezor Suite:
 
 * At the top of the **'My accounts'** menu bar, press the plus (➕) sign:

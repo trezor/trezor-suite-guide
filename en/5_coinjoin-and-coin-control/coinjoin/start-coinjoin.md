@@ -1,5 +1,9 @@
 # Start coinjoin
 
+{% hint style="info" %}
+Trezor's third party coinjoin coordinator zkSNACKs will discontinue their service as of 1st June 2024. Coinjoin users do not need to move their private funds elsewhere, and all accounts will remain accessible after this date. Learn more on the [Trezor blog](https://blog.trezor.io/important-update-transitioning-from-coinjoin-in-trezor-suite-9dfc63d2662f).
+{% endhint %}
+
 Once you've added bitcoin to your coinjoin account, you can begin the process of making these funds private:
 
 ### Running coinjoin in Trezor Suite
