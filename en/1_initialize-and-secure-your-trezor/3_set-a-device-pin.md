@@ -8,7 +8,7 @@ Your PIN is a critical security feature and should be enabled before sending any
 
 During the onboarding process, you will be prompted to set a PIN.
 
-**Your PIN should be at least 6 digits long.** All Trezor hardware wallets support a PIN up to 50 digits.
+**Your PIN should be at least 4 digits long.** All Trezor hardware wallets support a PIN up to 50 digits.
 
 If you skipped this step during onboarding, you can set your PIN from the Trezor Suite Dashboard or through the **Device settings** menu.
 
@@ -42,6 +42,16 @@ To set a new PIN on your Trezor Model T:
 #### **Trezor Safe 3**
 
 To set a new PIN on your Trezor Safe 3:
+
+* Click **Change PIN** in the **Device Settings** menu.
+* Confirm the action on your Trezor.
+* Enter the old PIN using the buttons on your Trezor.
+* Enter the new PIN in the same way.
+* Confirm the new PIN.
+
+#### **Trezor Safe 5**
+
+To set a new PIN on your Trezor Safe 5:
 
 * Click **Change PIN** in the **Device Settings** menu.
 * Confirm the action on your Trezor.

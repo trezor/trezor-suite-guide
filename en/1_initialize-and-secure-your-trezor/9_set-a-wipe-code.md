@@ -4,7 +4,7 @@ Wipe code is an **advanced user feature** that lets you set a "self-destruct" PI
 
 > ⚠️ Before setting a wipe code, **make sure you check the validity of your recovery seed!**
 
-Once set, you can enter the wipe code in the PIN dialog whenever you connect your device. When the wipe code is entered, the device immediately **erases all private data including the recovery seed.**
+Once set, you can enter the wipe code in the PIN dialog whenever you connect your device. When the wipe code is entered, the device immediately **erases all private data including the wallet backup (recovery seed).**
 
 Wipe code settings are found via ⚙️ **Settings > Device** in the **Danger Area:**
 

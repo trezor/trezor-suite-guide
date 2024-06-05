@@ -1,6 +1,6 @@
 # Passphrase
 
-A passphrase functions like an extra word added to your recovery seed. Each unique combination of recovery seed + passphrase grants access to the corresponding, unique **hidden wallet.**
+A passphrase functions like an extra word added to your wallet backup (recovery seed). Each unique combination of recovery seed + passphrase grants access to the corresponding, unique **hidden wallet.**
 
 Passphrases are not stored on your Trezor, and using a strong passphrase means your coins are extra safe.
 
@@ -12,7 +12,7 @@ Passphrases are not stored on your Trezor, and using a strong passphrase means y
 * A passphrase can be any character or set of characters, a word, or a sentence up to 50 bytes long (\~50 [ASCII](https://ascii.cl/) characters).
 * Passphrases are case-sensitive - lowercase and uppercase characters are distinguished and count as different.
 * Spaces are counted as valid characters.
-* Your passphrase and recovery seed are used together. Neither can be used without the other. Coins sent to a passphrase-protected wallet can only be recovered with access to the seed and passphrase.
+* Your passphrase and wallet backup (recovery seed) are used together. Neither can be used without the other. Coins sent to a passphrase-protected wallet can only be recovered with access to the seed and passphrase.
 * There is no limit to the number of passphrase-protected wallets that can be used.
 * Entering the 'wrong' passphrase will still create a protected wallet, there is no error message to indicate you mistyped it.
 

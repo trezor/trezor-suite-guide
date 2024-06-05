@@ -6,7 +6,7 @@
 
 * [Initialize & secure your Trezor](en/1\_initialize-and-secure-your-trezor/README.md)
   * [Install firmware](en/1\_initialize-and-secure-your-trezor/1\_install-firmware.md)
-  * [Set up a recovery seed](en/1\_initialize-and-secure-your-trezor/2\_set-up-a-recovery-seed.md)
+  * [Create a Wallet Backup](en/1\_initialize-and-secure-your-trezor/2\_set-up-a-recovery-seed.md)
   * [Set a device PIN](en/1\_initialize-and-secure-your-trezor/3\_set-a-device-pin.md)
   * [Supported coins](en/1\_initialize-and-secure-your-trezor/4\_supported-coins.md)
   * [Recover a wallet](en/1\_initialize-and-secure-your-trezor/5\_recover-a-wallet.md)
@@ -59,7 +59,7 @@
     * [Experimental features](en/6\_suite-settings/application/5\_experimental-features.md)
     * [Express BTC values in sats](en/6\_suite-settings/application/6\_express-btc-values-in-sats.md)
   * [Device](en/6\_suite-settings/device/README.md)
-    * [Wallet backup](en/6\_suite-settings/device/1\_wallet-backup.md)
+    * [Wallet Backup](en/6\_suite-settings/device/1\_wallet-backup.md)
     * [Firmware](en/6\_suite-settings/device/2\_firmware.md)
     * [Security](en/6\_suite-settings/device/3\_security.md)
     * [Customization](en/6\_suite-settings/device/4\_customization.md)

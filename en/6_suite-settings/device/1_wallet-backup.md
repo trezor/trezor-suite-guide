@@ -1,10 +1,10 @@
-# Wallet backup
+# Wallet Backup
 
 **Wallet backup** operations can be found under **Settings (⚙️) > Device**, at the top of the page:
 
 <figure><img src="../../../.gitbook/assets/Wallet_backup.png" alt=""><figcaption></figcaption></figure>
 
-**Backup**: informs you of the status of your Trezor device backup, i.e., whether or not you've set up your **recovery seed.**
+**Backup**: informs you of the status of your Trezor device backup, i.e., whether or not you've set up your wallet backup (recovery seed).
 
 * If you've already created your backup, you'll see the grayed-out **'Backup successful'** button.
 * If you have not already created your backup, please click on **Create backup** and set it up **as soon as possible:**
