@@ -1,8 +1,8 @@
 # Supported coins
 
-Trezor hardware wallets support hundreds of coins and tokens, both natively in Suite and through third party tools. A full list of coins and compatible wallets is available on the [Supported coins](https://trezor.io/coins) page on the Trezor knowledge base.
+Trezor hardware wallets support thousands of coins and tokens, both natively in Trezor Suite and through third party tools. A full list of coins and compatible wallets is available on our [Supported Coins & Tokens](https://trezor.io/coins) page.
 
-Trezor Suite natively supports fifteen cryptocurrencies and all ERC20 and SPL tokens. Other cryptocurrencies are supported by Trezor hardware wallets but must be managed using a third-party wallet interface such as Electrum or MetaMask.
+Cryptocurrencies that are not natively supported in Suite can be managed using a third-party wallet interface such as [Electrum](https://trezor.io/learn/a/electrum-and-trezor) or [MetaMask](https://trezor.io/learn/a/metamask-and-trezor).
 
 Using a third-party wallet with your Trezor provides the same level of protection for your keys as Trezor Suite.
 
@@ -10,16 +10,15 @@ Using a third-party wallet with your Trezor provides the same level of protectio
 
 On the Trezor Suite Dashboard, click the **Enable more coins** button in the **Assets** overview section (just below the Portfolio graph). You will then be taken directly to the **Coins** settings menu:
 
-* Enable (or disable) a cryptocurrency by clicking on it.
+* Enable a cryptocurrency by clicking on it and then selecting **Activate coins**.
 * A green check mark indicates that particular cryptocurrency is now enabled in Suite.
 
-Cryptocurrencies can also be enabled from the **My accounts** menu:
+The **Coins** settings tab can also be accessed via the main side-bar menu:
 
-* When on the **Accounts** page, click the plus icon (➕) in the **My accounts** sidebar.
-* In the **New account** window, select **Activate more coins.**
-* Then select the additional cryptocurrencies you want to enable in Suite, and click the **'Find my accounts'** button.
-* For example, if you want to add Ripple (XRP): first click on ‘**XRP’** and then the '**Find my XRP accounts'** button.
+* In the side-bar menu, click on **Settings**, then select the **Coins** tab.
+* Add the coin you wish to trade by clicking it, then the **Activate coins** button.
 
-The Coins settings menu can also be accessed by clicking on **Settings (⚙️)** in the top-right corner of Suite, and then selecting **Coins**.
+To disable a coin, go to the **Coins** settings menu and click the coin you wish to remove from Suite.
 
 > 💡 Learn more about [supported cryptocurrencies](https://trezor.io/learn/a/supported-coins) on the Trezor knowledge base.
+

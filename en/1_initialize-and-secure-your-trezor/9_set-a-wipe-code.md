@@ -8,7 +8,7 @@ Once set, you can enter the wipe code in the PIN dialog whenever you connect you
 
 Wipe code settings are found via ⚙️ **Settings > Device** in the **Danger Area:**
 
-<figure><img src="../../.gitbook/assets/Wipe_Code_setup-HL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Danger_Area-Wipe-Code-HL.png" alt=""><figcaption></figcaption></figure>
 
 **Setting a wipe code:**
 
@@ -22,7 +22,7 @@ Wipe code settings are found via ⚙️ **Settings > Device** in the **Danger Ar
 
 With a wipe code enable, Suite will display the options to **Change wipe code** and **Remove wipe code:**
 
-<figure><img src="../../.gitbook/assets/Wipe_Code_enabled-HL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Danger_Area-Wipe-Code-set-HL.png" alt=""><figcaption></figcaption></figure>
 
 **Changing a wipe code:**
 

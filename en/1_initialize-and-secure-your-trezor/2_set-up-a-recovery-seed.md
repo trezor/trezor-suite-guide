@@ -14,7 +14,7 @@ If your Trezor is lost, stolen, or broken, your backup will allow you to recover
 
 In Trezor Suite, your backup can be managed through **Settings (⚙️) > Device.**
 
-Trezor wallets only store one backup / recovery seed at a time. If you have it safely backed up, you can wipe the device and generate a new backup if required.
+Trezor wallets only store one backup (recovery seed) at a time. If you have it safely backed up, you can wipe the device and generate a new backup if required.
 
 To create a backup on a new device:
 
