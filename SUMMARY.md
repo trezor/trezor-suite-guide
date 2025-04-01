@@ -39,7 +39,7 @@
     * [URI handlers](en/3_send-and-receive/transactions-in-depth/uri-handlers.md)
     * [Electrum compatible signatures](en/3_send-and-receive/transactions-in-depth/electrum-compatible-signatures.md)
     * [Send raw](en/3_send-and-receive/transactions-in-depth/send-raw.md)
-    * [OP\_Return](en/3_send-and-receive/transactions-in-depth/op_return.md)
+    * [OP\_RETURN](en/3_send-and-receive/transactions-in-depth/op_return.md)
     * [Coin control](en/3_send-and-receive/transactions-in-depth/coin-control.md)
     * [Destination tags](en/3_send-and-receive/transactions-in-depth/destination-tags.md)
 * [Buy, sell & exchange](en/4_buy-sell-and-exchange/README.md)
