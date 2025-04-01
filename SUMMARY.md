@@ -25,6 +25,7 @@
     * [Connect own node via Electrum server](en/2_dashboard-and-coins/advanced-features/connect-own-node-via-electrum-server.md)
     * [Cardano (ADA) staking](en/2_dashboard-and-coins/advanced-features/cardano-ada-staking.md)
     * [Ethereum (ETH) staking](en/2_dashboard-and-coins/advanced-features/ethereum-eth-staking.md)
+    * [Solana (SOL) staking](en/2_dashboard-and-coins/advanced-features/solana-sol-staking.md)
 * [Send & receive](en/3_send-and-receive/README.md)
   * [Sending crypto](en/3_send-and-receive/1_sending-crypto.md)
   * [Receiving crypto](en/3_send-and-receive/2_receiving-crypto.md)
