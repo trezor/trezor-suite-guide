@@ -10,7 +10,9 @@ on:
 jobs:
   update-revision-in-suite:
     if: github.event_name == 'workflow_dispatch' || github.event.head_commit.committer.username == 'gitbook-bot'
-
+    name: Update GitBook revision in Suite
+    runs-on: ubuntu-latest
+    environment: suite-public
     env:
       SUITE_REPO: "trezor/trezor-suite"
       SUITE_BRANCH: "develop"
@@ -18,16 +20,24 @@ jobs:
       PR_BRANCH: "chore/update-suite-guide"
       GITHUB_TOKEN: ${{ secrets.TREZOR_BOT_TOKEN }}
 
-    runs-on: ubuntu-latest
-
     steps:
+      - name: Generate GitHub App token
+        id: trezor-bot-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.TREZOR_BOT_APP_ID }}
+          private-key: ${{ secrets.TREZOR_BOT_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+          repositories: |
+            trezor-suite
+
       - name: Checkout trezor-suite repo
         uses: actions/checkout@v3
         with:
           repository: ${{ env.SUITE_REPO }}
           ref: ${{ env.SUITE_BRANCH }}
           fetch-depth: 0
-          token: ${{ secrets.TREZOR_BOT_TOKEN }}
+          token: ${{ steps.trezor-bot-token.outputs.token }}
 
       - name: Create a new branch and switch to it
         run: git switch -C ${{ env.PR_BRANCH }}
@@ -37,8 +47,8 @@ jobs:
 
       - name: Stage and commit
         run: |
-          git config user.name "trezor-ci"
-          git config user.email "${{ secrets.TREZOR_BOT_EMAIL }}"
+          git config user.name "${{ steps.trezor-bot-token.outputs.app-slug }}[bot]"
+          git config user.email "<${{ steps.trezor-bot-token.outputs.app-slug }}[bot]@users.noreply.github.com>"
           git add ${{ env.FILEPATH }}
           git commit -m "chore(suite-data): update guide revision"
 
@@ -46,5 +56,7 @@ jobs:
         run: git push --force --set-upstream origin ${{ env.PR_BRANCH }}
 
       - name: Create pull request
+        env:
+          GITHUB_TOKEN: ${{ steps.trezor-bot-token.outputs.token }}
         if: github.ref == 'refs/heads/master'
         run: gh pr create --repo ${{ env.SUITE_REPO }} --base ${{ env.SUITE_BRANCH }} --head ${{ env.PR_BRANCH }} --title "GitBook revision update" --label "guide" --body "Automatically generated PR to update GitBook revision, i.e. to sync the latest [trezor-suite-guide](https://github.com/${{ github.repository }}) content to Suite. Before merging, check its [commit history](https://github.com/${{ github.repository }}/commits/master). Once the pipeline finishes, you can check the result [here](https://dev.suite.sldev.cz/suite-web/${{ env.PR_BRANCH }}/web/)."
