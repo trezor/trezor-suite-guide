@@ -9,4 +9,4 @@ Customization settings are accessed via **Settings (⚙️) > Device,** then scr
 * **Display rotation (Model T, Trezor Safe 5):** change the orientation of the display on your Trezor.
 * **Auto-lock time:** change how long it takes for the device to automatically lock.
 
-> 💡 Learn more about [customizing Trezor Suite](https://trezor.io/learn/a/trezor-suite-app-settings#Customization) on the Trezor knowledge base
+> 💡 Learn more about [customizing Trezor Suite](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/trezor-suite-settings#Customization) on the Trezor knowledge base

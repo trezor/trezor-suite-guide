@@ -14,4 +14,4 @@ By staking ADA, you can earn rewards as a form of passive income for holding Car
 * Using your Trezor device, confirm the on-screen instructions to register your stake key.
 * Review the details of the proposed delegation and use your device to confirm the transaction.
 
-> 💡 Learn more about [Cardano (ADA)](https://trezor.io/learn/a/cardano-ada-on-trezor-model-t) on the Trezor knowledge base
+> 💡 Learn more about [Cardano (ADA)](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-cardano-ada-in-trezor-suite) on the Trezor knowledge base

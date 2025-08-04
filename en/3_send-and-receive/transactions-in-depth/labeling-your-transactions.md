@@ -18,4 +18,4 @@ When labeling is turned off, accounts will be named according to Trezor Suite de
 
 You can save these labels with a Dropbox or Google Drive account, or you can store the information locally on your computer. If you store it locally, you will not be able to access your labels while using Trezor Suite on another device.
 
-> 💡 Learn more about [labeling](https://trezor.io/learn/a/labels-in-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [labeling](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/labels-in-trezor-suite) on the Trezor knowledge base

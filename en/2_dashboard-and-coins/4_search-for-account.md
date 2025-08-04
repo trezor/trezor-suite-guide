@@ -10,4 +10,4 @@ The simple example above shows the result of searching for "New" for a user who 
 
 Search results are automatically filtered and displayed directly in the side menu.
 
-> 💡 Learn more about [managing accounts in Suite](https://trezor.io/learn/a/manage-accounts-in-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [managing accounts in Suite](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/multiple-accounts-in-trezor-suite) on the Trezor knowledge base

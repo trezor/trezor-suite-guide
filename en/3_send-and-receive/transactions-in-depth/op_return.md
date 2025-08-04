@@ -12,4 +12,4 @@ Messages stored on the blockchain can not be censored, and will be viewable as l
 4. Click **Review & send.** Confirm all details on your Trezor and finish the transaction.
 5. Once confirmed, the hexadecimal data can be retrieved and decoded from the bitcoin blockchain.
 
-> 💡 Learn more about [OP\_RETURN](https://trezor.io/learn/a/use-op_return-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [OP\_RETURN](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/use-op-return-in-trezor-suite) on the Trezor knowledge base

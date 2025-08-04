@@ -1,15 +1,14 @@
 # Activate new coins
 
-On the Trezor Suite **Dashboard**, click the **'+Enable more coins'** button in the **Assets** overview section (just below the Portfolio graph). You will then be taken directly to the **Coins** settings menu:
+On the Trezor Suite **Dashboard**, click the **'+Activate more assets'** button in the **Assets** overview section (just below the Portfolio graph). You will then be taken directly to the **Coins** settings menu:
 
-* Enable (or disable) a cryptocurrency by clicking on it.
-* A green check mark indicates that particular cryptocurrency is now enabled in Suite.
+* Enable (or disable) an asset by clicking on it.
+* A green check mark (✅) indicates that particular asset is enabled in Suite.
 
-Cryptocurrencies can also be enabled from the **My accounts** menu:
+Cryptocurrencies can also be enabled via the side-bar menu in Suite:
 
-* When on the **Accounts** page, click the plus icon (➕) in the **My accounts** sidebar.
-* In the **New account** window, select **Activate more coins.**
-* Then select the additional cryptocurrencies you want to enable in Suite, and click the **'Find my accounts'** button.
+* Click the plus icon (➕) in the **Accounts** sideba&#x72;**.**
+* Then select the cryptocurrencies you want to enable in Suite, and click the **'Find my accounts'** button.
 * For example, if you want to add Ripple (XRP): first click on ‘**XRP’** and then the '**Find my XRP accounts'** button.
 
 #### **ERC20 tokens**
@@ -18,4 +17,4 @@ Ethereum network ERC20 tokens can be managed using Trezor Suite by adding custom
 
 The Coins settings menu can also be accessed by clicking on **Settings (⚙️)** in the top-right corner of Suite, and then selecting **Coins**.
 
-> 💡 Learn more about [supported cryptocurrencies](https://trezor.io/learn/a/supported-coins) on the Trezor knowledge base
+> 💡 Learn more about [supported cryptocurrencies](https://trezor.io/learn/supported-assets/supported-coins) on the Trezor knowledge base

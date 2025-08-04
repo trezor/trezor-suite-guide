@@ -2,7 +2,7 @@
 
 Trezor hardware wallets support thousands of coins and tokens, both natively in Trezor Suite and through third party tools. A full list of coins and compatible wallets is available on our [Supported Coins & Tokens](https://trezor.io/coins) page.
 
-Cryptocurrencies that are not natively supported in Suite can be managed using a third-party wallet interface such as [Electrum](https://trezor.io/learn/a/electrum-and-trezor) or [MetaMask](https://trezor.io/learn/a/metamask-and-trezor).
+Cryptocurrencies that are not natively supported in Suite can be managed using a third-party wallet interface such as [Electrum](https://trezor.io/guides/third-party-wallet-apps/bitcoin-apps/electrum-and-trezor) or [MetaMask](https://trezor.io/guides/third-party-wallet-apps/ethereum-evm-apps/metamask-and-trezor).
 
 Using a third-party wallet with your Trezor provides the same level of protection for your keys as Trezor Suite.
 
@@ -20,5 +20,5 @@ The **Coins** settings tab can also be accessed via the main side-bar menu:
 
 To disable a coin, go to the **Coins** settings menu and click the coin you wish to remove from Suite.
 
-> 💡 Learn more about [supported cryptocurrencies](https://trezor.io/learn/a/supported-coins) on the Trezor knowledge base.
+> 💡 Learn more about [supported cryptocurrencies](https://trezor.io/learn/supported-assets/supported-coins) on the Trezor knowledge base.
 

@@ -20,4 +20,4 @@ A text box will appear where you can type or paste the destination tag given to 
 
 This process is the same for XLM and all other blockchains that use Destination Tags.
 
-> 💡 Learn more about [Destination Tags](https://trezor.io/learn/a/destination-tags) on the Trezor knowledge base
+> 💡 Learn more about [Destination Tags](https://trezor.io/learn/supported-assets/xrp-xlm/destination-tags) on the Trezor knowledge base

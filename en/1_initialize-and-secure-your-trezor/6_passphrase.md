@@ -28,4 +28,4 @@ When you start Trezor Suite and connect your device, you will see the **'Select 
 
 Hidden wallets can be loaded at any time by clicking on the device button in the top-left corner of the Suite interface, selecting **'+ Add wallet',** and then typing in the _exact_ passphrase.
 
-> 💡 Learn more about [passphrases and hidden wallets](https://trezor.io/learn/a/passphrases-and-hidden-wallets) on the Trezor knowledge base.
+> 💡 Learn more about [passphrases and hidden wallets](https://trezor.io/guides/backups-recovery/advanced-wallets/passphrases-and-hidden-wallets) on the Trezor knowledge base.

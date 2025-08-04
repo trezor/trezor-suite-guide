@@ -33,4 +33,4 @@ Your staked SOL will begin earning rewards within three days, and rewards will a
 * Wait for the unstaking period to complete (approximately one 2-3 day epoch).
 * Once the unstaking process is finished, go back to the Staking tab and click **Claim** to withdraw your SOL to your Trezor wallet.
 
-> 💡 Learn more about [Staking SOL](https://trezor.io/learn/a/staking-solana-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [Staking SOL](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-solana-in-trezor-suite) on the Trezor knowledge base

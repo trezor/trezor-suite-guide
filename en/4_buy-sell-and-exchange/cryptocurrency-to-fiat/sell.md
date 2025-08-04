@@ -11,4 +11,4 @@
 9. **Agree** to the terms and conditions.
 10. You will be shown a link to open in your browser to complete the sale.
 
-> 💡 Learn more about [selling crypto in Trezor Suite](https://trezor.io/learn/a/sell-crypto-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [selling crypto in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/trading-crypto-in-trezor-suite/sell-crypto-in-trezor-suite) on the Trezor knowledge base

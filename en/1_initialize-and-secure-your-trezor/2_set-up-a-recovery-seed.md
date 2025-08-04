@@ -22,7 +22,7 @@ To create a backup on a new device:
 2. Your Trezor will generate a list of words that represent all of your public and private keys across all of your coins, for all of your accounts, including your passphrase accounts.
 3. Write down all of the words you see **in order,** making sure they are **spelled correctly.** They must be kept in order to recover your funds if you lose access to your Trezor.
 
-**Do not store these words digitally.** Do not take a picture of them or copy them to another device. To protect your backup, use the wallet backup (recovery seed) card from your Trezor box, or a Trezor Keep Metal purchased from the [Trezor Shop](https://trezor.io/accessories).
+**Do not store these words digitally.** Do not take a picture of them or copy them to another device. To protect your backup, use the wallet backup (recovery seed) card from your Trezor box, or a Trezor Keep Metal purchased from the [Trezor Store](https://trezor.io/store).
 
 #### Checking your wallet backup
 
@@ -53,4 +53,4 @@ Spell out the words using your Trezor screen. You will never need to enter your 
 
 
 
-> 💡 Learn more about [using a wallet backup (recovery seed)](https://trezor.io/learn/a/how-to-use-a-wallet-backup) on the Trezor knowledge base
+> 💡 Learn more about [using a wallet backup (recovery seed)](https://trezor.io/guides/backups-recovery/general-standards/how-to-use-a-wallet-backup) on the Trezor knowledge base

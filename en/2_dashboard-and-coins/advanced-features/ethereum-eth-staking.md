@@ -16,4 +16,4 @@ By staking ETH, you can earn interest as a form of passive income, while also su
 
 That’s it! You’ve started staking your ETH. You will need to wait for the transaction to be confirmed, and then for the funds to be added to the stake pool, which can take a few days. Any time you need to check the status of your staked ETH, just open the Staking tab in Trezor Suite.
 
-> 💡 Learn more about [Staking ETH](https://trezor.io/learn/a/stake-ethereum-eth-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [Staking ETH](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-ethereum-eth-in-trezor-suite) on the Trezor knowledge base

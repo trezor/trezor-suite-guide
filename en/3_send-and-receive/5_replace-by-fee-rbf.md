@@ -14,4 +14,4 @@ Increase the fee allocated to any unconfirmed RBF transaction by clicking **Bump
 
 A dialog will open that lets you assign a new fee, which must be higher than the previous one. Click **Replace transaction** and then confirm the action on your Trezor.
 
-> 💡 Learn more about [replace by fee (RBF)](https://trezor.io/learn/a/rbf-in-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [replace by fee (RBF)](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/replace-by-fee-rbf-bitcoin) on the Trezor knowledge base

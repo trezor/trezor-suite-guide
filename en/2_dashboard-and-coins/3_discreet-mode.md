@@ -8,4 +8,4 @@ To activate discreet mode, click the button shaped like an eye in the top-right 
 
 Discreet mode can be toggled on and off by clicking the button.
 
-> 💡 Learn more about [Discreet mode](https://trezor.io/learn/a/discreet-mode-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [Discreet mode](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/discreet-mode-in-trezor-suite) on the Trezor knowledge base

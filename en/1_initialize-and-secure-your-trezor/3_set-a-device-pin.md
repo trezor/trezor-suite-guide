@@ -61,4 +61,4 @@ To set a new PIN on your Trezor Safe 5:
 
 
 
-> 💡 Learn more about [PIN protection on Trezor devices](https://trezor.io/learn/a/pin-protection-on-trezor-devices) on the Trezor knowledge base
+> 💡 Learn more about [PIN protection on Trezor devices](https://trezor.io/guides/trezor-devices/pin-protection-on-trezor-devices) on the Trezor knowledge base

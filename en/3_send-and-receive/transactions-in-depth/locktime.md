@@ -23,4 +23,4 @@ To set a Locktime while creating a transaction:
 7. Copy the data to your clipboard or save it as a text document. When broadcasting (only after the block height has been reached) click Send instead.
 8. Later, ideally from another network, use Send RAW or visit a block explorer to send the raw transaction data.
 
-> 💡 Learn more about the [locktime feature](https://trezor.io/learn/a/locktime-in-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about the [locktime feature](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/locktime-in-trezor-suite) on the Trezor knowledge base

@@ -33,4 +33,4 @@ Once you've wiped your Trezor, follow the on-screen instructions during device i
 * Once complete, **secure each share** in a safe location isolated from the others.
 * To recover your funds, you will need to collect as many shares as the threshold you set.
 
-> 💡 Learn more about [Multi-share Backup](https://trezor.io/learn/a/multi-share-backup-on-trezor) on the Trezor knowledge base
+> 💡 Learn more about [Multi-share Backup](https://trezor.io/guides/backups-recovery/advanced-wallets/multi-share-backup-on-trezor) on the Trezor knowledge base

@@ -12,4 +12,4 @@ The following settings can be changed:
 
 Preferences can be set by choosing from the options available in the drop-down menus.
 
-> 💡 Learn more about [Localization](https://trezor.io/learn/a/trezor-suite-settings#Localization) on the Trezor knowledge base
+> 💡 Learn more about [Localization](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/trezor-suite-settings#Localization) on the Trezor knowledge base

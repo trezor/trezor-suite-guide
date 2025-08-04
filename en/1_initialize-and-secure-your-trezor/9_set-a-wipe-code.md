@@ -42,4 +42,4 @@ With a wipe code enable, Suite will display the options to **Change wipe code** 
 * Click **Continue** on your Trezor
 * Suite will then display the notification **'Wipe code removed successfully'**
 
-> 💡 Learn more about the [wipe code](https://trezor.io/learn/a/create-wipe-code-to-erase-device) feature on the Trezor knowledge base
+> 💡 Learn more about the [wipe code](https://trezor.io/learn/security-privacy/personal-security-standards/create-wipe-code-to-erase-device) feature on the Trezor knowledge base

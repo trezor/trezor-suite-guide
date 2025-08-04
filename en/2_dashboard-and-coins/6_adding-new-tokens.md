@@ -6,10 +6,9 @@ Other tokens (e.g. ERC721 and ERC1155) can be managed through third-part apps su
 
 #### **Accessing Ethereum accounts in Trezor Suite**
 
-* Go to **Accounts**
-* Click on the plus (➕) symbol in the **My accounts** sidebar menu
+* Click on the plus (➕) symbol in the **Accounts** sidebar menu
 * Select **Ethereum** from the list of cryptocurrencies, then **Find my Ethereum accounts**
-* Your Ethereum account will then be listed in the **My accounts** sidebar menu
+* Your Ethereum account will then be listed in the **Accounts** sidebar menu
 
 #### **Adding ERC20 Tokens in Trezor Suite**
 
@@ -24,8 +23,8 @@ ERC20 are the most common types of tokens on Ethereum. As soon as a smart contra
 
 If your tokens are not listed there you can add them manually:
 
-* Click on the three dots and **'Add token'**&#x20;
+* Click on the three dots and **'Add token'**
 * Then enter the contract address; the contract addresses of all tokens can be found here: [https://etherscan.io/tokens](https://etherscan.io/tokens)
 * Once your first token has been added, you can continue to add mroe through the drop-down menu
 
-> 💡 Learn more about [Etherum & ERC20 tokens](https://trezor.io/learn/a/ethereum-erc20-tokens-on-trezor) on the Trezor knowledge base
+> 💡 Learn more about [Etherum & ERC20 tokens](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/ethereum-erc-20-tokens-on-trezor) on the Trezor knowledge base

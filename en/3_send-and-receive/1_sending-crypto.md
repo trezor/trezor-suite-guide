@@ -14,4 +14,4 @@ Network transaction fees vary depending on how busy the network is. Trezor Suite
 
 Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
 
-> 💡 Learn more about [sending crypto in Trezor Suite](https://trezor.io/learn/a/send-crypto-in-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [sending crypto in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/trading-crypto-in-trezor-suite/send-crypto-in-trezor-suite) on the Trezor knowledge base

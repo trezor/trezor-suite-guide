@@ -16,4 +16,4 @@ To set a custom fee, simply click the Custom button and enter a fee. This is use
 
 If your bitcoin or litecoin transaction is taking too long to confirm you can bump the fee higher to make miners prioritize it. This is only possible if you did not turn off **replace-by-fee** (RBF) when the transaction was sent.
 
-> 💡 Learn more about [transaction fees](https://trezor.io/learn/a/transaction-fees-in-trezor-suite-app) on the Trezor knowledge base
+> 💡 Learn more about [transaction fees](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/transaction-fees-in-trezor-suite) on the Trezor knowledge base

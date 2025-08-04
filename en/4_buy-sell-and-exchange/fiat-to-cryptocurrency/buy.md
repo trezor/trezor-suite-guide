@@ -14,4 +14,4 @@ Follow these steps to buy cryptocurrency through [Invity.io](https://invity.io/)
 10. Continue to the partner site to complete the transaction.
 11. Once finished, the cryptocurrency will be sent directly to the address on your device within the estimated time frame specified.
 
-> 💡 Learn more about [buying crypto in Trezor Suite](https://trezor.io/learn/a/buy-crypto-in-trezor-suite) on the Trezor knowledge base
+> 💡 Learn more about [buying crypto in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/trading-crypto-in-trezor-suite/buy-crypto-in-trezor-suite) on the Trezor knowledge base
