@@ -10,7 +10,7 @@ Address ownership verification may also be requested if you lose access to an ex
 * Then select the appropriate account using the **My accounts** sidebar menu.
 * Click the ellipsis drop-down menu to reveal the **Sign & Verify** tab:
 
-<figure><img src="../../.gitbook/assets/SignVerify_highlight.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sign_Verify-HL.webp" alt=""><figcaption></figcaption></figure>
 
 * You will then see the **Sign/Verify message** window.
 * Type the message into the **Message** box and select the correct address from the drop-down **Address** menu.

@@ -4,7 +4,7 @@ Trezor Suite displays information about individual transactions for each of your
 
 This information can be found in the **Transactions** section of the account overview, directly underneath the graph view:
 
-<figure><img src="../../.gitbook/assets/Overview_Tx_crop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Overview_Tx_crop.webp" alt=""><figcaption></figcaption></figure>
 
 You can export the list of transactions to CSV, PDF or JSON via the drop-down menu.
 

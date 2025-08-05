@@ -14,7 +14,7 @@ Exchanges usually display the required destination tag next to the deposit addre
 
 When sending e.g. an XRP transaction, the destination tag can be included by toggling on the **Add Memo/Destination tag** option:&#x20;
 
-<figure><img src="../../../.gitbook/assets/Destination_Tags2-HL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Destination_Tags2-HL.webp" alt=""><figcaption></figcaption></figure>
 
 A text box will appear where you can type or paste the destination tag given to you by the exchange or recipient.
 

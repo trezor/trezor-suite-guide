@@ -10,11 +10,11 @@ To set a Locktime while creating a transaction:
 
 1. Click **Add Locktime:**
 
-<figure><img src="../../../.gitbook/assets/Send_Add-Locktime-HL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Send_Add-Locktime-HL.webp" alt=""><figcaption></figcaption></figure>
 
 2. Use the drop-down menu to set the Locktime format to either **Block** or **Date (UTC):**&#x20;
 
-<figure><img src="../../../.gitbook/assets/Add-Locktime-Menu-HL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Add-Locktime-Menu-HL.webp" alt=""><figcaption></figcaption></figure>
 
 3. Enter a block height or date when it should broadcast.
 4. Set a fee.

@@ -6,7 +6,7 @@ The Tor switch is a privacy feature available in the **Trezor Suite desktop app*
 
 To activate Tor, **click on the Tor icon** on the right-hand side of the top toolbar:
 
-<figure><img src="../../../.gitbook/assets/Tor_in-Suite_Highlight.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Tor_in-Suite_Highlight.webp" alt=""><figcaption></figcaption></figure>
 
 Then wait a few seconds for a connection to be established.
 

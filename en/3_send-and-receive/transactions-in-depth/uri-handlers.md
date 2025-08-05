@@ -10,11 +10,11 @@ Clicking on a URI will auto-complete the **‘Send’** transaction fields using
 
 Trezor Suite will then ask you to navigate to a suitable account from which you can send the requested funds:
 
-<figure><img src="../../../.gitbook/assets/Go_to_account.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Go_to_account.webp" alt=""><figcaption></figcaption></figure>
 
 Once you’ve selected the desired account, go to the **Send** tab, and the pop-up in Trezor Suite will then give you the option to **Autofill send form:**
 
-<figure><img src="../../../.gitbook/assets/Autofill_form_button.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Autofill_form_button.webp" alt=""><figcaption></figcaption></figure>
 
 After clicking on the autofill button the input fields for the **Send** transaction will be populated accordingly, and you can then proceed by clicking **Review & Send.**
 

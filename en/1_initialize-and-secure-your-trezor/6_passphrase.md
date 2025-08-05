@@ -20,7 +20,7 @@ A passphrase functions like an extra word added to your wallet backup (recovery 
 
 When you start Trezor Suite and connect your device, you will see the **'Select wallet type'** modal window:
 
-<figure><img src="../../.gitbook/assets/Select_wallet_type-modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Select_wallet_type-modal.webp" alt=""><figcaption></figcaption></figure>
 
 * Type your memorable passphrase into the _'Enter passphrase'_ input field.
 * Confirm the passphrase using your Trezor device.
