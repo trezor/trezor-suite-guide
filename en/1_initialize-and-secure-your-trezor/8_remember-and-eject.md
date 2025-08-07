@@ -10,4 +10,4 @@ Access View-only and Eject in Trezor Suite by clicking on the top-left button sh
 
 If you are using a shared or public computer, wallet balances could be viewed by others who have access to the computer. Always eject any wallets to prevent revealing this information.
 
-> 💡 Learn more about [Remember & Eject](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/getting-to-know-trezor-suite#view-only-and-eject) on the Trezor knowledge base
+> 💡 Learn more about [View-only & Eject](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/getting-to-know-trezor-suite#view-only-and-eject) on the Trezor knowledge base
