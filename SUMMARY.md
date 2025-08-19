@@ -63,3 +63,9 @@
     * [Security](en/6_suite-settings/device/3_security.md)
     * [Customization](en/6_suite-settings/device/4_customization.md)
     * [Danger Area](en/6_suite-settings/device/5_danger-area.md)
+
+## cz
+
+* [Nastavení](cz/nastaveni/README.md)
+  * [Aplikace](cz/nastaveni/aplikace/README.md)
+    * [Tor](cz/nastaveni/aplikace/tor.md)
