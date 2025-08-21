@@ -31,6 +31,20 @@ jobs:
           repositories: |
             trezor-suite
 
+      - name: Check if PR already exists
+        id: pr_exists
+        env:
+          GITHUB_TOKEN: ${{ steps.trezor-bot-token.outputs.token }}
+        run: |
+          PR_NUMBER=$(gh pr list --repo ${{ env.SUITE_REPO }} --head ${{ env.PR_BRANCH }} --state open --json number --jq '.[0].number')
+          echo "pr_number=$PR_NUMBER" >> $GITHUB_OUTPUT
+
+      - name: Close existing PR if found
+        if: steps.pr_exists.outputs.pr_number != ''
+        env:
+          GITHUB_TOKEN: ${{ steps.trezor-bot-token.outputs.token }}
+        run: gh pr close ${{ steps.pr_exists.outputs.pr_number }} --repo ${{ env.SUITE_REPO }} --comment "Closing PR as newer revision exists." --delete-branch
+
       - name: Checkout trezor-suite repo
         uses: actions/checkout@v3
         with:
@@ -40,7 +54,7 @@ jobs:
           token: ${{ steps.trezor-bot-token.outputs.token }}
 
       - name: Create a new branch and switch to it
-        run: git switch -C ${{ env.PR_BRANCH }}
+        run: git switch -c ${{ env.PR_BRANCH }}
 
       - name: Update GitBook revision
         run: sed -i "s/^export const GITBOOK_REVISION = .*/export const GITBOOK_REVISION = '${{ github.sha }}';/" ${{ env.FILEPATH }}
@@ -52,8 +66,8 @@ jobs:
           git add ${{ env.FILEPATH }}
           git commit -m "chore(suite-data): update guide revision"
 
-      - name: Force push
-        run: git push --force --set-upstream origin ${{ env.PR_BRANCH }}
+      - name: Push branch
+        run: git push --set-upstream origin ${{ env.PR_BRANCH }}
 
       - name: Create pull request
         env:
