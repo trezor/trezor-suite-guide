@@ -115,7 +115,7 @@
   * [Aplikace](cs-cz/6_suite-settings/application/README.md)
     * [Localization](cs-cz/6_suite-settings/application/1_localization.md)
     * [Labeling](cs-cz/6_suite-settings/application/2_labeling.md)
-    * [Tor](cs-cz/6_suite-settings/application/tor.md)
+    * [Tor](cs-cz/6_suite-settings/application/3_tor.md)
     * [Application](cs-cz/6_suite-settings/application/4_application.md)
     * [Experimental features](cs-cz/6_suite-settings/application/5_experimental-features.md)
     * [Express BTC values in sats](cs-cz/6_suite-settings/application/6_express-btc-values-in-sats.md)
