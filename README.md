@@ -6,7 +6,7 @@ Contents of this Gitbook are packaged into Suite by a custom script that is base
 
 ### Groups are for locales
 
-We support localization of the content by having a group for each locale. The groups should be named by corresponding [ISO 639-1 2-letter code.](https://www.wikiwand.com/en/List\_of\_ISO\_639-1\_codes)
+We support localization of the content by having a group for each locale. The groups should be named by their [locale](https://simplelocalize.io/data/locales/).
 
 Localised variants of a single page are paired by the **slugs** which can be set in the "three dot" menu of each page. For nested pages the slugs must match on all levels.\
 \
