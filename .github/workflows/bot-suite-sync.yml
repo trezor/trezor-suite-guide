@@ -55,8 +55,16 @@ jobs:
       - name: Force push
         run: git push --force --set-upstream origin ${{ env.PR_BRANCH }}
 
+      - name: Check if PR already exists
+        id: pr_exists
+        env:
+          GITHUB_TOKEN: ${{ steps.trezor-bot-token.outputs.token }}
+        run: |
+          PR_COUNT=$(gh pr list --repo ${{ env.SUITE_REPO }} --head ${{ env.PR_BRANCH }} --state open --json number | jq 'length')
+          echo "pr_count=$PR_COUNT" >> $GITHUB_OUTPUT
+
       - name: Create pull request
         env:
           GITHUB_TOKEN: ${{ steps.trezor-bot-token.outputs.token }}
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/master' && steps.pr_exists.outputs.pr_count == '0'
         run: gh pr create --repo ${{ env.SUITE_REPO }} --base ${{ env.SUITE_BRANCH }} --head ${{ env.PR_BRANCH }} --title "GitBook revision update" --label "guide" --body "Automatically generated PR to update GitBook revision, i.e. to sync the latest [trezor-suite-guide](https://github.com/${{ github.repository }}) content to Suite. Before merging, check its [commit history](https://github.com/${{ github.repository }}/commits/master). Once the pipeline finishes, you can check the result [here](https://dev.suite.sldev.cz/suite-web/${{ env.PR_BRANCH }}/web/)."
