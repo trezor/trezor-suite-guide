@@ -10,7 +10,7 @@ Sending a transaction is a straightforward process, but please make sure all tra
 
 #### **Fees**
 
-Network transaction fees vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. These are Low, Economy, Normal, and High.
+Network transaction fees vary depending on how busy the network is. Trezor Suite estimates fees based on the priority of the transaction. **Standard** fees offered are classed as Low, Normal, and High. You can set a custom fee using the **Advanced** tab in the Fee section.
 
 Fees are only used to pay miners for adding transactions to the blockchain. They are not paid to Trezor or SatoshiLabs.
 

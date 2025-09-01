@@ -6,7 +6,7 @@ Trezor devices support multiple blockchains that use Destination Tags. However, 
 
 #### Receiving funds
 
-You don’t require a destination tag to receive funds in Trezor Suite. However, some exchanges require one when withdrawing to your wallet. If prompted, you can enter any number (e.g., 12345), as Trezor Suite does not use destination tags for receiving funds.
+You don’t require a destination tag / memo to receive funds in Trezor Suite. However, some exchanges require one when withdrawing to your wallet. If prompted, you can enter any number (e.g., 12345), as Trezor Suite does not use destination tags for receiving funds.
 
 #### Sending funds
 
