@@ -1,2 +1,0 @@
-# Fiat to cryptocurrency
-
