@@ -26,7 +26,7 @@ To set a new PIN on your Trezor Model One:
 
 * Confirm the action on your Trezor.
 * Enter the old PIN using the numbers shown on your Trezor and the grid shown on the computer.
-* Enter the new PIN in the same way.
+* Enter the new PIN.
 * Confirm the new PIN.
 
 #### **Trezor Model T**
@@ -36,7 +36,7 @@ To set a new PIN on your Trezor Model T:
 * Click **Change PIN** in the **Device Settings** menu.
 * Confirm the action on your Trezor.
 * Enter the old PIN using the Trezor touchscreen.
-* Enter the new PIN in the same way.
+* Enter the new PIN.
 * Confirm the new PIN.
 
 #### **Trezor Safe 3**
@@ -46,7 +46,7 @@ To set a new PIN on your Trezor Safe 3:
 * Click **Change PIN** in the **Device Settings** menu.
 * Confirm the action on your Trezor.
 * Enter the old PIN using the buttons on your Trezor.
-* Enter the new PIN in the same way.
+* Enter the new PIN.
 * Confirm the new PIN.
 
 #### **Trezor Safe 5**
@@ -55,8 +55,18 @@ To set a new PIN on your Trezor Safe 5:
 
 * Click **Change PIN** in the **Device Settings** menu.
 * Confirm the action on your Trezor.
-* Enter the old PIN using the buttons on your Trezor.
-* Enter the new PIN in the same way.
+* Enter the old PIN using the Trezor touchscreen.
+* Enter the new PIN.
+* Confirm the new PIN.
+
+#### **Trezor Safe 7**
+
+To set a new PIN on your Trezor Safe 7:
+
+* Click **Change PIN** in the **Device Settings** menu.
+* Confirm the action on your Trezor.
+* Enter the old PIN using the Trezor touchscreen.
+* Enter the new PIN.
 * Confirm the new PIN.
 
 

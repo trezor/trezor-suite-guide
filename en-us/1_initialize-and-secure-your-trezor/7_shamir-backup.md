@@ -1,6 +1,6 @@
 # Multi-share Backup
 
-Trezor Model T, Safe 3 and Safe 5 users can use **Multi-share Backup** to protect their wallet backup (recovery seed) from loss or damage.
+Trezor Model T, Safe 3, Safe 5, and Safe 7 users can use **Multi-share Backup** to protect their wallet backup (recovery seed) from loss or damage.
 
 The Multi-share scheme entails generating multiple wordlists (**shares**) that must be combined to recover a wallet. Users set a recovery **threshold**, which represents the minimum number of shares required to recover a wallet: for example, in a **3-of-5** Multi-share Backup scheme, the user must combine **any three shares** in order to recover their wallet and funds. Any 'extra' shares serve as a backup in case the others are lost, stolen or damaged.
 
