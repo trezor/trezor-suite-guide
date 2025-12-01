@@ -1,6 +1,6 @@
 # Coin control
 
-Coin control lets you make a manual coin (or more specifically 'UTXO') selection for an outgoing transaction, rather than having Trezor Suite automate the selection for you. Manually selecting the funds you wish to spend in a transaction enhances privacy as you can avoid any unwanted behavior, e.g. mixing coins that you want to keep separate.
+Coin control lets you make a manual UTXO selection for an outgoing transaction. This helps enhance privacy, as you can avoid any unwanted behavior, e.g. mixing coins that you want to keep separate.
 
 Coin control can be turned off at any time, and Trezor Suite will revert to automatic coin selection.
 

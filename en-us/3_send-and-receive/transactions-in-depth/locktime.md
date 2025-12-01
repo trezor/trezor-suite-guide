@@ -10,12 +10,9 @@ To set a locktime while creating a transaction:
 
 1. On the **Send** form, click the ellipsis (...) to reveal the drop-down menu, where you will find the **Add Locktime** option:
 
-<figure><img src="../../../.gitbook/assets/Locktime-1-HL.webp" alt=""><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../../.gitbook/assets/Locktime_dark-HL.png" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/Locktime_light-HL.png" alt=""></picture><figcaption></figcaption></figure>
 
-2. This reveals the **Add Locktime** field:
-
-<figure><img src="../../../.gitbook/assets/Locktime-2.webp" alt=""><figcaption></figcaption></figure>
-
+2. This reveals the **Add Locktime** field.
 3. Use the drop-down menu to switch between **Date (UTC)** or **Block** format; enter a date or block height when it should broadcast.
 4. Set a fee.
 5. Confirm transaction details on your Trezor.

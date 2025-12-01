@@ -4,14 +4,14 @@ Sending a raw transaction simply means broadcasting a transaction that has alrea
 
 #### Creating and broadcasting raw transactions
 
-To create raw transaction data:
+To **create** raw transaction data:
 
 1. Create a new transaction with **Broadcast** set to **off.**
 2. Click on **Sign.**
 3. Review all details on your Trezor and **confirm** that they are correct.
 4. **Copy** the signed transaction data or save it as a text document. Close the window.
 
-To **send raw transaction data:**
+To **send** raw transaction data:
 
 > 💡 It is best to use a different host machine to send a signed raw transaction.
 
