@@ -17,7 +17,7 @@
 * [Dashboard & coins](en-us/2_dashboard-and-coins/README.md)
   * [Activate new coins](en-us/2_dashboard-and-coins/1_activate-new-coins.md)
   * [Add a new account](en-us/2_dashboard-and-coins/2_add-a-new-account.md)
-  * [Discreet mode](en-us/2_dashboard-and-coins/3_discreet-mode.md)
+  * [Hide balances](en-us/2_dashboard-and-coins/3_discreet-mode.md)
   * [Search for account](en-us/2_dashboard-and-coins/4_search-for-account.md)
   * [Show public key](en-us/2_dashboard-and-coins/5_show-public-key.md)
   * [Adding new tokens](en-us/2_dashboard-and-coins/6_adding-new-tokens.md)

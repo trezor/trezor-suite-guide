@@ -17,13 +17,7 @@ The format of the example Electrum server address shown is:
 * _“electrum.example.com:50001:t”_
 * i.e., “Host:Port:Protocol”
 
-In this field you should enter the Electrum server address running on your personal Bitcoin full node, then click on the **Confirm** button.
-
-In Suite you will now see the **Backends** icon in the top-right corner of the window, right next to the Discreet Mode icon:
-
-<figure><img src="../../../.gitbook/assets/Custom_Servers_Suite_Highlight.webp" alt=""><figcaption></figcaption></figure>
-
-Custom backend settings can be accessed through Bitcoin advanced settings, or by clicking on the Backends icon and selecting **Manage.**
+In this field you should enter the Electrum server address running on your personal Bitcoin full node, then click **Confirm** .
 
 #### Compatibility with Tor
 
