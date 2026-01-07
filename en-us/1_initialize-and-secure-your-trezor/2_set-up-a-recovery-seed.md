@@ -57,4 +57,4 @@ Spell out the words using your Trezor screen. You will never need to enter your 
 
 
 
-> 💡 Learn more about [using a wallet backup (recovery seed)](https://trezor.io/guides/backups-recovery/general-standards/how-to-use-a-wallet-backup) on the Trezor knowledge base
+> 💡 Learn more about [How to use a wallet backup](https://trezor.io/guides/backups-recovery/general-standards/how-to-use-a-wallet-backup) on the Trezor knowledge base
