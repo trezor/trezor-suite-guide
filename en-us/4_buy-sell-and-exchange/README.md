@@ -1,3 +1,5 @@
 # Buy, Sell & Swap
 
-<figure><img src="../../.gitbook/assets/buy_sell_swap.png" alt="" width="64"><figcaption></figcaption></figure>
+<!-- icon: currencyBtc -->
+
+<figure><img src="../../.gitbook/assets/Buy_sell_exchange.svg" alt=""><figcaption></figcaption></figure>
