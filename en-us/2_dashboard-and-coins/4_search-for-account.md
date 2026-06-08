@@ -4,7 +4,7 @@ With labeling enabled, you can rename accounts in Trezor Suite to something more
 
 If you need to search for a specific account, just type the name in the 'Search' input field at the top of the **Accounts** side menu in Suite:
 
-<figure><img src="../../.gitbook/assets/Search_Accounts-HL.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Search_Accounts-HL (1).webp" alt=""><figcaption></figcaption></figure>
 
 Search results are automatically filtered and displayed directly in the menu.
 
