@@ -1,3 +1,4 @@
-# Suite Settings
+# Suite settings
 
-<figure><img src="../../.gitbook/assets/Suite_settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/suite_settings.svg" alt=""><figcaption></figcaption></figure>
+

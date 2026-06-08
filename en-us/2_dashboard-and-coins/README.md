@@ -1,3 +1,4 @@
-# Dashboard & Coins
+# Dashboard & coins
 
-<figure><img src="../../.gitbook/assets/Dashboard_and_coins.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dashboard_coins.svg" alt=""><figcaption></figcaption></figure>
+

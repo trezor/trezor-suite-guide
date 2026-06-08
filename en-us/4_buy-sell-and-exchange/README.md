@@ -1,3 +1,3 @@
-# Buy, sell & exchange
+# Buy, Sell & Swap
 
-<figure><img src="../../.gitbook/assets/Buy_sell_exchange.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/buy_sell_swap.svg" alt=""><figcaption></figcaption></figure>
