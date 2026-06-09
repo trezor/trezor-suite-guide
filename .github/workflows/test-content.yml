@@ -1,0 +1,119 @@
+name: "[Test] content"
+
+on:
+  schedule:
+    # Runs daily at 02:00 UTC (03:00 CET / 04:00 CEST)
+    - cron: "0 2 * * *"
+  push:
+    branches:
+      - master
+      - develop
+  pull_request:
+    paths:
+      - "en-us/**"
+      - ".gitbook/**"
+      - "SUMMARY.md"
+      - "README.md"
+      - ".github/workflows/test-content.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  external-links:
+    name: External links
+    runs-on: ubuntu-latest
+    if: github.repository == 'trezor/trezor-suite-guide'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check links with lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-concurrency 8
+            --accept 200,203,204,206,301,302,303,307,308,403,429
+            --exclude-path .git
+            './**/*.md'
+          fail: true
+
+  assets-exist:
+    name: Image/asset paths exist
+    runs-on: ubuntu-latest
+    if: github.repository == 'trezor/trezor-suite-guide'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify referenced assets exist
+        run: |
+          set -euo pipefail
+          errors=$(mktemp)
+          while IFS= read -r mdfile; do
+            dir=$(dirname "$mdfile")
+            { grep -oE '(src|href)="[^"]+"' "$mdfile" || true; } \
+              | sed -E 's/^(src|href)="//; s/"$//' \
+              | while IFS= read -r ref; do
+                  case "$ref" in
+                    http://*|https://*|mailto:*|data:*|\#*) continue ;;
+                  esac
+                  if ! (cd "$dir" && [ -e "$ref" ]); then
+                    echo "$mdfile -> $ref" >> "$errors"
+                  fi
+                done
+          done < <(find en-us README.md -name '*.md' -type f 2>/dev/null)
+
+          if [ -s "$errors" ]; then
+            echo "::error::Missing referenced assets:"
+            sed 's/^/  /' "$errors"
+            exit 1
+          fi
+          echo "All referenced assets exist."
+
+  summary-consistency:
+    name: SUMMARY.md consistency
+    runs-on: ubuntu-latest
+    if: github.repository == 'trezor/trezor-suite-guide'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check SUMMARY.md entries point to existing files
+        run: |
+          set -euo pipefail
+          missing=$(mktemp)
+          grep -oE '\]\([^)]+\.md\)' SUMMARY.md \
+            | sed -E 's/^\]\(//; s/\)$//' \
+            | while IFS= read -r path; do
+                if [ ! -f "$path" ]; then
+                  echo "$path" >> "$missing"
+                fi
+              done
+
+          if [ -s "$missing" ]; then
+            echo "::error file=SUMMARY.md::SUMMARY.md references files that do not exist:"
+            sed 's/^/  /' "$missing"
+            exit 1
+          fi
+          echo "All SUMMARY.md entries point to existing files."
+
+      - name: Warn about orphan markdown files not listed in SUMMARY.md
+        run: |
+          set -euo pipefail
+          orphans=$(mktemp)
+          while IFS= read -r f; do
+            if ! grep -qF "($f)" SUMMARY.md; then
+              echo "$f" >> "$orphans"
+            fi
+          done < <(find en-us -name '*.md' -type f)
+
+          if [ -s "$orphans" ]; then
+            echo "::warning::Markdown files not referenced in SUMMARY.md:"
+            sed 's/^/  /' "$orphans"
+          else
+            echo "No orphan markdown files."
+          fi
