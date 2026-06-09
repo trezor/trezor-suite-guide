@@ -74,6 +74,40 @@ jobs:
           fi
           echo "All referenced assets exist."
 
+      - name: Verify asset paths and filenames have no spaces
+        run: |
+          set -euo pipefail
+          errors=$(mktemp)
+
+          while IFS= read -r mdfile; do
+            { grep -oE '(src|href)="[^"]+"' "$mdfile" || true; } \
+              | sed -E 's/^(src|href)="//; s/"$//' \
+              | while IFS= read -r ref; do
+                  case "$ref" in
+                    http://*|https://*|mailto:*|data:*|\#*) continue ;;
+                    *" "*)
+                      echo "referenced path: $mdfile -> $ref" >> "$errors"
+                      ;;
+                  esac
+                done
+          done < <(find en-us README.md -name '*.md' -type f 2>/dev/null)
+
+          while IFS= read -r asset; do
+            basename=$(basename "$asset")
+            case "$basename" in
+              *" "*)
+                echo "asset filename: $asset" >> "$errors"
+                ;;
+            esac
+          done < <(find .gitbook/assets -type f 2>/dev/null)
+
+          if [ -s "$errors" ]; then
+            echo "::error::Asset paths and filenames must not contain spaces (breaks Markdown rendering in Suite):"
+            sed 's/^/  /' "$errors"
+            exit 1
+          fi
+          echo "All asset paths and filenames are space-free."
+
   summary-consistency:
     name: SUMMARY.md consistency
     runs-on: ubuntu-latest
