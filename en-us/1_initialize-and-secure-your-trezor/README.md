@@ -1,4 +1,5 @@
 # Initialize & secure your Trezor
 
-<figure><img src="../../.gitbook/assets/initialize_secure.png" alt="" width="64"><figcaption></figcaption></figure>
+<!-- icon: checkCircle -->
 
+<figure><img src="../../.gitbook/assets/Initialize_and_secure.svg" alt=""><figcaption></figcaption></figure>

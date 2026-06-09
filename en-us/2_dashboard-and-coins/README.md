@@ -1,4 +1,5 @@
 # Dashboard & coins
 
-<figure><img src="../../.gitbook/assets/dashboard_coins.png" alt="" width="64"><figcaption></figcaption></figure>
+<!-- icon: coins -->
 
+<figure><img src="../../.gitbook/assets/Dashboard_and_coins.svg" alt=""><figcaption></figcaption></figure>
