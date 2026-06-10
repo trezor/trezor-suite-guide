@@ -30,16 +30,16 @@ As of now only these elements are supported:
 
 ### Images
 
-* To add an image to root categories, just add corresponding images to their content without any caption or additional text.
-* To add images to articles, just add corresponding images to content without any caption. Please be aware that guide content width is only 305px.
-* Make sure not to have duplicate images or files. Github renames duplicates to contain parentheses and that breaks images in all articles.
-* Do not use parentheses, spaces or special characters in image files names.
+- To add an image to root categories, just add corresponding images to their content without any caption or additional text.
+- To add images to articles, just add corresponding images to content without any caption. Please be aware that guide content width is only 305px.
+- Make sure not to have duplicate images or files. Github renames duplicates to contain parentheses and that breaks images in all articles.
+- Do not use parentheses, spaces or special characters in image files names.
 
 Please delete unused images. Otherwise, they are unnecessarily bundled with the application.
 
 ### Hints and Warnings
 
-Suite will render Quote blocks as a custom Hint/Warning component.  Use 💡 or ⚠️ emojis at the start of the Quote to render the corresponding variant in Suite.
+Suite will render Quote blocks as a custom Hint/Warning component. Use 💡 (green), ℹ️ (blue), 📝 (gray), 🚨 (red) or ⚠️ (yellow) emojis at the start of the Quote to render the corresponding variant in Suite.
 
 ## How to publish
 

@@ -1,6 +1,6 @@
 # Send raw
 
-Sending a raw transaction simply means broadcasting a transaction that has already been created and signed. This can be used with any transaction data that has been generated and signed but not broadcast, including Locktime and OP\_Return transactions.
+Sending a raw transaction simply means broadcasting a transaction that has already been created and signed. This can be used with any transaction data that has been generated and signed but not broadcast, including Locktime and OP_Return transactions.
 
 #### Creating and broadcasting raw transactions
 
@@ -13,7 +13,7 @@ To **create** raw transaction data:
 
 To **send** raw transaction data:
 
-> 💡 It is best to use a different host machine to send a signed raw transaction.
+> ℹ️ It is best to use a different host machine to send a signed raw transaction.
 
 1. Select **Send Raw** from the ellipsis drop-down menu.
 2. **Paste** the raw transaction data into the text box.
