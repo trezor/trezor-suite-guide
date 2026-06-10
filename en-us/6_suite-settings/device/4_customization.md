@@ -8,4 +8,4 @@ Customization settings are accessed via **Settings (⚙️) > Device,** then scr
 * **Haptic feedback:** Turn on/off the haptic feedback feature.
 * **Auto-lock time:** change how long it takes for the device to automatically lock.
 
-> 💡 Learn more about [customizing Trezor Suite](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/trezor-suite-settings#Customization) on the Trezor knowledge base
+> 💡 Learn more about [customizing Trezor Suite](https://trezor.io/guides/trezor-suite/trezor-suite-settings#Customization) on the Trexzor knowledge base

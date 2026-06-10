@@ -13,4 +13,4 @@
 
 **Check backup:** click on **'Check backup'** to perform a simulated wallet recovery process, which allows you to check the validity of your recovery seed.
 
-> 💡 Learn more about [wallet backup settings](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/trezor-suite-settings#wallet-backup) on the Trezor knowledge base
+> 💡 Learn more about [wallet backup settings](https://trezor.io/guides/trezor-suite/trezor-suite-settings#wallet-backup) on the Trezor knowledge base

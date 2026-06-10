@@ -12,4 +12,4 @@ The following options are available:
 * **App storage:** select 'Reset app' to restore Trezor Suite to its default settings - this can help with troublehsooting minor technical issues.
 * **Suite version:** here you can check which version of Suite you're using, and check for any new updates. You can also click on the version number to view the release notes on Github.
 
-> 💡 Learn more about [Application settings](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/trezor-suite-settings#Application) on the Trezor knowledge base
+> 💡 Learn more about [Application settings](https://trezor.io/guides/trezor-suite/trezor-suite-settings#Application) on the Trezor knowledge base

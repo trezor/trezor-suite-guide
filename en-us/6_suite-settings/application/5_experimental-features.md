@@ -27,4 +27,4 @@ Here you can choose to join (or leave) the Early Access Program (desktop app onl
 * In the confirmation window, you can immediately revert to the latest stable version of Trezor Suite by clicking on **‘Download stable’**. This will direct you to the Trezor Suite download page.
 * Finally, download and install Trezor Suite in the usual manner.
 
-> 💡 Learn more about [experimental features](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/trezor-suite-settings#Experimental_features) on the Trezor knowledge base
+> 💡 Learn more about [experimental features](https://trezor.io/guides/trezor-suite/trezor-suite-settings#Experimental_features) on the Trezor knowledge base

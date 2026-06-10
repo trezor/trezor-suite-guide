@@ -11,4 +11,4 @@ Preferences can also be changed via the **Application settings** menu:
 
 <figure><img src="../../../.gitbook/assets/Bitcoin_units.webp" alt=""><figcaption></figcaption></figure>
 
-> 💡 Learn more about [Trezor Suite](https://trezor.io/guides/trezor-suite/trezor-suite-desktop/trezor-suite-settings) on the Trezor knowledge base
+> 💡 Learn more about [Trezor Suite](https://trezor.io/guides/trezor-suite/trezor-suite-settings) on the Trezor knowledge base
