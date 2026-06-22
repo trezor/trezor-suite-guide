@@ -65,6 +65,7 @@
     * [Ethereum (ETH) staking](en-us/earn/staking/ethereum-eth-staking.md)
     * [Solana (SOL) staking](en-us/earn/staking/solana-sol-staking.md)
     * [Cardano (ADA) staking](en-us/earn/staking/cardano-ada-staking.md)
+    * [Tron (TRX) staking](en-us/earn/staking/tron-trx-staking.md)
   * [Yield](en-us/earn/yield/README.md)
     * [Deposit stablecoins](en-us/earn/yield/deposit-stablecoins.md)
     * [Withdraw stablecoins](en-us/earn/yield/withdraw-stablecoins.md)
