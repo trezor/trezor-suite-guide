@@ -8,10 +8,10 @@ Cardano staking is available on Trezor Model T, Safe 3, Safe 5, and Safe 7. It i
 
 1. Select your Cardano account in the left sidebar.
 2. Open the **Staking** tab and click **Start staking**.
-3. Confirm the stake key registration on your Trezor device.
-4. Accept the terms and click **Continue**.
+3. Confirm the stake transaction on your Trezor device.
+4. Read and accept the terms and click **Continue**.
 5. Confirm the delegation on your Trezor device.
 
-You can unstake or change your pool at any time from the Staking tab.
+You can **Unstake** your ADA or **Change delegate** at any time from the Staking tab.
 
 > 💡 Learn more about [Staking Cardano (ADA) in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-cardano-ada-in-trezor-suite) on the Trezor knowledge base

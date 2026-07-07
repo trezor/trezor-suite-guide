@@ -7,7 +7,7 @@ Depositing into a Morpho vault takes two separate on-chain transactions: first a
 1. Click **Earn** in the Trezor Suite sidebar and scroll to **Stablecoin yield**.
 2. Find the vault you want (USDC or USDT) and click **Deposit now**.
 3. Read the explainer and click **Continue**.
-4. Accept the Terms of Use and Morpho's Disclaimer, then click **Confirm**.
+4. Read and accept the Terms of Use and Morpho's Disclaimer, then click **Confirm**.
 5. Enter the amount you want to deposit, then click **Approve**.
 6. Choose a spending limit (exact amount or unlimited) and click **Continue**.
 7. Confirm the approval on your Trezor device and wait for it to settle on-chain.

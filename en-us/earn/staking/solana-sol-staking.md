@@ -12,6 +12,16 @@ Solana staking is available on Trezor Model T, Safe 3, Safe 5, and Safe 7.
 6. Check the entry period box and click **Confirm & stake**.
 7. Confirm the transaction on your Trezor device.
 
-You can view your position and unstake from the Staking tab at any time.
+You can view your position and unstake from the **Staking** tab at any time.
+
+#### Unstaking your SOL
+
+To unstake your SOL from Everstake and move it back to Trezor:
+
+1. In the Solana **Staking** tab click **Unstake**.
+2. Set the amount of SOL you’d like to unstake.
+3. Select **Unstake** and confirm the transaction using your Trezor.
+4. Wait for the unstaking period to complete (approximately one 2-day epoch).
+5. Once the unstaking process is finished, go back to the **Staking** tab and click **Claim** to withdraw your SOL to your Trezor.
 
 > 💡 Learn more about [Staking Solana (SOL) in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-solana-in-trezor-suite) on the Trezor knowledge base
