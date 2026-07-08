@@ -16,4 +16,4 @@ Tron staking is available on Trezor Model T, Safe 3, Safe 5, and Safe 7.
 8. On your Trezor, confirm the address and number of votes, then **Hold to confirm.**
 9. Once the transaction is signed, click **Vote** in Trezor Suite.
 
-> Learn more about [Tron (TRX) in Trezor Suite](https://trezor.io/learn/supported-assets/other-cryptocurrencies/tron-what-it-is-and-how-it-works-with-trezor) on the Trezor knowledge base
+> 💡 Learn more about [Tron (TRX) in Trezor Suite](https://trezor.io/learn/supported-assets/other-cryptocurrencies/tron-what-it-is-and-how-it-works-with-trezor) on the Trezor knowledge base
