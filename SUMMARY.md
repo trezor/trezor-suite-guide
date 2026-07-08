@@ -8,7 +8,7 @@
   * [Install firmware](en-us/1_initialize-and-secure-your-trezor/1_install-firmware.md)
   * [Create a Wallet Backup](en-us/1_initialize-and-secure-your-trezor/2_set-up-a-recovery-seed.md)
   * [Set a device PIN](en-us/1_initialize-and-secure-your-trezor/3_set-a-device-pin.md)
-  * [Supported coins](en-us/1_initialize-and-secure-your-trezor/4_supported-coins.md)
+  * [Supported assets](en-us/1_initialize-and-secure-your-trezor/4_supported-coins.md)
   * [Recover a wallet](en-us/1_initialize-and-secure-your-trezor/5_recover-a-wallet.md)
   * [Passphrase](en-us/1_initialize-and-secure-your-trezor/6_passphrase.md)
   * [Multi-share Backup](en-us/1_initialize-and-secure-your-trezor/7_shamir-backup.md)
