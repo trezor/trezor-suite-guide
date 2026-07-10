@@ -6,7 +6,7 @@ The **Localization** menu lets users make quick adjustments to Trezor Suite, all
 
 The following settings can be changed:
 
-* **Language:** Suite is currently available in English, Spanish, German, and French (official translations), plus Czech, Hungarian, Italian, Japanese, and Russian (community translations).
+* **Language:** Suite is currently available in Czech, German, English, Spanish, French, Brazilian Portuguese, Korean and Japanese (Official translations), plus many other languages provided by our Community translators.
 * **Fiat currency:** Switch to local currency, or any other that you prefer.
 * **Bitcoin units:** Display your bitcoin account balances in either BTC or sats.
 
