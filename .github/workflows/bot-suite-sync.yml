@@ -16,7 +16,7 @@ jobs:
     env:
       SUITE_REPO: "trezor/trezor-suite"
       SUITE_BRANCH: "develop"
-      FILEPATH: "./packages/suite-data/src/guide/constants.ts"
+      FILEPATH: "./suite/app-assets/src/guide/constants.ts"
       PR_BRANCH: "chore/update-suite-guide"
       GITHUB_TOKEN: ${{ secrets.TREZOR_BOT_TOKEN }}
 
